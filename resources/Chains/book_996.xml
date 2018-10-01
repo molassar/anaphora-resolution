@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981454" markupID="22136" OntoTechnologyVersion="3.6.9.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode81FF4A5F-4114-4756-863D-F4A88EA9655F">
+		<Basic:identifier xml:lang="ru-RU">администрации больницы Эксетера</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">администрация Королевской больницы Девона и Эксетера</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">руководство клиники</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">администрация Королевской больницы Девона и Эксетера</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode30349D84-9851-4DC0-AB33-5A181256B32A">
+		<Basic:identifier xml:lang="ru-RU">Её</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Женщина</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Медсестре</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Чаплин</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">ей</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">её</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">медсестра Ширли Чаплин</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">она</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">свой</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">медсестра Ширли Чаплин</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode866692A7-0CEF-40D2-AFC0-D0D38BDF1796">
+		<Basic:identifier xml:lang="ru-RU">нательный крест</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">свой нательный крест</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">медсестра нательный кресту</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode07F3D79E-8818-4145-9F3C-FE7515C8E719">
+		<Basic:identifier xml:lang="ru-RU">Королевской больницы Девона и Эксетера</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">больницы Эксетера</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">клиники</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Королевская больница Девона и Эксетера</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6A88A90B-7D66-4D7F-B9BC-17D9EB526568">
+		<Basic:identifier xml:lang="ru-RU">Британский суд</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">апелляционный суд</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">суд</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">апелляционный суд</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode8E24C423-0694-4A66-8B33-3DF3F4C8F9E9">
+		<Aux:document_text xml:lang="ru-RU">Креста на них нет. Британский суд оставил в силе запрет на ношение медработниками нательного креста.  Некоторое время назад 54-летняя медсестра Ширли Чаплин подала в суд иск против администрации больницы Эксетера, которая запретила ей носить на шее нательный крест во время контакта с пациентами. Медсестре было предписано носить свой нательный крест в кармане, а после того как она нарушила приказ, её отстранили от работы с пациентами и перевели в регистратуру. Женщина считает, что руководство клиники, таким образом, нарушило её конституционное право на свободу вероисповедания. Чаплин нашла немало сочувствующих. Её иск поддержали несколько британских епископов, Христианский юридический центр и масса простых верующих.  Несмотря на давление общественности, сообщают «Медновости», апелляционный суд по трудовым вопросам постановил, что администрация Королевской больницы Девона и Эксетера действовала на законных основаниях. Отметим, что действующий в медучреждениях Туманного Альбиона запрет на ношение украшений, включая религиозные символы, введён вовсе не из-за религиозной нетерпимости, а исключительно из соображений гигиены и безопасности. Считается, что цепочки и браслеты являются переносчиками инфекций. Более того, психически нездоровые пациенты во время приступа могут схватить их и причинить вред себе или работнику клиники. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode00B5491F-46B4-4C95-820D-1249DF7EAC3A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6A88A90B-7D66-4D7F-B9BC-17D9EB526568"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode44FDA62B-A2ED-4A59-813A-18A3E5EA6392">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">134</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">156</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode30349D84-9851-4DC0-AB33-5A181256B32A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4E44DB2A-A248-4F6F-B1C4-A281C6216864">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">166</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">169</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6A88A90B-7D66-4D7F-B9BC-17D9EB526568"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC4BB2DF4-C7A1-45FE-8475-E2804E56A448">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode81FF4A5F-4114-4756-863D-F4A88EA9655F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2BC942F3-C97A-4796-84B7-4C3652257C5A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode07F3D79E-8818-4145-9F3C-FE7515C8E719"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode24F31446-8765-48AD-A376-082B434A2F8E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode30349D84-9851-4DC0-AB33-5A181256B32A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDBACCDD6-9312-4E9E-B5A1-2650B50FC7F8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">249</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode866692A7-0CEF-40D2-AFC0-D0D38BDF1796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode90CDB724-0CFB-45BB-BCF2-2175691D734F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">297</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">306</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode30349D84-9851-4DC0-AB33-5A181256B32A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC045E1B0-F675-4531-BF1D-B933EB98894A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">350</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode866692A7-0CEF-40D2-AFC0-D0D38BDF1796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3450342F-A4B8-4B2C-859A-2F8DA12B9C23">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">334</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode30349D84-9851-4DC0-AB33-5A181256B32A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode760B359F-9CAF-4480-923E-9083EC98010A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">382</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode30349D84-9851-4DC0-AB33-5A181256B32A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0645AB53-4E25-43F3-B85A-587E2703281C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">400</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">402</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode30349D84-9851-4DC0-AB33-5A181256B32A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4346EEC6-2A88-4E97-A421-EF7FC018398C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">471</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode30349D84-9851-4DC0-AB33-5A181256B32A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode78FCBA37-5A11-4F63-9DEA-2D46EAB5B23C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">485</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">504</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode81FF4A5F-4114-4756-863D-F4A88EA9655F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF5077DBB-AE6B-4695-86F3-2F6244E03D40">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">497</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">504</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode07F3D79E-8818-4145-9F3C-FE7515C8E719"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFB0197A5-EE5C-4188-B8C4-A77571A5EDF8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">530</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">532</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode30349D84-9851-4DC0-AB33-5A181256B32A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode18C85659-2121-428D-9E6C-280E8466679B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">583</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">589</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode30349D84-9851-4DC0-AB33-5A181256B32A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5A367FC1-6AAA-44E3-8A0A-46CB730C7BE1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">618</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">620</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode30349D84-9851-4DC0-AB33-5A181256B32A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7E71477D-4D2A-4407-902E-F7892886758F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">803</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6A88A90B-7D66-4D7F-B9BC-17D9EB526568"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode39D15243-A167-41C3-BF3D-AB10EC65AC3E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">841</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">893</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode81FF4A5F-4114-4756-863D-F4A88EA9655F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD4B20F60-4852-412E-BB75-9EE18B19941C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">855</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">893</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode07F3D79E-8818-4145-9F3C-FE7515C8E719"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

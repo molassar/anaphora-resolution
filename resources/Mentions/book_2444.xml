@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982902" markupID="21837" OntoTechnologyVersion="3.5.16.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode14A89A18-7185-4BB9-BB04-45056624E17F"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode44BE4FC8-A22D-4FF7-99A2-528FF5960B6B"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode3630191D-03F4-4C60-982E-98BD141B7094"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode62725430-4DF7-4B87-B7C8-5E7B79E3C81F"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeDBF1C21E-496B-415A-A8AE-A8DFAC809428"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode66FE603E-4C66-4B52-9AFD-92D3EC53F3DE"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6F376EAC-BC16-4E84-A916-1853E123AB0A"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode79C10DB5-9A8C-4A39-8AEE-18F7BF03C964"/>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB0F26210-6D81-47EA-B630-7F8DCC23FD0A">
+		<Aux:document_text xml:lang="ru-RU">Ливия принимала участие в Летних Олимпийских играх 2004 года в Афинах (Греция) в восьмой раз за свою историю, но не завоевала ни одной медали. Сборную страны представляли 2 женщины.  Ссылки  База МОК Официальные олимпийские отчёты www.sports-reference.com </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7C14A8A3-5FBF-4E3E-ADB3-841E14159A9F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3630191D-03F4-4C60-982E-98BD141B7094"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDD6EB631-B2EB-4043-AF02-73D4DF8E7636">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode66FE603E-4C66-4B52-9AFD-92D3EC53F3DE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode533346C7-0F86-490A-8B0F-7048F010A761">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode79C10DB5-9A8C-4A39-8AEE-18F7BF03C964"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode87417863-9A82-408C-ACE6-C03EBCC367F0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode62725430-4DF7-4B87-B7C8-5E7B79E3C81F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD72F6DE0-FF9A-43EF-909B-BECBC205DEFF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDBF1C21E-496B-415A-A8AE-A8DFAC809428"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode18AAC551-C427-401A-B236-68D76B07AB2A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode14A89A18-7185-4BB9-BB04-45056624E17F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEF542E0F-DA50-4D55-88B3-7EC81A2A0855">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode44BE4FC8-A22D-4FF7-99A2-528FF5960B6B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA3540619-D7C0-4062-873D-D5CAEA1CF88E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">151</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">157</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6F376EAC-BC16-4E84-A916-1853E123AB0A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

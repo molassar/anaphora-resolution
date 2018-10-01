@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982914" markupID="21837" OntoTechnologyVersion="3.5.16.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode9AB7D5C7-998C-4767-885F-77567ECE62DA"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode24EE0F2F-E6CC-4358-B76B-144D1593952F"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode940971B5-4510-4194-80C4-7CE91F79D817"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode8EB38EAA-5E66-4FFF-AFA6-7C4C43068A31"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode81D27320-586C-4D3C-8180-8386B6AA8A30"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode0C099AE8-873E-4235-8C80-D8D99094FF10"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeF25B047E-D0D5-48D7-A5CF-3357F3F210A3"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode89587B85-6CAC-4208-97C3-E88406445224"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode93AA105F-10A7-44EE-B017-91679F16E350"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode33DF2D32-672C-4976-BD73-7EF968EBA3D5"/>
+	<Aux:TextAnnotations rdf:nodeID="bnode09C7B6EE-E851-4745-B19F-004837F515AC">
+		<Aux:document_text xml:lang="ru-RU">Вчера в поезде оказалось, что за пределами Московской области никакого GPRSa нету, что у Мегафона, что у Билайна. МТСовской симки у меня не было, но полагаю, что и у них то же самое. А я раскатал губу быть онлайн аж до самой Суземки..  А в Украине GPRS есть, только почему-то в пять раз дороже российского. Почему - непонятно. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA3421584-2526-400E-8F2B-27AB5B87EE07">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8EB38EAA-5E66-4FFF-AFA6-7C4C43068A31"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode10D69F30-AA53-4206-9132-E260BF71A0AB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode33DF2D32-672C-4976-BD73-7EF968EBA3D5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode143E0D0A-2069-4158-9562-A273063827E5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">105</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode93AA105F-10A7-44EE-B017-91679F16E350"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode29B3DD0B-894C-479E-8ED0-A8025B744556">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">123</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode940971B5-4510-4194-80C4-7CE91F79D817"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC601FC8E-9698-43BB-9B5B-5E6413474441">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">132</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">136</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode89587B85-6CAC-4208-97C3-E88406445224"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode89B4ADF1-CDC8-4621-BD0D-C026D35B1963">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">166</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">169</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0C099AE8-873E-4235-8C80-D8D99094FF10"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1E055A1A-A8B2-4E06-A903-9ECD23AAD54B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">186</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode89587B85-6CAC-4208-97C3-E88406445224"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE89E6451-3EF8-4D11-9EDF-1CA9983BF6A8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9AB7D5C7-998C-4767-885F-77567ECE62DA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4177039D-DCF7-4BAE-A977-EA817B2AAB0F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">247</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF25B047E-D0D5-48D7-A5CF-3357F3F210A3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode273CF13A-9404-42AA-8DBB-C5F53D103BBE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">252</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode81D27320-586C-4D3C-8180-8386B6AA8A30"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

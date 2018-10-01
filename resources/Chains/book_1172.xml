@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981630" markupID="22136" OntoTechnologyVersion="3.5.16.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeE96A8F65-FD5E-4863-8BC3-0EFF278459FC">
+		<rdfs:label xml:lang="ru-RU">группировка открытых вкладок в группы</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode7AF96F91-17B6-4169-B5FD-C8DDF8A1EE94">
+		<rdfs:label xml:lang="ru-RU">Mozilla Foundation</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC890C2A7-03B1-4184-BA48-AF1799CFB60E">
+		<rdfs:label xml:lang="ru-RU">Firefox 4</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode3D6FB9E5-76F2-4AE3-A570-120DAE1B5459">
+		<Aux:document_text xml:lang="ru-RU">Firefox 4 стал доступен для скачивания Новая версия браузера от Mozilla Foundation работает в несколько раз быстрее предыдущей.  Mozilla Foundation выпустила итоговую версию Firefox 4. Причём загрузить браузер можно уже сейчас. Пользователи могут установить 80 версий Firefox на различных языках, в том числе на русском. По заверению создателей, Firefox 4 работает в несколько раз быстрее предыдущей версии 3.6. Всё дело в новом движке, с помощью которого разработчики увеличили скорость работы сценариев JavaScript. Общая же скорость работы браузера выросла от двух до шести раз.  Кроме того, сообщает  «Лента.ру», Mozilla полностью переработала интерфейс своего браузера. Отныне пользователи могут закрепить отдельные вкладки с самыми посещаемыми страницами в меню. Переключаться между вкладками можно будет, введя запрос в адресную строку, — в этом случае браузер автоматически проанализирует содержимое и откроет нужную вкладку. Также пользователям Firefox стала доступна группировка открытых вкладок в группы. Ранее подобная опция была представлена в браузере Opera.  Напомним, первая бета-версия Firefox 4 была опубликована в июле 2010 года. Последняя перед выходом финального релиза версия, носившая статус релиз-кандидата, появилась в начале марта. Таким образом, публичное тестирование одного из самых популярных браузеров в мире продолжалось более восьми месяцев.  О конкуренции браузеров читайте в статье Частного корреспондента «Войны браузеров: весенняя кампания» </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode66087F86-5C87-49D4-BC0D-29569D55A6A2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC890C2A7-03B1-4184-BA48-AF1799CFB60E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEBD051DB-F0D8-4FCB-9003-EB398FB78F20">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC890C2A7-03B1-4184-BA48-AF1799CFB60E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode04DD0B81-22FF-4EA3-BA90-699456ACB08A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7AF96F91-17B6-4169-B5FD-C8DDF8A1EE94"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode64F85CDB-B092-4427-991F-1A41447E87B3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">129</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7AF96F91-17B6-4169-B5FD-C8DDF8A1EE94"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2A7CB3A3-91A2-4EEE-8A16-2B1928283F78">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">174</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC890C2A7-03B1-4184-BA48-AF1799CFB60E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode67BBE6B7-2BA9-4A82-A6B5-201652D9BA86">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">202</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC890C2A7-03B1-4184-BA48-AF1799CFB60E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA4A9449D-2480-42C4-9860-5B967FC8F36B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">268</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC890C2A7-03B1-4184-BA48-AF1799CFB60E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBF64DCDF-B34F-4F95-A375-077F2A715B59">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">355</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC890C2A7-03B1-4184-BA48-AF1799CFB60E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode84698B5C-C2C0-4BCE-B46D-F02F11DA2D43">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">542</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">550</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC890C2A7-03B1-4184-BA48-AF1799CFB60E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE7D5D8B3-38CE-42B8-812E-112B9CFFF945">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">616</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">623</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7AF96F91-17B6-4169-B5FD-C8DDF8A1EE94"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode53F33569-2068-402F-A662-3C7AE408EB1D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">657</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">663</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7AF96F91-17B6-4169-B5FD-C8DDF8A1EE94"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5C39967E-E2D7-4D03-94F1-CC2A6020B971">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">657</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">672</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC890C2A7-03B1-4184-BA48-AF1799CFB60E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode56AC45C5-F458-4E3B-A725-6B912F824E89">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">859</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">866</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC890C2A7-03B1-4184-BA48-AF1799CFB60E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode90F64D89-CBAD-45D0-B503-C80A652BB0E3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">953</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">960</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC890C2A7-03B1-4184-BA48-AF1799CFB60E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE67D1343-45A0-433B-BE2C-3B46F39578A9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">976</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1013</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE96A8F65-FD5E-4863-8BC3-0EFF278459FC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAB041AB5-1C90-4BF2-ACD1-FC035DF1F0D7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1021</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1035</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE96A8F65-FD5E-4863-8BC3-0EFF278459FC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2F62D1F8-7370-4066-8D08-2505C8560935">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1102</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1111</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC890C2A7-03B1-4184-BA48-AF1799CFB60E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0A7FC79C-69C6-4EBE-B808-1F3139B17C55">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1295</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1338</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC890C2A7-03B1-4184-BA48-AF1799CFB60E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

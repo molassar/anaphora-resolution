@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983140" markupID="22136" OntoTechnologyVersion="3.5.16.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode758CA5B2-3628-4D18-B7B9-2505144FBCE1">
+		<rdfs:label xml:lang="ru-RU">своего</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6472B87B-FE01-457A-9FBF-843C61C6AC80">
+		<rdfs:label xml:lang="ru-RU">автор линейного программирования и единственный российский/советский лауреат Нобелевской премии по экономике</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode3DA84AEB-A98F-476A-8947-B7DB35C4A1F8">
+		<Aux:document_text xml:lang="ru-RU">Леонид Витальевич Канторович  Как-то раз на одном из совещаний на работе начальник вскользь упомянул Леонида Канторовича, я решил что это как раз тот случай, когда стоит задать вопрос каким бы дурацким он не был: "А кто это такой?". На что получил ответ, что это автор линейного программирования и единственный российский/советский лауреат Нобелевской премии по экономике (точнее имени Нобеля). Устыдившсь своего невежества собрал некоторую информацию о нём в Википедии. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode23AACD13-9AB7-41E4-A6F4-66DB736018EC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6472B87B-FE01-457A-9FBF-843C61C6AC80"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode532387B0-B72E-40E5-B58B-0304CB45C242">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">101</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6472B87B-FE01-457A-9FBF-843C61C6AC80"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCAEBA9D8-E2A7-458C-9BCD-653055060552">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">122</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">123</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode758CA5B2-3628-4D18-B7B9-2505144FBCE1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAA0B24FF-60BB-4D75-B96D-27698A77B954">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">263</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">371</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6472B87B-FE01-457A-9FBF-843C61C6AC80"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBE93AE9C-7FB4-460A-91C0-91088AE7E1A3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">406</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode758CA5B2-3628-4D18-B7B9-2505144FBCE1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode363EEB05-219F-4AB3-8D1F-ACC8CBC6D443">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">454</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">457</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6472B87B-FE01-457A-9FBF-843C61C6AC80"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>
