@@ -1,3 +1,4 @@
+from collections import Counter
 from os.path import join
 from os.path import splitext
 from os import listdir
@@ -13,59 +14,52 @@ NS = {'Aux': 'http://www.abbyy.com/ns/Aux#',
 
 
 def init():
-    # process mentions
     mentions_path = join(PATH, MENTIONS_DIR)
+    chains_path = join(PATH, CHAINS_DIR)
     for filename in listdir(mentions_path):
         with open(join(mentions_path, filename)) as f:
-            xml_content = f.read()
-        mentions = process_mentions(xml_content)
+            mentions_content = f.read()
+        with open(join(chains_path, filename)) as f:
+            chains_content = f.read()
+        mentions = parse_xml(mentions_content)
+        chains = parse_xml(chains_content)
+        merged = {**chains, **mentions}
+        merged_sorted_keys = sorted(merged.keys(), key=lambda mention: mention[0])
         output_filename = splitext(filename)[0] + '.txt'
         with open(join(OUTPUT, MENTIONS_DIR, output_filename), 'w+') as f:
-            f.write(mentions)
-    # process chains
-    chains_path = join(PATH, CHAINS_DIR)
-    for filename in listdir(chains_path):
-        with open(join(chains_path, filename)) as f:
-            xml_content = f.read()
-        chains = process_chains(xml_content)
-        output_filename = splitext(filename)[0] + '.txt'
+            count = 1
+            for (start, length) in merged_sorted_keys:
+                merged[(start, length)]['id'] = count
+                f.write('{} {} {}\n'.format(count, start, length))
+                count += 1
+        chains_counter = Counter(list(map(lambda d: d['node_id'], chains.values())))
+        chains_sorted_keys = sorted(chains.keys(), key=lambda chain: chain[0])
         with open(join(OUTPUT, CHAINS_DIR, output_filename), 'w+') as f:
-            f.write(chains)
+            chain_seq_index = {}
+            count = 1
+            for (start, length) in chains_sorted_keys:
+                chain_id = chains[(start, length)]['node_id']
+                chain_len = chains_counter[chain_id]
+                if chain_len <= 1:
+                    continue
+                if chain_id in chain_seq_index:
+                    chain_seq_num = chain_seq_index[chain_id]
+                else:
+                    chain_seq_num = count
+                    chain_seq_index[chain_id] = chain_seq_num
+                    count += 1
+                f.write('{} {} {} {}\n'.format(merged[(start, length)]['id'], start, length, chain_seq_num))
 
 
-def process_mentions(xml_content):
-    entry_list = list()
-    entry_id = 1
+# parse xml content into dict {(start, length): {'node_id': <id>}}
+# each entry corresponds to InstanceAnnotation elem
+def parse_xml(xml_content):
+    entries = {}
     for ann in get_annotations(xml_content):
         instance_ann = ann.find('Aux:InstanceAnnotation', NS)
-        entry_elems = prepare_entry_elems(instance_ann)
-        entry = '{} {} {}'.format(entry_id, *entry_elems)
-        entry_list.append(entry)
-        entry_id += 1
-    return '\n'.join(entry_list)
-
-
-def process_chains(xml_content):
-    chains_dict = dict()
-    new_chain_id = 1
-    raw_entry_list = list()
-    entry_id = 1
-    for ann in get_annotations(xml_content):
-        instance_ann = ann.find('Aux:InstanceAnnotation', NS)
-        entry_elems = prepare_entry_elems(instance_ann)
-        raw_entry = dict(zip(['start', 'length', 'inst_id'], entry_elems))
-        raw_entry['id'] = entry_id
-        inst_id = raw_entry['inst_id']
-        if inst_id not in chains_dict:
-            chains_dict[inst_id] = {'id': new_chain_id, 'count': 1}
-            raw_entry['chain_id'] = new_chain_id
-            new_chain_id += 1
-        else:
-            raw_entry['chain_id'] = chains_dict[inst_id]['id']
-            chains_dict[inst_id]['count'] += 1
-        raw_entry_list.append(raw_entry)
-        entry_id += 1
-    return '\n'.join(postprocess_chain_entries(raw_entry_list, chains_dict))
+        start, length, node_id = prepare_entry_elems(instance_ann)
+        entries[(start, length)] = {'node_id': node_id}
+    return entries
 
 
 def get_annotations(xml_content):
@@ -80,12 +74,6 @@ def prepare_entry_elems(instance_ann):
     instance = instance_ann.find('Aux:instance', NS)
     instance_id = instance.attrib['{{{}}}nodeID'.format(NS['rdf'])]
     return start, end - start, instance_id
-
-
-def postprocess_chain_entries(entry_list, chains_dict):
-    filtered_entries = [entry for entry in entry_list if chains_dict[entry['inst_id']]['count'] > 1]
-    return list(map(lambda entry: '{} {} {} {}'.format(entry['id'], entry['start'], entry['length'], entry['chain_id']),
-                    filtered_entries))
 
 
 init()
