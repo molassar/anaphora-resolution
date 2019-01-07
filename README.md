@@ -1,3 +1,3 @@
 # anaphora-resolution
 
-Create environment (platform Linux-64): `conda env create --file anres-env.txt` 
+Create environment (Linux-64 platform): `conda env create --file anres-env.txt` 
