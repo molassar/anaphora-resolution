@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982787" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode12869F5B-BF7E-42E3-8451-A46BB9CD6FB2">
+		<Basic:identifier xml:lang="ru-RU">Пенсильвания</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">штате Пенсильвания</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">штате Пенсильвания</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode0F5D3216-A1D2-4A9E-B5C6-6417D969CD6F">
+		<Basic:identifier xml:lang="ru-RU">США</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">США</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode7D74CCF9-712B-49F4-A9D4-A670718C6ACA">
+		<Basic:identifier xml:lang="ru-RU">Портману</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">он</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">своим мэром Кристофером Портманом</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">своим мэром Кристофером Портманом</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode66F83EDB-7F16-4437-A693-5B3ED6979CF8">
+		<Basic:identifier xml:lang="ru-RU">Mercer</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Город</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Мёрсер</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">своим</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">штате Пенсильвания</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">штате Пенсильвания</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeAADA4F1A-7AB6-40ED-9E24-82D34A4954E5">
+		<Aux:document_text xml:lang="ru-RU">Мёрсер (Пенсильвания)  Эта статья о городе в штате Пенсильвания; другие значения: Мёрсер.  Мёрсер (англ. Mercer) — небольшой американский город в штате Пенсильвания. Главный город одноимённого округа. Население — 2 391 жителей (данные переписи 2000 года).  Мёрсер — родина художника XIX века Сэмюела Во и современного музыканта Трента Резнора, лидера группы Nine Inch Nails. Город также известен своим мэром Кристофером Портманом — одним из самых молодых в США. Портману было восемнадцать, когда он победил на выборах, и девятнадцать в январе 2002 года в момент принятия присяги. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3F90C0E2-A282-4DF9-A628-03C72DAB3CA8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode66F83EDB-7F16-4437-A693-5B3ED6979CF8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2BEA0245-A828-415B-B93A-DFE5C6DB8522">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode12869F5B-BF7E-42E3-8451-A46BB9CD6FB2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAC3CEFDE-492B-4095-B179-7A576A010290">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode66F83EDB-7F16-4437-A693-5B3ED6979CF8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode656B6AFB-02C9-410D-8E8E-4B443AAD9A6E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode66F83EDB-7F16-4437-A693-5B3ED6979CF8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode18EC0139-71E4-4794-86D6-587B65C7BB15">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">105</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode66F83EDB-7F16-4437-A693-5B3ED6979CF8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1BDC62DC-9BD6-455C-B7E7-6B188C2ACD39">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">137</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0F5D3216-A1D2-4A9E-B5C6-6417D969CD6F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode176DF256-6034-4220-BC37-617BE99C8EE0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">146</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">164</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode12869F5B-BF7E-42E3-8451-A46BB9CD6FB2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6D46BE84-245A-4C91-809B-08AF932708D4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">257</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">263</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode66F83EDB-7F16-4437-A693-5B3ED6979CF8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB49419EF-B233-4176-8F9C-6F21CBFFDF8F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">380</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode66F83EDB-7F16-4437-A693-5B3ED6979CF8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEDC3F853-1EB5-4357-ABA3-1CB6941BDF39">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">429</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7D74CCF9-712B-49F4-A9D4-A670718C6ACA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode31CD6502-0313-4142-B960-A16BEF38BA4F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">401</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode66F83EDB-7F16-4437-A693-5B3ED6979CF8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode25CFFD65-7D0B-4F26-8594-3115E53CB971">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">457</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">460</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0F5D3216-A1D2-4A9E-B5C6-6417D969CD6F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode12207DB0-8939-4A7C-8589-88AFEDE82653">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">462</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">470</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7D74CCF9-712B-49F4-A9D4-A670718C6ACA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB63F6DAA-0481-4E99-8090-B0A4BC0C7161">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">496</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">498</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7D74CCF9-712B-49F4-A9D4-A670718C6ACA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983205" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeEAF8764B-6715-4B07-8311-ACB7D9FB4399">
+		<Basic:identifier xml:lang="ru-RU">его</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">книжку "Порри Гаттер и Каменный Философ"</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">книжку "Порри Гаттер и Каменный Философ"</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB183EFB8-2120-4F6D-9EBE-D2B394890590">
+		<Aux:document_text xml:lang="ru-RU">Порри Гаттер  Сестра подсунула книжку "Порри Гаттер и Каменный Философ".  Нет, конечно это не литература.. но местами очень смешно :)  Скорее всего я не буду читать его второй раз, и продолжений тоже искать не стану - к концу стиль авторов чуть поднадоел.. Хотя может и буду ;) Но, в любом случае, всем рекомендую! </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF097F2C2-0FBF-45D7-828B-3F498C6C1D81">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEAF8764B-6715-4B07-8311-ACB7D9FB4399"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCC207C62-DB2F-47C8-8029-3796C0CB0717">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEAF8764B-6715-4B07-8311-ACB7D9FB4399"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB74D7B4C-73BD-4854-BE48-083BCAE84CF5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">165</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEAF8764B-6715-4B07-8311-ACB7D9FB4399"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

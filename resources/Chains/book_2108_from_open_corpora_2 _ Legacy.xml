@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982566" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeFE124A3C-519D-4332-9907-08860996DEBF">
+		<Basic:identifier xml:lang="ru-RU">их</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">товары</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">товары</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeF26679D9-4B99-4187-B93D-1428EC5947F7">
+		<Basic:identifier xml:lang="ru-RU">Ответственность за уплату таможенных платежей</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Ответственность за уплату таможенных платежей</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode56E28C6E-4A2F-4F4E-8F12-EAD04CE421EE">
+		<Aux:document_text xml:lang="ru-RU">Статья 85. Ответственность за уплату таможенных платежей  Ответственность за уплату таможенных платежей несет лицо, которое ввезло товары в свободную таможенную зону или поместило их на свободный склад. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8776C32C-9A42-4CE7-B5B0-79347928D972">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF26679D9-4B99-4187-B93D-1428EC5947F7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode400E6F20-C5F6-4A60-BC10-B91C96CE7C3E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">103</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF26679D9-4B99-4187-B93D-1428EC5947F7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF50BC0A2-E4C6-49E3-9B0F-44B0A9C427ED">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">137</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFE124A3C-519D-4332-9907-08860996DEBF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7EFAA634-338E-4427-8300-DBAD587CEAE1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">182</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFE124A3C-519D-4332-9907-08860996DEBF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983501" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode422D171F-DBF0-43D6-A5D0-5FBC9BABAE72"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode01AB5D3D-FAAC-4A94-AFB5-AD311E54C170"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode71460B68-31FD-4E58-ADE7-E01450B3C359"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeF4C1F4B9-CDBE-4204-9DE8-F37D867E8040"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC92CFF9B-2A33-481E-A86E-3030704886B9"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB66BF28E-59EA-4486-948B-3D15ECD3ED1C"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6858316F-03AD-4A4D-B7B5-A7D0B24E738B"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeF903418B-DF23-4122-99F6-109595EEF921"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode11F579DD-BFC4-4D95-946E-A1DAA409D170"/>
+	<Aux:TextAnnotations rdf:nodeID="bnodeCCD793C3-995A-4821-B94C-653582ECD1B4">
+		<Aux:document_text xml:lang="ru-RU">Домовый муравей-вор  Домовый муравей-вор (лат. Solenopsis fugax или лат. Diplorhoptrum fugax) — вид муравьёв трибы Solenopsidini.  Характеристика  Очень мелкие — 1-3 мм ☿(рабочий), яркого желтого цвета. Самки достигают 5-6 мм, темно-коричневого цвета.  Образуют моногинные семьи, полиморфизм рабочих слабо выражен. Обитают либо свободно, либо в пределах муравейников более крупных муравьев (главным образом, Formica и Lasius), питаясь за их счет, похищая яйца и мелких личинок (клептобионт). Из-за мелких размеров постройки/проходы гнезда незаметны, обитают в естественных полостях почвы, фураж осуществляют в почве и листовом опаде. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode04801ED8-5CBA-4BA6-89E3-16E9A5A79931">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11F579DD-BFC4-4D95-946E-A1DAA409D170"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode899854E9-ACCB-43C1-84E6-3EB5B293686A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF903418B-DF23-4122-99F6-109595EEF921"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB259CCF8-A5FD-47E7-B098-9FF18ACA10F5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6858316F-03AD-4A4D-B7B5-A7D0B24E738B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD4BC159C-C71D-481E-AFD1-99D1447E9E07">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">92</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB66BF28E-59EA-4486-948B-3D15ECD3ED1C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1C75DE63-D40C-4F0F-A6F2-E6BA36350075">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC92CFF9B-2A33-481E-A86E-3030704886B9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode25B504DD-3A04-4AF7-A507-37A2A7DCD627">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">367</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF4C1F4B9-CDBE-4204-9DE8-F37D867E8040"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode63B1A085-D14E-4422-9484-5BCD30778B1E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">408</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">415</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode71460B68-31FD-4E58-ADE7-E01450B3C359"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode66D585FC-247B-47FD-97A3-F1D9DCDE4297">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">418</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">424</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode01AB5D3D-FAAC-4A94-AFB5-AD311E54C170"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9F2C7C42-71A8-4CB3-9D07-086C5112998D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">438</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">440</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode422D171F-DBF0-43D6-A5D0-5FBC9BABAE72"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

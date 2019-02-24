@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983520" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode10E9DC61-3B76-48D0-A999-DC8161D1ABFC">
+		<Basic:identifier xml:lang="ru-RU">Emelie Öhrstig</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Эмели Эрстиг</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Emelie Öhrstig</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode02B79109-968A-47F5-9E54-BD4D99728A66">
+		<Aux:document_text xml:lang="ru-RU">Эмели Эрстиг (швед. Emelie Öhrstig) (род. 27 февраля 1978 года) — известная шведская лыжница, чемпионка мира 2005 года.  Спортивная карьера  Высшим достижением Эмели Эрстиг является победа на чемпионате мира 2005 года в Оберстдорфе в индивидуальном спринте.  Эмели Эрстиг являлась участницей Олимпиады 2006 года в Турине, где заняла 22 место в индивидуальном спринте.  Лучшим результатом на этапах Кубка мира является 4 место в индивидуальном спринте и 2-е в командном. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD4BC173D-8C37-4858-9C15-E025500593C0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode10E9DC61-3B76-48D0-A999-DC8161D1ABFC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode21BDE379-6845-4F98-8A8A-4000DACD091C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode10E9DC61-3B76-48D0-A999-DC8161D1ABFC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode256C3C80-2964-4273-A625-8113DCCCACA1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">172</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode10E9DC61-3B76-48D0-A999-DC8161D1ABFC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAB8A67CC-147F-4B8F-90FB-EF2581809D22">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">259</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode10E9DC61-3B76-48D0-A999-DC8161D1ABFC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

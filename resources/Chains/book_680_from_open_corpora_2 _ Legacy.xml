@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981138" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode2081CB0E-34DF-44A0-9151-727512830F46">
+		<rdfs:label xml:lang="ru-RU">удостоверения</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode101B58C5-55E0-4894-A615-28E3AF906819">
+		<rdfs:label xml:lang="ru-RU">слово "милиция"</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeFE48DA3B-902D-49CD-96FC-C9DE8E97CC9E">
+		<rdfs:label xml:lang="ru-RU">милиция</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA697219C-C606-4F44-AFEE-6FDB8D96E306">
+		<Basic:identifier xml:lang="ru-RU">МВД</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">МВД</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA6F9FF6C-9CD9-42E5-B957-C0C75DFA5B4F">
+		<Basic:identifier xml:lang="ru-RU">ведомства</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">ведомство</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6E6693DB-6D33-41F4-8567-C4BA966557A7">
+		<Basic:identifier xml:lang="ru-RU">министерства</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">переименование</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode89EC3A73-1433-48BF-81A5-8D3EEED15A8E">
+		<Aux:document_text xml:lang="ru-RU">Разговор по понятиям. Расходы на преобразование милиции в полицию в МВД оценили в 2,2 млрд рублей.  Реформа силового ведомства обойдётся стране примерно в 2,2 млрд рублей. Об этом заявила глава финансового управления МВД Светлана Перова. При этом только на само переименование министерства (производство новых табличек) необходимо 500 млн рублей! Затраты на оформление прав собственности зданий полиции, переводимых из региональной собственности в федеральную, составят ещё 700 млн рублей. Дороже всего обойдутся новые полицейские жетоны — 1 млрд рублей (по тысяче рублей за штуку). Предполагается, что расходы на переименование ведомства будут учтены в бюджете на будущий год.  Как сообщают «Ведомости», переписывать милицейские служебные удостоверения в МВД не станут, поскольку корочки автоматически поменяют по истечении срока их действия. Бланков со словом «милиция» в документообороте ведомства не так много, поскольку в названиях подразделений оно почти не используется. Правда, придётся переименовать ОМОН в ОПОН, а ОМСН в ОПСН. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7B1B459C-8AB0-45EF-A558-52FD9EB5FC0B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFE48DA3B-902D-49CD-96FC-C9DE8E97CC9E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF57BB201-0681-4813-A953-D8495B707F06">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFE48DA3B-902D-49CD-96FC-C9DE8E97CC9E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC2679D2A-92C9-42F6-828D-F27EB4958CA1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA697219C-C606-4F44-AFEE-6FDB8D96E306"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0D0E0C13-E5F7-4FD7-9EB6-31D8986DBEA0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA697219C-C606-4F44-AFEE-6FDB8D96E306"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3C3F3BF5-F880-42F9-B5EB-EC24EC893879">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">257</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">289</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6E6693DB-6D33-41F4-8567-C4BA966557A7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0D81A3B4-7606-4277-A188-022693DDF881">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">395</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">402</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFE48DA3B-902D-49CD-96FC-C9DE8E97CC9E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3BE222AB-B067-4411-BB2F-F92C4752442C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">614</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">638</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6E6693DB-6D33-41F4-8567-C4BA966557A7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5087A1C9-20AC-4D76-B7E5-D1D6D18D5695">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">629</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">638</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA6F9FF6C-9CD9-42E5-B957-C0C75DFA5B4F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode751DCE01-7FF3-45F9-B379-91082B9E56BA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">718</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">753</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2081CB0E-34DF-44A0-9151-727512830F46"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4E95224F-A8EE-41C2-9A04-A354B81E73CA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">756</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">759</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA697219C-C606-4F44-AFEE-6FDB8D96E306"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF0526554-411C-4D88-B32D-3D59CFCBBA25">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">781</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">788</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2081CB0E-34DF-44A0-9151-727512830F46"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeADE82954-F9BE-408F-98B9-B79A94DFE9C1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">831</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">833</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2081CB0E-34DF-44A0-9151-727512830F46"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDF215BB3-54F9-47AF-9C1A-D2B2C059987B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">855</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">871</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode101B58C5-55E0-4894-A615-28E3AF906819"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode620263B7-2817-4442-B3F4-AB06E7B67F9E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">891</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA6F9FF6C-9CD9-42E5-B957-C0C75DFA5B4F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2318A6DB-60ED-45A2-900F-248AD3EAB055">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">951</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">954</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode101B58C5-55E0-4894-A615-28E3AF906819"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

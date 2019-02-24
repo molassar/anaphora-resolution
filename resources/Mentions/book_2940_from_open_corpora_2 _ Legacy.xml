@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983398" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode805998F1-1C87-4D6A-8F8E-9EF21F21F235"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode3E361A18-D77A-48DB-A3D3-AF6BD074E365"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeFDF0AD21-7BF2-4ED0-9934-6ACE98DB8B62"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeF2CE537A-2975-4E95-B709-8EFBC396A46A"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode76FC9601-A829-4390-ACB6-967038EE5B25"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode32BC3DBE-4679-4CF5-8E40-855D8C879CAC"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode4B731C5E-87C5-4662-A5C0-7576C80B652C"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode79C7CE5A-85E6-4DA4-8130-056C37B621F8"/>
+	<Aux:TextAnnotations rdf:nodeID="bnodeCA6B62A4-887E-4867-A0A7-C7B8B9AF6A13">
+		<Aux:document_text xml:lang="ru-RU">Red Bull Flugtag  «Red Bull Flugtag» — чемпионат самодельных летательных аппаратов.  Проводится с 1991 года при спонсорстве компании Red Bull как часть маркетингового проекта владельца Red Bull Дитриха Матешица.  В России чемпионат проходил впервые в 2009 году в Строгинской Пойме. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode84712342-66B9-4625-B8C3-669511E102B9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode79C7CE5A-85E6-4DA4-8130-056C37B621F8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBE3EAAF3-B963-4CA7-9ABA-EE9F8E98E730">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4B731C5E-87C5-4662-A5C0-7576C80B652C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBDC03BE3-465C-4AAF-A3C6-A1170F19203C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode32BC3DBE-4679-4CF5-8E40-855D8C879CAC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8646A0EE-EF4E-47CB-886B-AC6D483967DD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">141</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode76FC9601-A829-4390-ACB6-967038EE5B25"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9A1752EE-5A80-4E76-92A7-93E590416AF6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">175</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF2CE537A-2975-4E95-B709-8EFBC396A46A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB5737A99-C4EF-422D-A0D7-1247F0155793">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">215</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">221</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFDF0AD21-7BF2-4ED0-9934-6ACE98DB8B62"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode16D051B9-C965-49AC-98D2-BA0536AD516A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">222</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">231</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3E361A18-D77A-48DB-A3D3-AF6BD074E365"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0F66546F-EAEC-439D-98AF-E1B38208054C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">263</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">280</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode805998F1-1C87-4D6A-8F8E-9EF21F21F235"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

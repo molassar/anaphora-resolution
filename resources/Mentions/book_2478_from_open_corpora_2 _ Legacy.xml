@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982936" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode5C0B2834-7D9A-4554-B9F3-6957D6241E04">
+		<Basic:identifier xml:lang="ru-RU">Израиля</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Израиль</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeD9A91029-2C61-481A-AC99-F9BB3790B914">
+		<Basic:identifier xml:lang="ru-RU">мой</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">мой</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode7B12AE7A-2AF0-4887-B7C4-27CEE3B63B3A">
+		<Basic:identifier xml:lang="ru-RU">Мы</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Мы</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeEAC47CD2-9AC6-4D77-BFAE-13E8914434D5">
+		<Basic:identifier xml:lang="ru-RU">я</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">я</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode7219CAD7-251F-454C-88D2-3916983047B6">
+		<Basic:identifier xml:lang="ru-RU">Дальнего Востока</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Дальнего Востока</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE51703A6-6BC7-42DC-9A46-D4606E757148">
+		<Aux:document_text xml:lang="ru-RU">Там масса недорогих гостиниц, море израильтян, русских и туристов с Дальнего Востока, я так и не определил - вроде бы, корейцы. Мы там останавливались в 97-м, в мой первый выезд за границу из Израиля. Боже, сколько ж там народу было в такие часы... </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode02D45CDA-423F-42B7-8E4A-E5E42BD9BF5D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7219CAD7-251F-454C-88D2-3916983047B6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode121EA2EA-1E3C-41DD-AA2F-6070C29F0BE9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEAC47CD2-9AC6-4D77-BFAE-13E8914434D5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDC845372-D39A-43D2-9F4B-864AED16BA3B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7B12AE7A-2AF0-4887-B7C4-27CEE3B63B3A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode60634649-07E6-4163-B8AC-65D7A3EB8897">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">161</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">164</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD9A91029-2C61-481A-AC99-F9BB3790B914"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeECFFA540-9B7F-4BD3-8F30-583CE575D5EB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">192</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">199</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5C0B2834-7D9A-4554-B9F3-6957D6241E04"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="980795" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeF68DD6AF-EF74-4DC1-8AB7-407422B49B0E">
+		<Basic:identifier xml:lang="ru-RU">Лахора</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Лахоре</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Лахора</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB14B0DC5-0F29-4269-87C5-1B8DEDD9E02A">
+		<Basic:identifier xml:lang="ru-RU">Дом Бхутто в Лахоре</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">дом</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Дом Бхутто в Лахоре</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode8549B34A-73D5-416E-A0FE-81F081CB4962">
+		<Basic:identifier xml:lang="ru-RU">Пакистана</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Пакистане</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Пакистана</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode51F36901-C72F-4BC8-89EC-64323705F3F2">
+		<Basic:identifier xml:lang="ru-RU">Бхутто</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Она</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Экс-премьера Пакистана Беназир Бхутто</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Экс-премьера Пакистана Беназир Бхутто</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode642278E8-E9B7-4DC6-917E-7A329D00D6F1">
+		<Basic:identifier xml:lang="ru-RU">запланированную манифестацию</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">марш протеста из Лахора в Исламабад</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">митинга против введения чрезвычайного положения</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">митинга против введения чрезвычайного положения</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode39460459-9D42-40BE-A8C7-D0B172B2D2F8">
+		<Aux:document_text xml:lang="ru-RU">Экс-премьера Пакистана Беназир Бхутто вновь взяли под домашний арест за несогласование митинга против введения чрезвычайного положения с властями. Дом Бхутто в Лахоре оцеплен полицией. Она не имеет права покидать дом в течение 7 дней, она не сможет возглавить запланированную манифестацию против чрезвычайного положения в Пакистане.  Ранее заявлялось, что марш протеста из Лахора в Исламабад, запланированный сторонниками Бхутто, который должен был начаться во вторник, является незаконным. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB5F77CB1-09CA-4FCA-8764-D5D425FC53C2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode51F36901-C72F-4BC8-89EC-64323705F3F2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode77796CAA-74E7-4A99-850B-7E78109864F6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8549B34A-73D5-416E-A0FE-81F081CB4962"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8B64A583-7385-4EA3-9B25-3A00B5B8E346">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">134</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode642278E8-E9B7-4DC6-917E-7A329D00D6F1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode63D46F7D-1850-457B-B266-8138E0179E38">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">166</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB14B0DC5-0F29-4269-87C5-1B8DEDD9E02A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode68EB7994-CDAC-4E97-A04A-8303D8AD9CC6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">151</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">157</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode51F36901-C72F-4BC8-89EC-64323705F3F2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA0C975BF-EF4D-4538-9333-E0FDBB65E0BA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">166</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF68DD6AF-EF74-4DC1-8AB7-407422B49B0E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7ABCC658-9D92-416D-899B-73097A874B9A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">188</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode51F36901-C72F-4BC8-89EC-64323705F3F2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1C4C471A-AF04-4A51-B704-D127FC2B1278">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">216</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB14B0DC5-0F29-4269-87C5-1B8DEDD9E02A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode571FEAB1-92D4-46E9-8384-DBADFBA85904">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">238</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode51F36901-C72F-4BC8-89EC-64323705F3F2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode39AFCED6-6201-4ACB-A050-FCC323EE21AB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">260</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">331</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode642278E8-E9B7-4DC6-917E-7A329D00D6F1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode25E5C0F9-47BA-40EE-9647-FC3A12016AF3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">322</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">331</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8549B34A-73D5-416E-A0FE-81F081CB4962"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2E0E64D8-E5B9-494A-A936-0B9CF9D9ED11">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">356</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">391</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode642278E8-E9B7-4DC6-917E-7A329D00D6F1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode03112A11-7070-4A85-A1A8-2BCCB8DAC169">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">373</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF68DD6AF-EF74-4DC1-8AB7-407422B49B0E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAB733A89-9239-4F7F-9525-5A6DD3B642A0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">422</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">428</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode51F36901-C72F-4BC8-89EC-64323705F3F2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

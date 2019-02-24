@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982303" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode156B20D6-41B0-4F3A-B025-FDF6A74492A7">
+		<Basic:identifier xml:lang="ru-RU">судом</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">судом</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode61ABB7E7-4FA5-4834-A315-FEB859A00C9C">
+		<Basic:identifier xml:lang="ru-RU">супруга</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">супруга, объявленного умершим или признанного безвестно отсутствующим</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">супруга, объявленного умершим или признанного безвестно отсутствующим</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode7670A797-FB88-4A09-88E5-51AB5BFCC0E6">
+		<Basic:identifier xml:lang="ru-RU">явки супруга, объявленного судом умершим или признанного судом безвестно отсутствующим</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">явки супруга, объявленного умершим или признанного безвестно отсутствующим</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">явки супруга, объявленного судом умершим или признанного судом безвестно отсутствующим</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeDB2CE6A8-2CCC-4E8D-AE06-1375080FF031">
+		<Basic:identifier xml:lang="ru-RU">Брак</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">брак</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">брака</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">брака</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeA98F4C7E-2224-496E-9BA9-F59537080A26">
+		<Aux:document_text xml:lang="ru-RU">Статья 26. Восстановление брака в случае явки супруга, объявленного умершим или признанного безвестно отсутствующим  1. В случае явки супруга, объявленного судом умершим или признанного судом безвестно отсутствующим, и отмены соответствующих судебных решений брак может быть восстановлен органом записи актов гражданского состояния по совместному заявлению супругов.  2. Брак не может быть восстановлен, если другой супруг вступил в новый брак. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCD17818E-7916-4E39-B855-86656F9B0CCF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB2CE6A8-2CCC-4E8D-AE06-1375080FF031"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode334A4608-4E8F-4239-ACB7-A5A0E4F758E9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7670A797-FB88-4A09-88E5-51AB5BFCC0E6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8A4D705B-E818-42E2-93C6-86CFF72F302D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode61ABB7E7-4FA5-4834-A315-FEB859A00C9C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAE1D8AB1-3AF7-4688-B1E2-7801ECF23A87">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">129</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">215</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7670A797-FB88-4A09-88E5-51AB5BFCC0E6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEDF84D14-507B-4719-9C7B-ADBF967308CB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">134</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">215</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode61ABB7E7-4FA5-4834-A315-FEB859A00C9C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4B824AA2-6216-4F24-B4F2-6BCF19589C09">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">156</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">161</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode156B20D6-41B0-4F3A-B025-FDF6A74492A7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode127057C0-2CEE-4678-BD79-CDEB438D9987">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">186</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode156B20D6-41B0-4F3A-B025-FDF6A74492A7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4AEE9F0A-BE1F-4D68-895E-9AECDD8C8868">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">259</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">263</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB2CE6A8-2CCC-4E8D-AE06-1375080FF031"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD60F9E0B-8025-41E7-AB07-3B8A2886F97E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">371</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDB2CE6A8-2CCC-4E8D-AE06-1375080FF031"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

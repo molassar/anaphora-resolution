@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983293" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode7C77EDD1-C86E-4DAE-B5B9-31DA9AE2A135">
+		<Basic:identifier xml:lang="ru-RU">"важное"</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">вот это "важное"</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">вот это "важное"</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796">
+		<Basic:identifier xml:lang="ru-RU">Я</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">моей</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">свое</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">свои</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">меня</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA92C6FA2-A4AF-46B7-ABFA-CB0AAE468908">
+		<Basic:identifier xml:lang="ru-RU">фотографии эти</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">фотографий разной степени давности</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">фотографий разной степени давности</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode49449072-892B-4715-B2B5-1CE65B2ACFD0">
+		<Basic:identifier xml:lang="ru-RU">Ты</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">ты</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Ты</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode7EAF3962-4392-41C1-B2B9-4AFE053AB6D4">
+		<Basic:identifier xml:lang="ru-RU">все это</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">все это</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeDD53107B-280A-4144-A6B7-B4FE2D5D9467">
+		<Aux:document_text xml:lang="ru-RU">копить бумаги по архивам  Продолжаю усилия по оптимизации гнездышка. Сегодня руки дошли до того, что называется Архив. А там, среди школьных тетрадок и фотографий разной степени давности, чего только не нашлось. И календарь, который ты изготовила специально для меня ко дню рожденья; и ваша коллективная поздравительная открытка; и любовные письма, которые ты писал мне лет в восемнадцать; и записка, которую ты оставила у меня на холодильнике; и книжка, которую ты мне подарил "в робкой надежде на дельнейшее поумнение"; и программа конференции "актуальные проблемы внегалактической астрономии"; и ваш "забор" лежит, никуда не делся. И не отпирайся пожалуйста, у меня есть вещественные доказательства.  От всего этого, такая тоска берет, если честно. Я еще так молода, а у меня уже столько прошлого. Хочется заказать грузовик и вывезти все это в макулатуру. Ты не обижайся, мне очень интересно, куда ты делась и что с вами со всеми сталось, и письма твои я регулярно, раз в пять лет, перечитываю. Но я не люблю свое прошлое и себя в прошлом. И фотографии эти никогда не смотрю.  Ни одной бумажки я не выкинула. То что написано и нарисовано чужой рукой не выкидывается, потому что не выкидывается. То, что моей... хорошо бы перед выкидываением все это перечесть. Я это уже проделывала несколько лет назад, когда переезжала. Сожгла тогда все свои дневники, осталось только "важное". И вот это "важное" можно было бы проредить, но не хочется. Пусть пока так полежит.  Кстати, в результате оптимизации освободился книжный шкаф в хорошем состоянии, без рессор, вывезен в двеннадцатом году из Парижа. Никому не надо? </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode687F030D-A571-43B2-9AD0-9E86DD541F76">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">117</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7EAF3962-4392-41C1-B2B9-4AFE053AB6D4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBC3D71C9-B1C8-499F-AEEE-792DF143EC54">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">152</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">186</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA92C6FA2-A4AF-46B7-ABFA-CB0AAE468908"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8D912DF3-2935-4B26-8785-8EAEF8468CC8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">262</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">266</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode43325AE8-4D03-4400-A31B-FEE9A4D071FA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">366</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">369</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC55B2F9F-3147-4320-A466-C554F44DAA3B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">423</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">427</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1ED3259E-D536-4E52-B33F-89EBD0F2F478">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">466</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">469</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8BE5624C-B09E-44AF-BB89-E75A0888F21B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">664</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">668</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5F5E7C78-29CA-483B-8963-A0386D9C8EC2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">752</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">753</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF5CA84F9-B91E-4EE3-8F25-9A99E3D277FB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">774</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">778</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEEA19E69-0C05-4868-839E-4AF36EB61EDF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">837</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">844</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7EAF3962-4392-41C1-B2B9-4AFE053AB6D4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode373CB791-7457-402F-B270-234AE3150A6D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">859</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">861</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode49449072-892B-4715-B2B5-1CE65B2ACFD0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2A4E6A20-7F54-4095-A4FC-7417C1F94F22">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">875</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">878</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode74FBAE14-6BC7-4C50-8361-340A67ED5A09">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">901</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">903</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode49449072-892B-4715-B2B5-1CE65B2ACFD0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBC9BBAE1-2172-4818-8408-DA7A3CD056FA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">956</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">957</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD805198B-846C-4B11-822C-8DC658AA0F14">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1001</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1002</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode97127489-EE39-443D-8217-C813DD8D583C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1012</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1016</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode065A7DCC-16E7-4B62-A695-8CA592443242">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1045</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1059</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA92C6FA2-A4AF-46B7-ABFA-CB0AAE468908"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA276B33C-05DD-40CC-98B4-0C5CBE1D292F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1097</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1098</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode33CB177A-E8AB-4E8B-A654-B32DB1DC354C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1206</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1210</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode756D5D8F-C7E1-438F-B3BE-5C30088DC85D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1263</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1264</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1075283A-C961-41C3-8663-2C5A4ED7A86F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1341</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1345</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode11894B59-14E4-421A-8947-032659633796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEE5B46C4-17B9-4EEC-B065-8764BAFBCA76">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1372</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1380</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7C77EDD1-C86E-4DAE-B5B9-31DA9AE2A135"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCD73FE96-E9BD-4DD7-8990-EF2C34324631">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1384</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1400</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7C77EDD1-C86E-4DAE-B5B9-31DA9AE2A135"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

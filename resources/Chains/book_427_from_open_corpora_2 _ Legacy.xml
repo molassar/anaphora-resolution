@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="980885" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode7BBA77C2-062F-4EC6-923D-3841803783D8">
+		<Basic:identifier xml:lang="ru-RU">Корсен</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Корсену</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Султан</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Турецкий «дядя Стёпа»</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">которого</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">моей</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">самый высокий человек на планете</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">своего</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">свой</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">турку Султану Косену</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">я</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">самый высокий человек на планете</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode21D83EF5-6599-4C25-AEF4-3B83B3A377F5">
+		<Basic:identifier xml:lang="ru-RU">27-летний житель Поднебесной Дзяо Лянга</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">ему</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">китайца</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">своему</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">27-летний житель Поднебесной Дзяо Лянга</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode3E0768C1-A484-4B53-8EF2-1BD1D4F67CAD">
+		<Aux:document_text xml:lang="ru-RU">Турки отобрали рекорд у китайцев. Самый высокий человек на планете теперь проживает в Анкаре.  Недолго радовался 27-летний житель Поднебесной Дзяо Лянга своему почётному званию самого высокого человека в мире. На днях ему пришлось уступить в прямом смысле высокий титул турку Султану Косену, рост которого на целый сантиметр выше, чем у китайца и составляет 2 метра 47 сантиметров. Турецкий «дядя Стёпа» сейчас находится в Лондоне, где официально регистрирует свой рост в Книге рекордов, передаёт «Первый канал».  Корсен рассказывает, что с детства был рослым мальчиком. Сначала это было удобно – Султан считался лучшим в баскетбольной команде. Однако вскоре пришлось оставить любимую игру, поскольку суставы попросту не выдерживали непомерной нагрузки. Вскоре стали очевидны и другие недостатки исполинского роста – пришлось не только за большие деньги шить одежду и обувь на заказ, но и передвигаться в основном пешком – общественный транспорт оказался Корсену не по размеру. Тем не менее, самый высокий человек на планете не унывает. «Самое замечательное, что я вижу очень на дальние расстояния. Из-за своего роста могу разглядеть, что творится в радиусе примерно ста метров. А ещё дома без табуретки меняю лампочки и вешаю шторы. Близкие, кстати, этой моей способностью часто пользуются», - поведал Корсен о преимуществах своего роста и добавил, что больше всего в жизни мечтает найти любящую спутницу жизни. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB295DC19-4356-4200-A3FD-5AC81169CECB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">113</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">152</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode21D83EF5-6599-4C25-AEF4-3B83B3A377F5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode709118EB-273B-49C4-9ECE-54C5CDC567E3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">153</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">159</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode21D83EF5-6599-4C25-AEF4-3B83B3A377F5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode36F899F7-8670-44B1-99A8-CD72E9042C66">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">218</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">221</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode21D83EF5-6599-4C25-AEF4-3B83B3A377F5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEB4B49AB-B39D-4D60-BBB7-F05FA998B039">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">270</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">290</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BBA77C2-062F-4EC6-923D-3841803783D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFF69ADC5-9BFA-48EB-AC36-341415254A86">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">297</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">305</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BBA77C2-062F-4EC6-923D-3841803783D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA9193C77-2629-46E0-8025-4E2979FAFE5B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">337</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">344</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode21D83EF5-6599-4C25-AEF4-3B83B3A377F5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2D2F1993-7F8D-4DB5-9209-9C0AAD031FD4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">382</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">403</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BBA77C2-062F-4EC6-923D-3841803783D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode891253F9-A3DA-4F26-8C37-55CEA6990FFD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">460</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">464</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BBA77C2-062F-4EC6-923D-3841803783D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode78623057-5C8E-46C2-9475-CB9D1A7C0CBF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">514</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">520</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BBA77C2-062F-4EC6-923D-3841803783D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBAC740B1-AC49-4ED0-942D-4A7745DD947D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">597</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">603</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BBA77C2-062F-4EC6-923D-3841803783D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE22CD016-0EF8-4D57-B37B-C1AB9141654D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">955</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">962</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BBA77C2-062F-4EC6-923D-3841803783D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3C3BF2ED-32D2-40DD-996C-57D046442666">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">992</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1024</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BBA77C2-062F-4EC6-923D-3841803783D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode94138DFA-61A2-4F27-8C11-D804FE24CB0F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1063</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1064</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BBA77C2-062F-4EC6-923D-3841803783D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode64DB2C22-8124-4B11-A686-37833C9B06BD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1105</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1111</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BBA77C2-062F-4EC6-923D-3841803783D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3143CE2D-59CC-4683-B545-197668051990">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1256</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1260</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BBA77C2-062F-4EC6-923D-3841803783D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode781CA782-90F6-4FEF-A26A-3A7F1EC8BFBD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1303</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1309</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BBA77C2-062F-4EC6-923D-3841803783D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB0C915A8-9ECD-4B09-92DB-067DC85F8348">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1326</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1332</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BBA77C2-062F-4EC6-923D-3841803783D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

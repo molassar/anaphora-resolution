@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982877" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode2E067182-F22A-493F-833A-B04E7D58DB97">
+		<Basic:identifier xml:lang="ru-RU">них</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">половине граждан</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">половине граждан</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode2633696D-3BE5-4501-B7DF-D7A58070E31F">
+		<Basic:identifier xml:lang="ru-RU">который</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">социологического опроса</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">социологического опроса</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode800C3C19-A577-49A0-BF66-98B2DBA305F2">
+		<Basic:identifier xml:lang="ru-RU">акционерам, например, морского порта</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">свои</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">акционерам, например, морского порта</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeE38C64FD-97AF-41D9-823B-04FC19FE8EAB">
+		<Basic:identifier xml:lang="ru-RU">вами</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">вы</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">вами</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeFF81881F-0B53-46BB-A519-B2A2E679BD9F">
+		<Aux:document_text xml:lang="ru-RU">Везде, где есть по-настоящему серьёзный бизнес, за депутатские мандаты идёт борьба. Конечно, владельцам салонов красоты это всё не очень интересно, а вот акционерам, например, морского порта хотелось бы защищать свои интересы в том числе и на законодательном уровне.  Вкладывать в депутатов деньги все стараются осмысленно, в меру своих способностей, конечно. Поэтому избирательная компания начинается с социологического опроса, который показывает, кто придёт голосовать и что этих людей интересует. Предположим, половине граждан политика до лампочки — на них агитационные воздушные шарики постараются не тратить.  Допустим, по данным социологов, оставшаяся половина разделилась на три равные части: более-менее рациональные люди, те, кто хочет получить от выборов 100 рублей и те, кто хочет поговорить о свинцовых мерзостях жизни. Какие действия в этой ситуации можно ожидать от избирательного штаба? Думаю, будет раздача подарков и сеансы коллективного поливания грязью кого попало.  Если вы дочитали до этого места, приходите, пожалуйста, на выборы: мы с вами из одной фокус-группы! </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF208C1F4-CD18-4009-B769-D1D176EBE953">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">154</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">190</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode800C3C19-A577-49A0-BF66-98B2DBA305F2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEBCBCA6B-CFA2-482A-B358-F81171CC2781">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">216</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode800C3C19-A577-49A0-BF66-98B2DBA305F2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA93C5CE2-303F-48B9-9E1F-4348DEDD6AD7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">404</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">427</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2633696D-3BE5-4501-B7DF-D7A58070E31F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEA8D21DD-EBBB-4BAB-ACC8-78779567411C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">429</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">436</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2633696D-3BE5-4501-B7DF-D7A58070E31F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode86DC3F1B-CF01-4DD7-A604-FD1E5E076723">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">513</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">529</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2E067182-F22A-493F-833A-B04E7D58DB97"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode82CBD1B5-5812-4A1A-96B4-FB006314E436">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">556</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">559</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2E067182-F22A-493F-833A-B04E7D58DB97"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF733B39D-B08F-44B7-8E7E-9F9FF92D0E2C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">991</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">993</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE38C64FD-97AF-41D9-823B-04FC19FE8EAB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode81274C7F-F3ED-4E04-A9EF-7A686E4B7E84">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1058</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1062</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE38C64FD-97AF-41D9-823B-04FC19FE8EAB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

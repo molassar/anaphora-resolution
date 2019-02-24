@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981337" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeAB678396-3293-44D1-B3FD-E63DA4E97E4A"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA4E8C71B-CFD8-4936-AD6E-01A729B86AF0"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeD3C5972B-A9BC-4312-B4F7-E572658B67E1"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode073C22F1-D7D3-4E8C-9060-BE657019CF3E"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode80424D18-1939-491A-B964-88838948E356"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB688D1C7-3627-437B-A855-5433B3BF096E"/>
+	<Aux:TextAnnotations rdf:nodeID="bnode268BFF86-C342-4B10-A7B6-EF6A1A5FF71A">
+		<Aux:document_text xml:lang="ru-RU">Публикация  В завтрашнем «Салоне» должны напечатать мою фотографию с кладбища немецких военнопленных </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7935FFAF-4E3D-4E0E-BFD0-53500C936184">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB688D1C7-3627-437B-A855-5433B3BF096E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode21340598-363B-41C8-B29B-B5788742A276">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode80424D18-1939-491A-B964-88838948E356"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD202C9E4-5B55-4396-B72A-3FC331B24415">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode073C22F1-D7D3-4E8C-9060-BE657019CF3E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5D153B2F-5D24-4A44-A30E-0DB4CBA54FFF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD3C5972B-A9BC-4312-B4F7-E572658B67E1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDC02CB6C-9615-41F5-99F5-E3BE19EF7EF4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA4E8C71B-CFD8-4936-AD6E-01A729B86AF0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode493D53A6-3397-42F8-ACF6-836ACB2B1A2C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB678396-3293-44D1-B3FD-E63DA4E97E4A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981590" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode0E86C446-AB73-4FED-9EE2-44DEE3E03261">
+		<Basic:identifier xml:lang="ru-RU">Центр</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Центра</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Центра</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode99A8B77E-9888-4444-AA90-09A4322DED75">
+		<Basic:identifier xml:lang="ru-RU">Лекцию</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Она</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">лекции</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">лекцию «Философия ненасилия Далай-ламы XIV: безвольное смирение или путь к гармонии?»</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">лекцию по буддийской философии</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">лекция «Философия ненасилия Далай-ламы XIV: безвольное смирение или путь к гармонии?"</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode118F006A-7E65-41D7-9ED2-D21C6FE1080B">
+		<Basic:identifier xml:lang="ru-RU">Тензин Приядарши</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">г-н Тензин Приядарши</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">г-н Тензин Приядарши</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode9BEDCE96-F4D9-4558-8394-B4BA135C75EF">
+		<Aux:document_text xml:lang="ru-RU">Безвольное смирение или путь к гармонии?  Тензин Приядарши прочтёт в Москве лекцию по буддийской философии.  Молодёжное правозащитное движение и фонд «Сохраним Тибет» при поддержке Центра тибетской культуры и информации и Музея и общественного центра им. Андрея Сахарова проводит лекцию «Философия ненасилия Далай-ламы XIV: безвольное смирение или путь к гармонии?». Она состоится 4 марта 2011 года в 19:00.  Лекцию читает досточтимый Тензин Приядарши — директор-учредитель действующего под эгидой далай-ламы Центра за этику и ценности, ведущие к трансформации (The Dalai Lama Center for Ethics and Transformative Values) при Массачусетском технологическом институте. Центр проводит междисциплинарные исследования и программы по вопросам индивидуальной и глобальной этики.  Тензин Приядарши читает лекции по буддийской философии и социально-политическим вопросам в разных странах мира, в том числе в Американской академии гуманитарных и точных наук, а также различных учебных заведениях. Активно участвует в диалоге между буддийскими учёными-философами, созерцателями и представителями современной нейронауки.  После лекции г-н Тензин Приядарши ответит на вопросы зрителей.  Адрес: ул. Земляной Вал, д. 57, стр. 6. Тел: (495) 623-44-01, 623-44-20.  Вход свободный. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE8BDF12C-EF07-4B5A-9DC5-7B769F13D75D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode118F006A-7E65-41D7-9ED2-D21C6FE1080B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode94B875C7-D20A-4839-AE58-352154181143">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">106</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode99A8B77E-9888-4444-AA90-09A4322DED75"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode90E8B3B1-2AF1-4B19-8150-B1F0F6BF73A0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">280</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">365</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode99A8B77E-9888-4444-AA90-09A4322DED75"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode81E709DF-826B-4ACC-9AB0-C53816B3B0A4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">367</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">370</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode99A8B77E-9888-4444-AA90-09A4322DED75"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode47BA29FC-16F1-4A3A-BA11-FA1583D05474">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">409</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">415</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode99A8B77E-9888-4444-AA90-09A4322DED75"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB544F89A-3141-4E13-86F9-D132D174105B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">435</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">451</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode118F006A-7E65-41D7-9ED2-D21C6FE1080B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode979754B7-BA2B-420B-908C-BDBAF099BEF0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">509</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">560</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0E86C446-AB73-4FED-9EE2-44DEE3E03261"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA8D92CC2-271A-43A1-A586-7C4C88FB9632">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">668</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">673</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0E86C446-AB73-4FED-9EE2-44DEE3E03261"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3CCF6E00-D7A2-4357-B582-F790FBF6D753">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">774</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">790</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode118F006A-7E65-41D7-9ED2-D21C6FE1080B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC8F0A1DC-24A4-452D-904B-49C05060A56D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1117</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1123</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode99A8B77E-9888-4444-AA90-09A4322DED75"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5C8165BA-0B74-4148-971D-A9D04EDA6281">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1124</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1144</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode118F006A-7E65-41D7-9ED2-D21C6FE1080B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

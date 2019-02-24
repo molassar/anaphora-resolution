@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983024" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode4588CBDC-EC27-42EC-BB33-9D41FF748062">
+		<Basic:identifier xml:lang="ru-RU">Оперу</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Опера</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode49A4A8E4-9CA3-4EDE-8B65-79104700A518">
+		<Basic:identifier xml:lang="ru-RU">Опера 11.51</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Опера 11.51</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode68FCD505-419A-435F-8C65-0FAF7F264544">
+		<Basic:identifier xml:lang="ru-RU">она</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">она</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode0917E1FF-15A1-4BD0-8220-1960509DD806">
+		<Basic:identifier xml:lang="ru-RU">лин.</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">лин.</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode10808385-A67F-478B-958A-CA2A384099E6">
+		<Basic:identifier xml:lang="ru-RU">вин</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">вина</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6F3833BE-B9F7-4346-AF08-24221C5E342D">
+		<Basic:identifier xml:lang="ru-RU">Опере</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Опера</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode52E6FCF4-91A7-4A0C-84C7-526ABC28D306">
+		<Basic:identifier xml:lang="ru-RU">игра Pirates love daisies</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">игра Pirates love daisies</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode25A436B7-713D-49EE-98DF-99DE831AFF08">
+		<Basic:identifier xml:lang="ru-RU">чистом HTML5</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">чистый HTML5</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeE047DA58-4F6A-4A72-8BC9-42015E3A449F">
+		<Basic:identifier xml:lang="ru-RU">IE9</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">IE9</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeC4A39FFA-7394-454E-9BE4-B3E0FD0C90E1">
+		<Aux:document_text xml:lang="ru-RU">Опера 11.51  Обновил Оперу и обнаружил, что, написанная для раскрутки IE9 на чистом HTML5, игра Pirates love daisies теперь работает в Опере и под вин, и под лин. На самом медленном компьютере она подтормаживает, но все еще играбельна. На машинках по-новее вообще работает на ура. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode78804CA3-1B4D-4325-AD1A-EA1F034AD879">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode49A4A8E4-9CA3-4EDE-8B65-79104700A518"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC95E7681-8CA8-44E2-AD3E-02736435B368">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4588CBDC-EC27-42EC-BB33-9D41FF748062"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode97C207EC-A8A4-46B7-81C7-97F7E9F9C666">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE047DA58-4F6A-4A72-8BC9-42015E3A449F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode82A3B113-0159-4766-B1CC-84650337C805">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode25A436B7-713D-49EE-98DF-99DE831AFF08"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3561F36C-E2C9-494A-B27D-EE6572F61B69">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode52E6FCF4-91A7-4A0C-84C7-526ABC28D306"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC5967678-3630-4486-B4D1-51E903069C13">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">135</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6F3833BE-B9F7-4346-AF08-24221C5E342D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4F4B7DED-A5C2-41E3-B24B-58D813DD8C38">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode10808385-A67F-478B-958A-CA2A384099E6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4AD5A82E-2020-47B5-89C5-1D5FFC7C83E8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">158</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0917E1FF-15A1-4BD0-8220-1960509DD806"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode56984F6E-B34D-4E94-A48F-962C5038BE0C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">193</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">196</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode68FCD505-419A-435F-8C65-0FAF7F264544"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

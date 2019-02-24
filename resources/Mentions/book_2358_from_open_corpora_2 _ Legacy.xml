@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982816" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA944320A-7ABC-4610-9906-0425D62E304F"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode5AB5DE61-B57F-4A06-ABA3-8E205C65A5C7"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC8544966-58DC-407C-97E8-451943C6FE2A"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeFA221A84-A53C-43DB-9A1F-67AA23972E08"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode2F513F1D-EDC6-4C64-B831-561B9AFBA774"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB3701999-46E8-4EA7-B457-B46863E6A3CC"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB0628621-4CA5-43D0-9204-A258E78C0DD7"/>
+	<Aux:TextAnnotations rdf:nodeID="bnode56A9BE12-B7FA-406B-9E54-8A42B2B664A5">
+		<Aux:document_text xml:lang="ru-RU">Папаша Мюллер про обогащение русского языка термином «дорожная карта» хорошо написал. Мне тут добавить хочется, что, по российским традиционным бедам, переводить roadmap как «дорожная карта» совсем уж не следует. Как ни крути, а смысл иной выходит. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode096C5ADB-3130-48AB-A7F3-850DC5160A15">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB0628621-4CA5-43D0-9204-A258E78C0DD7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA1318DDD-0F46-40E9-A927-E3F02EC093D0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB3701999-46E8-4EA7-B457-B46863E6A3CC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4EBCAB30-34EE-403C-9B52-A668D4D79C38">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFA221A84-A53C-43DB-9A1F-67AA23972E08"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode012A148E-9C65-4A4A-B8AA-934F5E86572D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC8544966-58DC-407C-97E8-451943C6FE2A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode44C7D820-E880-41ED-8914-A86513454D66">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">169</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5AB5DE61-B57F-4A06-ABA3-8E205C65A5C7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8E7897A1-3AC5-4DCC-AB92-94CBC07FB3F3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">174</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">190</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA944320A-7ABC-4610-9906-0425D62E304F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

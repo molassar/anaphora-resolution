@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983154" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode5BB01693-4B5C-44E1-880C-FFC0EC2FDC7D">
+		<Basic:identifier xml:lang="ru-RU">лекций</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">лекциям</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">лекциям</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeADA1FF61-3B0C-4C98-9D70-82EA1637C660">
+		<Basic:identifier xml:lang="ru-RU">меня</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">я</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">меня</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA15CD3A5-3ED3-4191-9942-7CFBF949D0F8">
+		<Basic:identifier xml:lang="ru-RU">"как, неужели вам</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">"мы это будем проходить через две недели / вам</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">"мы это будем проходить через две недели / вам это расскажут на пятом курсе / это для умных студентов, вам</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">всем остальным</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">окружающим</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">"мы это будем проходить через две недели / вам это расскажут на пятом курсе / это для умных студентов, вам</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeF3B52A69-744C-4AE4-9FB9-B2AA6B76C909">
+		<Aux:document_text xml:lang="ru-RU">Подготовка к лекциям напоминает зубрежку перед экзаменом, только не раз в полгода, а четыре раза в неделю.  Зато у лекций есть некоторые преимущества:  - всегда можно пользоваться шпаргалкой  - можно задавать окружающим идиотские вопросы, а потом делать круглые глаза и говорить "как, неужели вам этого еще не рассказывали?"  - на дополнительные вопросы можно отвечать "мы это будем проходить через две недели / вам это расскажут на пятом курсе / это для умных студентов, вам знать не положено " (нужное подчеркнуть)  - вообще над студентами можно всячески подшучивать и подхихикивать (только в меру, а то на меня одна девочка уже обиделась)  - я сама ставлю оценки себе и всем остальным. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode410AAC7C-23CE-4E91-8455-0C9B46BF1646">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5BB01693-4B5C-44E1-880C-FFC0EC2FDC7D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode909AFAE5-DF56-4BCC-9946-F9C6C6161EA4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">121</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5BB01693-4B5C-44E1-880C-FFC0EC2FDC7D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode60840E63-1804-4310-B2FD-C5AC9D8A134A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">219</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA15CD3A5-3ED3-4191-9942-7CFBF949D0F8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode107ECE79-D246-444A-8E4E-6BB83F8A5557">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">293</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">296</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA15CD3A5-3ED3-4191-9942-7CFBF949D0F8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5CF640F1-31AE-49F2-997F-5D39D64A0E96">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">415</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA15CD3A5-3ED3-4191-9942-7CFBF949D0F8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC9E3B958-692E-4B20-9075-E716C8DDE29B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">472</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">475</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA15CD3A5-3ED3-4191-9942-7CFBF949D0F8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode208103A6-8FFD-4919-80CC-FEE042C0540C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">531</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">541</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA15CD3A5-3ED3-4191-9942-7CFBF949D0F8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5D1231FF-DC02-4A94-8B6E-24D7F4F12AF1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">609</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">613</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeADA1FF61-3B0C-4C98-9D70-82EA1637C660"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9245E751-5181-4772-A32F-ACBF03884434">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">645</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">646</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeADA1FF61-3B0C-4C98-9D70-82EA1637C660"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA1BEDBEF-58D6-4719-9D36-8FB40EE35AE7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">673</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">687</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA15CD3A5-3ED3-4191-9942-7CFBF949D0F8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

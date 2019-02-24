@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981276" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode206D024F-AC08-4038-8CF5-1F1A13774192">
+		<Basic:identifier xml:lang="ru-RU">ними</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">программ или сайтов, которыми вы пользовались за последний месяц, которые вспомните</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">эти продукты</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">программ или сайтов, которыми вы пользовались за последний месяц, которые вспомните</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB91C99EA-DC7E-41CB-9263-48F96A80959C">
+		<Basic:identifier xml:lang="ru-RU">Мы</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">нас</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">нас</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode1E68BF41-4CAE-4FFD-BF0C-051110812C36">
+		<Basic:identifier xml:lang="ru-RU">Java-программистов</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">их всех</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">они</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Java-программистов</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode8DC35E8B-5F88-467A-B765-4239CFA5A1D3">
+		<Aux:document_text xml:lang="ru-RU">Вася и Петя среди нас  Мы не решаем задачу.  Напишите список программ или сайтов, которыми вы пользовались за последний месяц, которые вспомните. Посчитайте, сколько человек работают над ними. Ладно, давайте будем считать всех сотрудников, которые работают в компаниях, которые сделали эти продукты. Майкрософт — это меньше 100 тысяч человек, и это больше, чем все остальные вместе взятые.  Что же делают миллионы Java-программистов? Я не спрашиваю, почему их всех ещё не уволили, это понятно. Вопрос в том, какое дерево они сажают. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode654B253C-19BB-495B-A5C0-52526B0DFA4D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB91C99EA-DC7E-41CB-9263-48F96A80959C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode916EB541-A9DB-4F64-B50E-0DDD4D793C06">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB91C99EA-DC7E-41CB-9263-48F96A80959C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode12475954-DF08-412A-A27A-C393A681E7FC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">144</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode206D024F-AC08-4038-8CF5-1F1A13774192"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8B5A5C79-9197-403A-85B6-8215F46A33FA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">187</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">191</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode206D024F-AC08-4038-8CF5-1F1A13774192"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD9E4D051-2081-413C-8251-1FFE68B1D770">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">286</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">298</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode206D024F-AC08-4038-8CF5-1F1A13774192"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode952CFF45-DD91-403C-9376-192F17F2DDE2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">405</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1E68BF41-4CAE-4FFD-BF0C-051110812C36"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE69C1326-58CE-4F66-BA23-B27104AE1715">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">457</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">459</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1E68BF41-4CAE-4FFD-BF0C-051110812C36"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode602B6097-A50B-4E04-8263-679E70C828D7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">521</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">524</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1E68BF41-4CAE-4FFD-BF0C-051110812C36"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983273" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA3B0A814-21F3-47A0-8ACA-D277536B1742">
+		<Basic:identifier xml:lang="ru-RU">ее</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">картошку</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">картошку</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeDCB8FB4C-BF84-4445-A04E-E11580294BEE">
+		<Basic:identifier xml:lang="ru-RU">ЛЫТДЫБР</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">этим словом</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">этим словом</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeCDAC2A12-9C38-454B-BD36-C87B4023BDAD">
+		<Aux:document_text xml:lang="ru-RU">Кулинарный лытдыбр  Впервые воспользовался этим словом, потому что, пожалуй, впервые, это именно ЛЫТДЫБР, сиречь ДНЕВНИК.  Поймал себя на том, что, привыкнув резать картошку для второго кусками размером со сливу, причем не очень мелкую, так же пытаюсь порезать ее в щавелевый борщ, вместо того, чтобы сделать кусочки максимум размером с фалангу большого пальца. Вот бы потом вылавливал такие айсберги из супа! </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode678E184C-580B-4DCA-87B3-A575E5D5E9ED">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDCB8FB4C-BF84-4445-A04E-E11580294BEE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6826C5DD-8D96-46D4-905B-F777A144A0CA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDCB8FB4C-BF84-4445-A04E-E11580294BEE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode641FBE1E-95EF-4010-B0CE-00BB81290F21">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">165</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">173</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA3B0A814-21F3-47A0-8ACA-D277536B1742"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF5B4C00C-7ADF-4D1A-947C-D89644710DD9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">261</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">263</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA3B0A814-21F3-47A0-8ACA-D277536B1742"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

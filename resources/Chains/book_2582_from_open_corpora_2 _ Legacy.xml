@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983040" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode2E0F10E0-4F92-4A10-B7BC-5D72C144D31C">
+		<Basic:identifier xml:lang="ru-RU">Израиль</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Израиль</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB77D5742-94CC-468D-AF1D-86018D05383B">
+		<Aux:document_text xml:lang="ru-RU">Израиль - Франция 1:1  Похоже, если "А-Тикве" все-таки суждено прозвучать на чемпионате мира, Израиль должен будет благодарить за это двух арабов - Суана и Бадира. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFAD8A44E-F5D7-4379-926C-F3DDEA8DD3D7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2E0F10E0-4F92-4A10-B7BC-5D72C144D31C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC9B3D95D-DF66-4FAE-8890-1646C2ACA8E2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">101</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2E0F10E0-4F92-4A10-B7BC-5D72C144D31C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

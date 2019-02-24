@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981582" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode1B5D9722-8FD7-45EB-A8EA-6E25DE2C2257"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode85C5337B-4CC8-4EA5-90BA-955E1670F7C2"/>
+	<Aux:TextAnnotations rdf:nodeID="bnode7166D36A-5BBF-4FA5-AF11-32AB32090F51">
+		<Aux:document_text xml:lang="ru-RU">Ref(?:lec|rac)tor  Метафора зеркала хороша лишь до тех пор, пока не становится ясно, что на самом деле перед нами не зеркало, а увеличительное стекло. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB7F60576-1365-4A4A-92A7-35A684973F8E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode85C5337B-4CC8-4EA5-90BA-955E1670F7C2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode20D96FE5-A565-448D-9DB3-88F1698AC5D6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">117</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1B5D9722-8FD7-45EB-A8EA-6E25DE2C2257"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

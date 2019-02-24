@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981262" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode3678E8D7-60D4-448E-BFDA-9DE0740FB79B"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeFA5C1AE0-3786-4FE4-9854-099D9B6886B3"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeBBC71F72-D810-450E-AD98-5BB7649F3226">
+		<Basic:identifier xml:lang="ru-RU">Я</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Я</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode0472D497-F8FA-4D6A-B6E0-8F57DD79D2EE">
+		<Basic:identifier xml:lang="ru-RU">я</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">я</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode39609A1D-547F-4CD8-A74D-E110D7EEAE1C">
+		<Aux:document_text xml:lang="ru-RU">Куда конь с копытом, туда и я...  Я НЕ СМОТРЕЛ "МАСТЕРА И МАРГАРИТУ!!" И НЕ БУДУ!!  Ну, потом на DVD, может, куплю. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode40B6DEB4-20B2-4B43-A26E-C171A7C9AA59">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0472D497-F8FA-4D6A-B6E0-8F57DD79D2EE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode50685E8B-24F2-4DFC-AD5F-8193D15ABB82">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBBC71F72-D810-450E-AD98-5BB7649F3226"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode88BBD766-A053-4654-AAF9-B974E2894F60">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFA5C1AE0-3786-4FE4-9854-099D9B6886B3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode635495FA-1352-44F7-8595-D4D05828B79D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3678E8D7-60D4-448E-BFDA-9DE0740FB79B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

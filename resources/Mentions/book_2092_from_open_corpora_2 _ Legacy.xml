@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982550" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA4A31E74-2568-4A9E-8EFA-0CAED8ECA451">
+		<Basic:identifier xml:lang="ru-RU">таможенными складами открытого типа</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">таможенными складами открытого типа</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode800050E8-1030-48D4-A868-66833DBD9628">
+		<Basic:identifier xml:lang="ru-RU">Российской Федерации</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Российская Федерация</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode35C54929-AD0A-43E9-850E-4906167ABF31">
+		<Basic:identifier xml:lang="ru-RU">таможенными органами Российской Федерации</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">таможенными органами Российской Федерации</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode90D6D6E3-29BB-4957-BAC0-2233A371E46D">
+		<Basic:identifier xml:lang="ru-RU">Таможенные склады</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Таможенные склады</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode625C0728-2E1E-4BE4-A1E9-6E13219CB2EF">
+		<Basic:identifier xml:lang="ru-RU">Российской Федерации</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Российская Федерация</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode14118171-BDF5-4376-A800-B08238107C19">
+		<Basic:identifier xml:lang="ru-RU">таможенные органы Российской Федерации</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">таможенные органы Российской Федерации</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode598715D7-2A9F-4300-BBCF-2A726874F87D">
+		<Basic:identifier xml:lang="ru-RU">таможенных складов</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">таможенных складов</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode2C9C4C11-8909-443E-93CD-A417DB29B05C">
+		<Basic:identifier xml:lang="ru-RU">таможенных складов</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">таможенных складов</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB46F2EA7-62C2-4DA6-B720-8E38A3E4B895">
+		<Aux:document_text xml:lang="ru-RU">Статья 47. Владельцы таможенных складов  Владельцами таможенных складов могут быть таможенные органы Российской Федерации либо российские лица.  Таможенные склады, учреждаемые таможенными органами Российской Федерации, являются таможенными складами открытого типа. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD9E63942-3F04-4518-9888-1F1B1840C183">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2C9C4C11-8909-443E-93CD-A417DB29B05C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode51AAD88F-B3E1-46BB-86BA-7638EE629363">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode598715D7-2A9F-4300-BBCF-2A726874F87D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9879F39F-9114-416E-ACF5-58EB987E626A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">121</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode14118171-BDF5-4376-A800-B08238107C19"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAC80795D-6677-4867-909C-A36A76315C3B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">101</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">121</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode625C0728-2E1E-4BE4-A1E9-6E13219CB2EF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCBAA1A04-3CDA-49E8-8ED8-5CFBFD9D6605">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">145</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode90D6D6E3-29BB-4957-BAC0-2233A371E46D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode92B15612-8F32-499D-BD3A-E49FD1926BC1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">176</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode35C54929-AD0A-43E9-850E-4906167ABF31"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF30E9E05-552B-425D-AA80-9377DA3AE5DC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">197</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode800050E8-1030-48D4-A868-66833DBD9628"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3598037E-0E28-4D9C-A4CF-7B396544844B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA4A31E74-2568-4A9E-8EFA-0CAED8ECA451"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

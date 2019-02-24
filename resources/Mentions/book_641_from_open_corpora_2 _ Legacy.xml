@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981099" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeDC7720F9-315D-4658-820E-5A78332C872C"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode9A296D74-2743-44E4-BCFD-3000E35AC600"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode39B9E27A-EA19-400E-A2D2-A256E6F11013"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode7F67DAAE-1D41-4C14-95A4-271788384F08"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode0AEB8D1B-A49A-4F6B-BAF2-152CFBEEC055"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode0A23CD3D-0B79-48AC-806B-C62B75509D6E"/>
+	<Aux:TextAnnotations rdf:nodeID="bnodeF3F1C08A-250C-4DDA-8EE3-CD1BEF016CDB">
+		<Aux:document_text xml:lang="ru-RU">У нас дома появился новый зверь. Очаровательное создание назвали Katze (сокращенно Каа) Совершенно ручное и спокойное животное. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2054D12F-1434-4CFA-8917-4B561AA22384">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0A23CD3D-0B79-48AC-806B-C62B75509D6E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode82115158-39A0-451C-9133-7C81F2BBCB93">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0AEB8D1B-A49A-4F6B-BAF2-152CFBEEC055"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD5777E3E-FB22-4DB6-8502-2856B47F9C2E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7F67DAAE-1D41-4C14-95A4-271788384F08"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode97DA0E21-9326-49FC-8B9C-EFAAC329F55B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode39B9E27A-EA19-400E-A2D2-A256E6F11013"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9D76069D-2516-4715-88DF-9ECEE5A51AE2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9A296D74-2743-44E4-BCFD-3000E35AC600"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3C53C035-EB0C-4BE4-A3BD-0BC473C2EE0F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">126</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDC7720F9-315D-4658-820E-5A78332C872C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

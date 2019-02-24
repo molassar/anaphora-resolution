@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983205" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeEAF8764B-6715-4B07-8311-ACB7D9FB4399"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode28393D07-1BC9-4845-B131-D9A1BB82046B"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeF5383A36-0CB0-4FB2-85A0-D43C250E27B4"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode9E182AD0-DC80-4A7B-A3B4-64F44661A522"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode0591DE30-C5C1-480F-8900-258E8541FE6F"/>
+	<Aux:TextAnnotations rdf:nodeID="bnode874CF6D4-84CA-4809-898A-189C13B7FE60">
+		<Aux:document_text xml:lang="ru-RU">Порри Гаттер  Сестра подсунула книжку "Порри Гаттер и Каменный Философ".  Нет, конечно это не литература.. но местами очень смешно :)  Скорее всего я не буду читать его второй раз, и продолжений тоже искать не стану - к концу стиль авторов чуть поднадоел.. Хотя может и буду ;) Но, в любом случае, всем рекомендую! </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode71B65F35-1DCE-470D-93FE-02E12E70A816">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0591DE30-C5C1-480F-8900-258E8541FE6F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA67F9C07-6E1E-4D37-8BFD-3057094D11F3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9E182AD0-DC80-4A7B-A3B4-64F44661A522"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEB0025A2-DBB1-444B-BDE7-BE3E4419C61A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF5383A36-0CB0-4FB2-85A0-D43C250E27B4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFF101613-07B6-4EAD-8B46-3F2EF2204235">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">148</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">149</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode28393D07-1BC9-4845-B131-D9A1BB82046B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA38E7BA1-C20C-4C46-B6DA-A179E6B968B3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">165</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEAF8764B-6715-4B07-8311-ACB7D9FB4399"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982019" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode82A915C9-D27F-490D-973A-E60FE121B218">
+		<Basic:identifier xml:lang="ru-RU">Селайю</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Селайя</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">президента Мануэля Селайи</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">президента Мануэля Селайи</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC1151453-3F1D-4614-A4CD-F1B66E7A86B0">
+		<Basic:identifier xml:lang="ru-RU">Мичелетти</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">лидер государства Роберто Мичелетти</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">он</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">лидер государства Роберто Мичелетти</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode8D793697-900C-478D-AAD1-0E95AD90CBCC">
+		<Aux:document_text xml:lang="ru-RU">Беспокойство продолжается Мичелетти обманул Селайю.  Вопреки прежним сообщениям, политический кризис в Гондурасе не преодолён. Фактический лидер государства Роберто Мичелетти объявил, что он сформирует новый кабинет министров без участия представителей свергнутого президента Мануэля Селайи.  Селайя в связи с этим заявил, что не признает результаты выборов президента, которые назначены на 29 ноября. Об этом сообщает Reuters. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB72E445B-39A2-40F5-A11C-4FF5E0155902">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC1151453-3F1D-4614-A4CD-F1B66E7A86B0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC0540322-186D-4617-97F7-2FE882C430D8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode82A915C9-D27F-490D-973A-E60FE121B218"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7C99F9EC-4507-40C2-A4A3-B2E28E8FD929">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">174</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC1151453-3F1D-4614-A4CD-F1B66E7A86B0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA4AD59D1-B32F-4510-8262-9B87EE3B6ACE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">188</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">190</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC1151453-3F1D-4614-A4CD-F1B66E7A86B0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode92B3DBE9-8F59-42B3-8348-CB681EAFD0AC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">253</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">290</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode82A915C9-D27F-490D-973A-E60FE121B218"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF5328F04-F3B7-465A-A7DB-25E92CD522FD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">293</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">299</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode82A915C9-D27F-490D-973A-E60FE121B218"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

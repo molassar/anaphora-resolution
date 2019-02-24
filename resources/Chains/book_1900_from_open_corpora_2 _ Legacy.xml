@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982358" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode929C1EEC-5B7D-444F-A91C-544631F04F63">
+		<Basic:identifier xml:lang="ru-RU">Государственный внебюджетный фонд</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">государственного внебюджетного фонда</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">государственного внебюджетного фонда</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode33F4A92C-63A0-40B2-8D17-7B368EE5ABB5">
+		<Aux:document_text xml:lang="ru-RU">Статья 13. Государственный внебюджетный фонд  Государственный внебюджетный фонд — фонд денежных средств, образуемый вне федерального бюджета и бюджетов субъектов Российской Федерации и предназначенный для реализации конституционных прав граждан на пенсионное обеспечение, социальное страхование, социальное обеспечение в случае безработицы, охрану здоровья и медицинскую помощь. Расходы и доходы государственного внебюджетного фонда формируются в порядке, установленном федеральным законом, либо в ином порядке, предусмотренном настоящим Кодексом. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode38C33A23-6AE5-4D80-8894-5569C3E9F61C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode929C1EEC-5B7D-444F-A91C-544631F04F63"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA3E90C6F-FCCB-4F50-BEF3-DBA4FFA46F8D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode929C1EEC-5B7D-444F-A91C-544631F04F63"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5BBC5DA2-AC05-4434-844F-927FA6498744">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode929C1EEC-5B7D-444F-A91C-544631F04F63"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

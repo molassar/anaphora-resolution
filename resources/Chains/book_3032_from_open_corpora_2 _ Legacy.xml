@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983490" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeCCC3F12B-C3E9-4C74-926C-44C7BA572C4F">
+		<Basic:identifier xml:lang="ru-RU">Римский Майнц</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">своей</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Римский Майнц</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6B3989D4-D649-478C-ABC8-192D9314516C">
+		<Basic:identifier xml:lang="ru-RU">Его</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Он</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Римский театр (лат. Theatrum Mogontiacensium, нем. Römisches Theater) в городе Майнц</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Римский театр в Майнце</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">театр</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">театра</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Римский театр (лат. Theatrum Mogontiacensium, нем. Römisches Theater) в городе Майнц</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode702FC2B0-C2A9-4DE5-8761-B2E652FAD09D">
+		<Basic:identifier xml:lang="ru-RU">Майнце</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">городе Майнц</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">городе Майнц</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode1BB4DD8A-B659-4698-9953-BE1E39583254">
+		<Basic:identifier xml:lang="ru-RU">Римский</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Римской империи</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">римского</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Римской империи</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode710888CD-3C14-4731-9AEA-3056FD35F1C3">
+		<Aux:document_text xml:lang="ru-RU">Римский театр в Майнце  Римский театр (лат. Theatrum Mogontiacensium, нем. Römisches Theater) в городе Майнц — столице федеральной земли Рейнланд-Пфальц был раскопан всего несколько лет назад. Он расположен в непосредственной близости от вокзала Mainz Römisches Theater, являлся одним из крупнейших римских театров севернее Альп. Его диаметр составлял 116 метров, ширина сцены — 42 метра. Количество мест составляло 10 000.  История  Римский Майнц своей значимостью обязан выгодному географическому расположению в устье Майна. Отсюда можно было очень хорошо защищать лежащую неподалёку границу Римской империи и организовывать военные походы против германцев. Поэтому XIII—XII веках до н. э. здесь был основан лагерь римского легиона, который просуществовал до 350 года.  Последний раз театр был упомянут в XI веке: «Hoc etiam astruunt adhuc superstites theatri ruinae, quod Romano more ad ludos circenses et theatrica spectacula constructum est.» Сегодня на руинах театра проводятся музыкальные и театральные представления. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeED28B1FA-0104-40D3-AA7C-60A16442F426">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6B3989D4-D649-478C-ABC8-192D9314516C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF8209C8B-B5D0-44C2-BAED-C284386F0A54">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1BB4DD8A-B659-4698-9953-BE1E39583254"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEC43B897-A31D-4D1A-A01E-69A2BA6FBBDB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode702FC2B0-C2A9-4DE5-8761-B2E652FAD09D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB5EFF782-B6EC-4B9B-9240-08FAF79CEA2F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6B3989D4-D649-478C-ABC8-192D9314516C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode200B7EF3-BE16-4DC5-8C39-626FE30ED796">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1BB4DD8A-B659-4698-9953-BE1E39583254"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode10E49499-39C0-412B-BD1A-BD2FDFF143B4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6B3989D4-D649-478C-ABC8-192D9314516C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1C203D87-4604-46FA-B6AF-F0065D64F73A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">92</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6B3989D4-D649-478C-ABC8-192D9314516C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6192626A-1EF8-4C2E-9F99-5DC219F60665">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode702FC2B0-C2A9-4DE5-8761-B2E652FAD09D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA1440FCF-B4D8-4078-A2FF-1A8174E9CA2A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">193</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6B3989D4-D649-478C-ABC8-192D9314516C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF5C56F63-1C81-4E7B-B440-3825DDDEF0E5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">299</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">306</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1BB4DD8A-B659-4698-9953-BE1E39583254"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0E913BC0-01EC-4D80-9060-BE88C325E6B6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">333</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6B3989D4-D649-478C-ABC8-192D9314516C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB9CE9226-B0DC-400D-BE1F-FEB978748FC9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">434</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">447</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCCC3F12B-C3E9-4C74-926C-44C7BA572C4F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode78DD015F-ADEA-4CF7-B5F4-895FB2117CDC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">434</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">441</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1BB4DD8A-B659-4698-9953-BE1E39583254"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFD375442-1EF1-439C-9E6B-F7CEE393E3E4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">448</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">453</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCCC3F12B-C3E9-4C74-926C-44C7BA572C4F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6581D74C-B2BA-4345-B23A-25DAA0343B8C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">594</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">609</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1BB4DD8A-B659-4698-9953-BE1E39583254"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode21CED370-81BC-4097-8BA0-29CE4A282EA2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">717</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">725</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1BB4DD8A-B659-4698-9953-BE1E39583254"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8D0C6C9B-7DDA-459D-9C00-F8DA326C07C9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">791</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6B3989D4-D649-478C-ABC8-192D9314516C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode93BB9DA6-A2F5-4F52-9115-50DC4ACB22A9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">966</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">972</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6B3989D4-D649-478C-ABC8-192D9314516C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,15 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="983000" markupID="21837" OntoTechnologyVersion="3.5.16.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-	<RomipAnaphora:RomipThing rdf:nodeID="bnode917A61F3-8F0D-4808-8E6B-5CC014CFE566"/>
-	<Aux:TextAnnotations rdf:nodeID="bnodeADFFAFA8-6409-4B0A-AEC7-FFECE505CDF2">
-		<Aux:document_text xml:lang="ru-RU">Чуть-чуть не дотянуло до "два поста подряд"  Во френдленте через один идут посты, посвященные "Биг Маку" (точней, просто "Макдональдсу") и сэндвичу (правда, тоже не совсем съедобному) :) </Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeE32BECEB-BC18-4075-B394-14B9AD7300C0">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">121</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">135</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode917A61F3-8F0D-4808-8E6B-5CC014CFE566"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

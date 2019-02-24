@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982148" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeDE8EF798-130C-4ED4-BEF5-144DDECA5368">
+		<Basic:identifier xml:lang="ru-RU">ORM</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Object Relational Mapping</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Object Relational Mapping</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeF922DE7D-ACAE-463D-932D-6954DCFCC75C">
+		<Aux:document_text xml:lang="ru-RU">ORM  Вчера мы немного праздновали, беседовали по-разному :) жаловались на жизнь, как водится. Одна из любимых тем на что можно пожаловаться это работа базы данных и ООП. Object Relational Mapping. Был предложен вот такой подход: http://forum.agiledev.ru/index.php?t=msg&amp;th=981&amp;start=0&amp;  Я однажды работал с такой схемой. Но было неудобно. Возможно это было в первый раз, возможно на php не был доступен генератор классов и запросов, а ручная работа была весьма нетривиальной.  Сейчас эта тема всплыла снова. К сожалению не попробовав нельзя сказать, хорошо это или плохо. Некоторый оверхед в виде сложности, конечно не должен тут пугать -- ORM, это то место, где сложность естественна :)  BTW, интересная статья: http://blogs.tedneward.com/2006/06/26/The+Vietnam+Of+Computer+Science.aspx </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode58F14735-9DFA-4C5E-9F0A-0401E68FF252">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDE8EF798-130C-4ED4-BEF5-144DDECA5368"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1B061EF2-4FB3-4E54-8CEB-3369A46A48FA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDE8EF798-130C-4ED4-BEF5-144DDECA5368"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode08324123-7B9A-4C6D-9B51-5E1B92ED6004">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">640</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">643</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDE8EF798-130C-4ED4-BEF5-144DDECA5368"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

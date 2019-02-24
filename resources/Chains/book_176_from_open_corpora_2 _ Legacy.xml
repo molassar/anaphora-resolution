@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="980634" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeABD319F4-DE7E-4F6B-A101-A519A92854FE">
+		<Basic:identifier xml:lang="ru-RU">РФ</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">России</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">российский</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">российский</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeDA24B50F-1E8B-4CC1-8682-DA63FEC4BB04">
+		<Basic:identifier xml:lang="ru-RU">Дмитрий Медведев</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Медведев</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">он</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Дмитрий Медведев</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode1BA2CFAA-6A42-4F0B-828D-0D2C0EF5110E">
+		<Basic:identifier xml:lang="ru-RU">пост премьер-министра РФ</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">премьерский пост</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">пост премьер-министра РФ</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeDCC64FE1-922E-4943-958A-F118343A2CEA">
+		<Basic:identifier xml:lang="ru-RU">она</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">она</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode5410AF8F-0885-43D0-8DA2-47F65CD6731A">
+		<Basic:identifier xml:lang="ru-RU">Владимир Путин</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Путин</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">нынешний российский президент</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">нынешний российский президент</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE6D6E722-8539-4D46-AD74-2E4984072D95">
+		<Aux:document_text xml:lang="ru-RU">Владимир Путин согласился занять пост премьер-министра РФ в случае, если Дмитрий Медведев выиграет грядущие президентские выборы.  Об этом нынешний российский президент заявил, выступая на VII съезде партии «Единая Россия», где также было официально объявлено о выдвижении Медведева кандидатом. О том, что будет выдвинут именно он, стало известно 10 декабря, днём позже Медведев предложил Путину премьерский пост в случае своей победы.  Ранее в декабре появилась информация о том, что Путин после ухода с поста президента может возглавить союзное государство России и Белоруссии, но она была опровергнута официальными представителями Путина. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode59E66EC0-A57A-4D93-AB52-9FDD0C481DEA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5410AF8F-0885-43D0-8DA2-47F65CD6731A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1307B7E2-ED3B-4C6C-82B0-C91AE4EAD1BB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1BA2CFAA-6A42-4F0B-828D-0D2C0EF5110E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3E700BB9-3F8F-4A1B-8887-E83ED441B0ED">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeABD319F4-DE7E-4F6B-A101-A519A92854FE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD94536A0-B030-42C0-BC50-694E3056A049">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDA24B50F-1E8B-4CC1-8682-DA63FEC4BB04"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5CBD708F-9043-4B2D-B29E-554CB805FBFD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5410AF8F-0885-43D0-8DA2-47F65CD6731A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBB91E046-6325-48D7-A3D9-E86B82B8B449">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">148</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">158</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeABD319F4-DE7E-4F6B-A101-A519A92854FE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode531BA2B0-6669-452D-A5BC-8EE0DCB3E5E5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">273</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">282</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDA24B50F-1E8B-4CC1-8682-DA63FEC4BB04"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode19BEDE75-18CB-4D7D-9393-FBE925EA7427">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">330</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDA24B50F-1E8B-4CC1-8682-DA63FEC4BB04"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode828B1044-E1AC-4461-8B7A-76920289FBF9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">370</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">378</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDA24B50F-1E8B-4CC1-8682-DA63FEC4BB04"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA3673C5B-94C8-467D-92AC-80E218DEF7DC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">395</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5410AF8F-0885-43D0-8DA2-47F65CD6731A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB51C165D-4C50-4C42-8309-F08FBF0962D9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1BA2CFAA-6A42-4F0B-828D-0D2C0EF5110E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDB8F777A-ABCF-4895-BF52-22FD0B347A65">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">422</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">427</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDA24B50F-1E8B-4CC1-8682-DA63FEC4BB04"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA8A85601-623F-44E7-8714-7A8CBE6AD4B7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">463</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">578</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDCC64FE1-922E-4943-958A-F118343A2CEA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1E672583-CF47-4715-A8EE-AC6C13A16425">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">485</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">490</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5410AF8F-0885-43D0-8DA2-47F65CD6731A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode80274279-1405-4DE7-8083-6DD88B00E494">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">559</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">565</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeABD319F4-DE7E-4F6B-A101-A519A92854FE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9F601D79-F9E6-4A73-B3CB-712D14A7908D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">583</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">586</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDCC64FE1-922E-4943-958A-F118343A2CEA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode13E76EE8-FA6B-4169-AE22-C584830F85BF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">634</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">640</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5410AF8F-0885-43D0-8DA2-47F65CD6731A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

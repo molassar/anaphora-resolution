@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983135" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode25464B21-5169-491B-9D36-FB2AFB4BA5A4">
+		<Basic:identifier xml:lang="ru-RU">Алексей Петренко</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">его</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Алексей Петренко</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode04B2E9DC-332A-43FD-A4DA-70BFAB80415E">
+		<Basic:identifier xml:lang="ru-RU">Дядечка</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Карл</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Карлом Первым</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">его</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Карлом Первым</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode3EC56D74-E977-4F43-85E2-CD6B81C0CC68">
+		<Aux:document_text xml:lang="ru-RU">"Злобный карла"  Посмотрел наконец запись нашей финальной игры в "Чеширском коте" и вот что подумал: забавно с Карлом Первым получилось. Дядечка был маленького роста, а в советской постановке "Двадцати лет спустя" его играет Алексей Петренко - актер немалого роста и внушительного телосложения, раньше игравший Петра Первого в пушкинской экранизации, и его Карл возвышается над совсем не хрупкими мушкетерами... </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode518C7A27-DEDF-4CEE-943F-29B6CC14ADB4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode04B2E9DC-332A-43FD-A4DA-70BFAB80415E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4171F15B-834D-40E7-ACEF-8208EF098617">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">137</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">144</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode04B2E9DC-332A-43FD-A4DA-70BFAB80415E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF5A0A9DA-98A9-4CEF-87D8-0A5119ECC164">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">214</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode04B2E9DC-332A-43FD-A4DA-70BFAB80415E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4CA7E4B2-F82F-431F-957B-B888554CCD03">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">241</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode25464B21-5169-491B-9D36-FB2AFB4BA5A4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode64A67EA2-63D4-4FD6-B1FC-85BC679E0468">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">353</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">356</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode25464B21-5169-491B-9D36-FB2AFB4BA5A4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode248F0828-0815-45E5-9F14-DB161EC28E87">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">357</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">361</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode04B2E9DC-332A-43FD-A4DA-70BFAB80415E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

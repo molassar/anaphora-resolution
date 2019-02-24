@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983077" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeFCCD9AD3-F782-4961-8887-E1227977F20D"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode5BF6F580-424F-4C51-9AEB-DD8F113386F2"/>
+	<Aux:TextAnnotations rdf:nodeID="bnodeAEF1B560-8007-46FF-BCF1-EABA9334F976">
+		<Aux:document_text xml:lang="ru-RU">Да извозчики-то на что ж?  Девочка-дикторша из теленовостей сообщила нам о новой звезде, открытой британскими учеными в Большом Мегалановом облаке. Названном, надо думать, в честь того самого знаменитого пятьюшественника Мегалана. А чего вы хотели? Не надо было астрономию в школе отменять! Теперь очередь, как я понимаю, за географией.  P.S. Исходную новость см. здесь. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0F553514-2D08-470A-B187-4FFD9130F464">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">146</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5BF6F580-424F-4C51-9AEB-DD8F113386F2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFC6E5783-96E7-46BE-92F5-3A581B9C0B61">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">192</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">229</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFCCD9AD3-F782-4961-8887-E1227977F20D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981341" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode7239B577-1C5F-4D47-B652-C91B07190A7C"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeD51E325A-2884-44A3-BCCE-F4B504762C24"/>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD31FCA39-6019-40BB-A13A-EBEA5A79F115">
+		<Aux:document_text xml:lang="ru-RU">current music  Надоело жить мне, как в засаде, Ждать удара в спину иль сплеча. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBBE17A91-F0E9-4CBD-873D-3B61D56C0B8B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD51E325A-2884-44A3-BCCE-F4B504762C24"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

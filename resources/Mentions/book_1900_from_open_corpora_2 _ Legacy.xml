@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982358" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode929C1EEC-5B7D-444F-A91C-544631F04F63"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode2344EF92-8B1F-4D5E-9BD7-A6993881B0D8"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode44E16E4D-4654-47C2-B1D9-5304BFBB8850"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode92514ECF-A29F-43EA-893C-12B6B0FF56B9"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6646B758-41DF-4284-9F71-6AEBE2C11164"/>
+	<Aux:TextAnnotations rdf:nodeID="bnode87FE42D4-A6DF-44EF-9C3D-E02693D0187E">
+		<Aux:document_text xml:lang="ru-RU">Статья 13. Государственный внебюджетный фонд  Государственный внебюджетный фонд — фонд денежных средств, образуемый вне федерального бюджета и бюджетов субъектов Российской Федерации и предназначенный для реализации конституционных прав граждан на пенсионное обеспечение, социальное страхование, социальное обеспечение в случае безработицы, охрану здоровья и медицинскую помощь. Расходы и доходы государственного внебюджетного фонда формируются в порядке, установленном федеральным законом, либо в ином порядке, предусмотренном настоящим Кодексом. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4EE1D77A-4CCE-4442-B5F9-2BA885F4634C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode44E16E4D-4654-47C2-B1D9-5304BFBB8850"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE3A624E0-19A0-45E5-AAB3-70ED94E11AC8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2344EF92-8B1F-4D5E-9BD7-A6993881B0D8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3EF74312-2254-4BD0-97C6-E81EA9289AAB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">182</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6646B758-41DF-4284-9F71-6AEBE2C11164"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5199B8F1-9DC8-4EE5-A7AE-529251998D0D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode929C1EEC-5B7D-444F-A91C-544631F04F63"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1D4C5EFC-EE45-46C5-8C40-F335BC423426">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">528</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode92514ECF-A29F-43EA-893C-12B6B0FF56B9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

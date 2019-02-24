@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982333" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode3C28AB86-DA32-47AA-A314-E646F8425889">
+		<rdfs:label xml:lang="ru-RU">объектами животного мира</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode88398C2B-6EF0-4C0D-9FEB-F28B54B4DA34">
+		<rdfs:label xml:lang="ru-RU">Пользование объектами животного мира без разрешения (лицензии)</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode491D677F-6179-43C8-94CC-91B391BB6796">
+		<rdfs:label xml:lang="ru-RU">такое разрешение</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeA2D0E599-F728-4031-8B22-51066F2B4F21">
+		<Aux:document_text xml:lang="ru-RU">Статья 7.11. Пользование объектами животного мира без разрешения (лицензии)  Пользование объектами животного мира без разрешения (лицензии), если такое разрешение (такая лицензия) обязательно (обязательна), либо с нарушением условий, предусмотренных разрешением (лицензией), а равно самовольная переуступка права пользования объектами животного мира, за исключением случаев, предусмотренных частью 2 статьи 8.17 настоящего Кодекса, - влечет наложение административного штрафа на граждан в размере от пяти до десяти минимальных размеров оплаты труда; на должностных лиц - от десяти до двадцати минимальных размеров оплаты труда; на юридических лиц - от ста до двухсот минимальных размеров оплаты труда. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC0A211AC-9D5D-44FD-B6DC-78B106FD65ED">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode88398C2B-6EF0-4C0D-9FEB-F28B54B4DA34"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1925C0E7-65FF-4263-B80D-6E17A8059D3C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3C28AB86-DA32-47AA-A314-E646F8425889"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode693D0B9B-EA40-4BB7-96B0-4689109EBAB4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode491D677F-6179-43C8-94CC-91B391BB6796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCE2A4513-6BF3-4AD1-8697-7E4C98C5EC37">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode88398C2B-6EF0-4C0D-9FEB-F28B54B4DA34"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode98D3A905-733A-430C-A8B5-397CD2742BB8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">113</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3C28AB86-DA32-47AA-A314-E646F8425889"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA6AAEE8B-B7FC-465E-B7FB-3B53587BFD46">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">118</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode491D677F-6179-43C8-94CC-91B391BB6796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7566F950-2648-4216-8D52-A0E169255BAF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">146</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode491D677F-6179-43C8-94CC-91B391BB6796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode271ABD54-8AE2-4313-9DC3-72168D4A7038">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">273</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode491D677F-6179-43C8-94CC-91B391BB6796"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

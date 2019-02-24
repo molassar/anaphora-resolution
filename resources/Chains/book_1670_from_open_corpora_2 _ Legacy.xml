@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982128" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6073CD85-08F9-4C64-9DF4-FD99E4B83EE1">
+		<Basic:identifier xml:lang="ru-RU">Чёрное золото</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">нефть</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">чёрного золота</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">чёрное золото</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">чёрного золота</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode845436F6-E995-4D6C-A670-C5E3C1B46EC2">
+		<Basic:identifier xml:lang="ru-RU">американская валюта</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">доллара</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">американская валюта</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode44A0C62B-15D1-4C36-9D57-704C23C0C69C">
+		<Aux:document_text xml:lang="ru-RU">Чёрное золото всё же слилось Цены на нефть сегодня упали почти на 4%.  Большинство товарных бирж сегодня заявляют о резком падении стоимости чёрного золота – в среднем на 4%. Так, на лондонской Межконтинентальной бирже цена сырой нефти подешевела на 2,85 долларов и достигла отметки 68,5 долларов за баррель. На Нью-йоркской товарной бирже стоимость светлой нефти также продолжает падать – пока на 2,67 долларов до 69,4 долларов за баррель, передаёт ИТАР-ТАСС. Таким образом, чёрное золото впервые за довольно продолжительное время опустилось ниже 70 долларов за баррель.  Финансовые эксперты объясняют столь ощутимое изменение цен на нефтяном рынке тремя причинами. Во-первых, свою роль сыграло оглашение прогноза Международного энергетического агентства о предстоящем урезании производства электроэнергии из-за общего спада производства. Во-вторых, китайцы вновь подтвердили тот факт, что снижают закупки всех видов промышленного топлива. В-третьих, американская валюта после долгого спада вновь начала восхождение. О том, как меняются цены на золото в зависимости от курса доллара см. «Доллар золоту не товарищ». </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode234A838F-22DA-48D6-A896-D05E65AED973">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6073CD85-08F9-4C64-9DF4-FD99E4B83EE1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7D1C5456-D904-4AE4-8A00-606013DAB6A0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6073CD85-08F9-4C64-9DF4-FD99E4B83EE1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode924B4E7B-50F7-4610-95CE-AE073DCDBC2A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">141</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">155</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6073CD85-08F9-4C64-9DF4-FD99E4B83EE1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode26562C62-D553-43BE-B3C7-2C4C33506B06">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">476</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">489</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6073CD85-08F9-4C64-9DF4-FD99E4B83EE1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode67C11D39-E38D-4B23-B9A0-D43E51B114B0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">952</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">971</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode845436F6-E995-4D6C-A670-C5E3C1B46EC2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD490BA6D-B7B4-46BD-9175-3AF93C3D18BC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1076</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1083</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode845436F6-E995-4D6C-A670-C5E3C1B46EC2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode09100541-27BA-40A6-940A-4E2D7C6CE2FE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1089</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1095</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode845436F6-E995-4D6C-A670-C5E3C1B46EC2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

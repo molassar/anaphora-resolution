@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983398" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode76FC9601-A829-4390-ACB6-967038EE5B25">
+		<Basic:identifier xml:lang="ru-RU">компании Red Bull</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">компании Red Bull</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode4B731C5E-87C5-4662-A5C0-7576C80B652C">
+		<Basic:identifier xml:lang="ru-RU">Red Bull Flugtag</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">«Red Bull Flugtag»</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">чемпионат</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">«Red Bull Flugtag»</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeA33D31BC-B3FA-4391-8FB7-9F021C94C7B7">
+		<Aux:document_text xml:lang="ru-RU">Red Bull Flugtag  «Red Bull Flugtag» — чемпионат самодельных летательных аппаратов.  Проводится с 1991 года при спонсорстве компании Red Bull как часть маркетингового проекта владельца Red Bull Дитриха Матешица.  В России чемпионат проходил впервые в 2009 году в Строгинской Пойме. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB24AC213-9943-4773-B3B0-993122536537">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4B731C5E-87C5-4662-A5C0-7576C80B652C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA3C627E5-9713-48FE-B6E2-E7FDBCA1087E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4B731C5E-87C5-4662-A5C0-7576C80B652C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeACBBA9CF-59DE-4B15-8402-D2E097B10C38">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">141</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode76FC9601-A829-4390-ACB6-967038EE5B25"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEE2AB226-FA43-4DF8-A56F-564EE8E92AC7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">193</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode76FC9601-A829-4390-ACB6-967038EE5B25"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode25DA6A0B-2611-4FCE-A017-9C44FEE617FB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">222</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">231</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4B731C5E-87C5-4662-A5C0-7576C80B652C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

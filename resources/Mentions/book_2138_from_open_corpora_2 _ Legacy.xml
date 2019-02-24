@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982596" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode49093703-540C-49F5-82B4-0B9B8E47F726">
+		<Basic:identifier xml:lang="ru-RU">судне</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">судно</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeF975565E-AB98-4C42-A268-7019D2B90086">
+		<Basic:identifier xml:lang="ru-RU">судовым документам</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">судовым документам</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode903EA1B5-D15D-431D-9793-EAF2A440C4BC">
+		<Basic:identifier xml:lang="ru-RU">такие документы</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">такие документы</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode738BF457-0E36-49A6-858F-8AC4AA4414BF">
+		<Basic:identifier xml:lang="ru-RU">которых</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">которых</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeCAF609D9-01DC-44C4-A88B-1F6E57AA0111">
+		<Basic:identifier xml:lang="ru-RU">судно</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">судно</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA5E1FC2A-F9F2-4DF3-B8E1-33D2E78FAA50">
+		<Basic:identifier xml:lang="ru-RU">судовых документов</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">судовых документов</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode7D5016F6-6C47-4175-84CD-CCCF924143D3">
+		<Aux:document_text xml:lang="ru-RU">Статья 31. Требования, предъявляемые к судовым документам  На судне должны находиться оригиналы судовых документов, за исключением свидетельства о праве собственности на судно и судового билета, копии которых должны быть заверены органом, выдавшим такие документы. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8B32684A-D74E-4FB4-BD30-41BDA3EA2FAD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF975565E-AB98-4C42-A268-7019D2B90086"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode156D5E8A-63B3-4584-88FA-63315D092174">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode49093703-540C-49F5-82B4-0B9B8E47F726"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF0BB8621-52DF-4577-9640-65778A3B7C84">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA5E1FC2A-F9F2-4DF3-B8E1-33D2E78FAA50"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1965C191-3A3D-4C8A-8C09-A4797FA5A400">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">175</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCAF609D9-01DC-44C4-A88B-1F6E57AA0111"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode95CFF4BD-3025-4C02-8790-34C65F42EDE7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">201</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">208</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode738BF457-0E36-49A6-858F-8AC4AA4414BF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode578329C4-022D-4917-8E44-8DAE587254C5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">263</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode903EA1B5-D15D-431D-9793-EAF2A440C4BC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

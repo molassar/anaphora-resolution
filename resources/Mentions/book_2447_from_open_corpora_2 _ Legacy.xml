@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982905" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeBAD58FE5-116A-4E66-BAED-55FCC28DCC58">
+		<Basic:identifier xml:lang="ru-RU">технологий</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">технологии</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC02CA8EF-9545-4AEC-8DAF-DE5ACA138CEB">
+		<Basic:identifier xml:lang="ru-RU">Мне</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Мне</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeD3A15282-AE10-4861-ABB1-EAEE4FD35715">
+		<Basic:identifier xml:lang="ru-RU">VPN</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">VPN</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode8A41CE84-9B7A-40A5-BC0C-8BF5A4130E24">
+		<Basic:identifier xml:lang="ru-RU">цисковским VPN технологиям</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">цисковским VPN технологиям</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode378F66D6-C978-449C-AEF5-B513C4E3E741">
+		<Aux:document_text xml:lang="ru-RU">Есть ли среди читателей эксперт по цисковским VPN технологиям? Мне нужно квалифицированное мнение с достаточной степенью детализации о стоимости внедрения данных технологий в некой воображаемой организации. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAF6B7598-529B-497C-8AAA-34A529B50ABC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8A41CE84-9B7A-40A5-BC0C-8BF5A4130E24"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7C0823B6-7EF0-4084-9DA7-3F5ADCF6EE1B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD3A15282-AE10-4861-ABB1-EAEE4FD35715"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode56706B93-CA7D-4E67-BF6C-A51C3FCD1F90">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC02CA8EF-9545-4AEC-8DAF-DE5ACA138CEB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB5DE4890-28F1-4422-A4F8-BAF0F659C803">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">172</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBAD58FE5-116A-4E66-BAED-55FCC28DCC58"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982342" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode263FB0EF-9123-4E34-B8D9-DC57E57EAEA6">
+		<Basic:identifier xml:lang="ru-RU">системам питьевого водоснабжения</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">системам питьевого водоснабжения</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeADB573A6-803D-42F1-BDC6-9E3CD53EDB0A">
+		<Basic:identifier xml:lang="ru-RU">системам водоотведения городских и сельских поселений</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">системам водоотведения городских и сельских поселений</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode2ADE6E8A-2EE5-469A-9514-DF84B161C494">
+		<Aux:document_text xml:lang="ru-RU">Статья 7.20. Самовольное подключение к централизованным системам питьевого водоснабжения и (или) системам водоотведения городских и сельских поселений  Самовольное подключение к централизованным системам питьевого водоснабжения и (или) системам водоотведения городских и сельских поселений - влечет наложение административного штрафа на граждан в размере от десяти до пятнадцати минимальных размеров оплаты труда; на должностных лиц - от двадцати до тридцати минимальных размеров оплаты труда; на юридических лиц - от двухсот до трехсот минимальных размеров оплаты труда. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB26A50DF-B059-4317-80F4-5A9FF696E92B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode263FB0EF-9123-4E34-B8D9-DC57E57EAEA6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode250517B4-5881-4CA7-8609-6122EE6F0E2B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeADB573A6-803D-42F1-BDC6-9E3CD53EDB0A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0A569551-0042-4E98-9E41-398903FF0895">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">178</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">227</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode263FB0EF-9123-4E34-B8D9-DC57E57EAEA6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD2471A7C-3DDD-4BA1-8151-B679AA460F65">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">236</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">289</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeADB573A6-803D-42F1-BDC6-9E3CD53EDB0A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

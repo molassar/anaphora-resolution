@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983027" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode9967D355-912D-4CAC-B863-E94DB5071B2C">
+		<Basic:identifier xml:lang="ru-RU">мы</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">нам</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">нам</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode3BBD52F6-CC29-4C52-84D5-C94818673CBF">
+		<Basic:identifier xml:lang="ru-RU">дорог</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">ним</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">них</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">дорог</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB787CA9F-3C0F-4DFF-A348-852D6C53279A">
+		<Basic:identifier xml:lang="ru-RU">моё</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">своей</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">свою</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">ты</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">своей</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeA3B82C97-2606-4D90-82A3-4AF847215851">
+		<Aux:document_text xml:lang="ru-RU">Die Wege  Есть много дорог, и в каждый из моментов жизни мы можем выбрать какую-либо из всего множества возможных. Но чем дальше, тем больше обращаешь внимание, что при всём таком многообразии вариантов путь-то всего один. Ну или может не один, но уйма вариантов просто отсекается как неподходящие. И не в том смысле, что по ним нельзя пойти -- пойти можно, а в том, что идти по ним не хочется -- ибо не моё, так как большинство из них в перспективе тупиковые и совершенно неинтересные; это те дороги, на которых теряешь себя.  Здесь и передача ответственности за свою жизнь кому-то ещё; это и впадение в зависимости от кого-либо, выливающееся в потерю самодостаточности; это и дороги, на которых ты не становишься сильнее; дороги, на которых ты вместо того, чтобы реализовать себя по возможности полнее, начинаешь реализовывать чужие достаточно далёкие для тебя замыслы. И единственно верный путь -- это быть хозяином своей собственной судьбы и уметь чувствовать, чего же хочешь именно ты сам.  И в этом смысле можно даже сказать, что значительная часть выборов оказывается предопределена, потому что по-другому просто нельзя, это всё путь в никуда. Всё-таки этот мир доверен нам не просто так :)  Хотя на словах это, конечно, всегда проще, чем в деле :) </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC6837D09-6DC7-4975-B77B-95DC2E78D8C1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3BBD52F6-CC29-4C52-84D5-C94818673CBF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA3EE4EDC-2133-463F-83A2-5CD546A947BD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9967D355-912D-4CAC-B863-E94DB5071B2C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE9D9FF6B-F4E6-494C-941F-4C1BAAA472D6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">325</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3BBD52F6-CC29-4C52-84D5-C94818673CBF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1F7BC115-7868-49BC-BC65-A40ED1E1CF84">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">382</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3BBD52F6-CC29-4C52-84D5-C94818673CBF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode206DFA3D-2EC5-43CC-9C82-A5C6DA5DB4A8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">404</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">407</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB787CA9F-3C0F-4DFF-A348-852D6C53279A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5B1E24CD-A390-43C5-94E0-650F82763884">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">435</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3BBD52F6-CC29-4C52-84D5-C94818673CBF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4305EE0E-AE93-42AA-BABF-ACCE17850274">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">564</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">568</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB787CA9F-3C0F-4DFF-A348-852D6C53279A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode93D62DD7-9B46-4228-A81D-1CCB93A2664E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">697</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">699</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB787CA9F-3C0F-4DFF-A348-852D6C53279A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5119851E-7F07-4D35-A605-59C1426BB0E1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">743</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">745</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB787CA9F-3C0F-4DFF-A348-852D6C53279A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCEF75C65-9E69-413F-808C-5D384B35C617">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">919</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">924</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB787CA9F-3C0F-4DFF-A348-852D6C53279A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode01D76025-31B1-4D92-80C2-573DCE4FADF7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">987</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">989</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB787CA9F-3C0F-4DFF-A348-852D6C53279A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6751F73B-0CC5-476E-AFE3-658E23186952">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1177</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1180</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9967D355-912D-4CAC-B863-E94DB5071B2C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

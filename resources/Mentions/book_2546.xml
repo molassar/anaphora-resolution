@@ -1,15 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="983004" markupID="21837" OntoTechnologyVersion="3.5.16.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-	<RomipAnaphora:RomipThing rdf:nodeID="bnodeFA2D06E5-B007-4CC8-A886-154FE3579E0F"/>
-	<Aux:TextAnnotations rdf:nodeID="bnodeF77433B5-6DCC-4B28-8D3F-31B1BFDB78C6">
-		<Aux:document_text xml:lang="ru-RU">обабщение  Слово придумал.  В Яндекс не полезу, ну и что что не первый :) </Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode33F1AAE0-D359-4F96-8B90-05375367E4F9">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeFA2D06E5-B007-4CC8-A886-154FE3579E0F"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

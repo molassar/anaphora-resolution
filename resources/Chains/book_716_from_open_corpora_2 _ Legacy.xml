@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981174" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeAC967D69-55C2-4EF1-97D6-640FF6E87345">
+		<Basic:identifier xml:lang="ru-RU">производители</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">свои</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">производители</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode457714DC-65B3-4BED-BAEC-864D51687858">
+		<Basic:identifier xml:lang="ru-RU">1 апреля 2010 года</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">этой даты</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">1 апреля 2010 года</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode9CAF236D-E7D1-4BB6-8E73-D92B191E7CD2">
+		<Basic:identifier xml:lang="ru-RU">Каждая аптека</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">своём</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Каждая аптека</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6CB06E65-CD5B-4E9A-AB38-F8302901C6BF">
+		<Basic:identifier xml:lang="ru-RU">ЖНВЛС</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">их</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">медицинские препараты из группы ЖНВЛС</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">медицинские препараты из группы ЖНВЛС</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeE23380D7-AA10-49F5-9E46-732C2586F7C9">
+		<Basic:identifier xml:lang="ru-RU">главы ведомства</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">министра здравоохранения и соцразвития Татьяну Голикову</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">министра здравоохранения и соцразвития Татьяну Голикову</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode89F6A5B8-4C5D-43BF-85E5-0F21110ACFCC">
+		<Basic:identifier xml:lang="ru-RU">России</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Российской Федерации</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">страны</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Российской Федерации</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode9768E01A-19F2-48B8-8A21-9388FA2FB28F">
+		<Basic:identifier xml:lang="ru-RU">Росздравнадзор</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Росздравнадзоре</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Росздравнадзоре</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode63508E81-462B-495F-84D7-BF01A07590D2">
+		<Aux:document_text xml:lang="ru-RU">Болеть россиянам не по карману Росздравнадзор выявил завышение цен на жизненно необходимые лекарства почти в 40 регионах страны.  Проверка в регионах соблюдения предельной стоимости на медицинские препараты из группы ЖНВЛС (жизненно важных и необходимых лекарственных средств) показала, что постановление правительства нарушается почти на половине территории России. «Превышение фактических розничных цен над предельными розничными ценами выявлено в 37 регионах Российской Федерации — от 0,17% в Липецкой области до 276,6% в Иркутской области», — цитирует министра здравоохранения и соцразвития Татьяну Голикову РГРК «Голос России».  Кроме того, по словам главы ведомства, в 22 субъектах страны выявлены случаи продажи ЖНВЛС, не имеющих государственной регистрации цены, что является нарушением федерального закона «Об обращении лекарственных средств». Каждая аптека в своём торговом зале должна вывешивать перечень ЖНВЛС с указанием их предельной цены, однако на деле в каждой четвёртой аптеке эта информация либо отсутствует, либо нечитаема. Напомним, с 1 апреля 2010 года в России вступили в силу правила регулирования цен на отечественном рынке. До этой даты производители должны были зарегистрировать свои цены на лекарства в Росздравнадзоре. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD38E0CCD-5F4F-44A8-AD4E-32DB16DC2B6A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9768E01A-19F2-48B8-8A21-9388FA2FB28F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4F9C601A-C616-41B7-A4D9-0E75CE1468F8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">121</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">127</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode89F6A5B8-4C5D-43BF-85E5-0F21110ACFCC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode00F8C093-AA19-446C-8872-75D310E5892D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">222</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6CB06E65-CD5B-4E9A-AB38-F8302901C6BF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode65FCEF38-2118-49B3-BC30-533F35593B6C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">359</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">365</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode89F6A5B8-4C5D-43BF-85E5-0F21110ACFCC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4DF28495-8ECD-4A84-9A16-3EA1DA89D3AC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">462</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">482</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode89F6A5B8-4C5D-43BF-85E5-0F21110ACFCC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeACCD2800-933A-4790-9856-3F58F5D8DE5A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">556</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">611</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE23380D7-AA10-49F5-9E46-732C2586F7C9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode674F93B4-FCEB-4F98-B6F4-3753A0B15C2C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">656</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">671</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE23380D7-AA10-49F5-9E46-732C2586F7C9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode97AC67A3-FC72-485D-BE86-9AC006A7F833">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">688</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">694</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode89F6A5B8-4C5D-43BF-85E5-0F21110ACFCC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8B808BC2-F775-4757-BC9A-81E212C65EE2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">719</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">724</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6CB06E65-CD5B-4E9A-AB38-F8302901C6BF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCA139D85-33D5-4A1D-9ADB-05197F35A6DE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">853</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">866</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9CAF236D-E7D1-4BB6-8E73-D92B191E7CD2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF249D2E4-D845-4576-BA61-1E9B2A60D6AD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">869</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">874</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9CAF236D-E7D1-4BB6-8E73-D92B191E7CD2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7F56FA9C-7790-4071-8C8F-48906ECE8A05">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">916</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">921</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6CB06E65-CD5B-4E9A-AB38-F8302901C6BF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA972F3BD-E49F-411B-A219-26DCADA40BAE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">934</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">936</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6CB06E65-CD5B-4E9A-AB38-F8302901C6BF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDB41B330-9977-46B9-9530-B7E17A3F8D07">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1056</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1074</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode457714DC-65B3-4BED-BAEC-864D51687858"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4F38FB11-AAF2-40FF-8F1D-118094EB14CA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1077</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1083</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode89F6A5B8-4C5D-43BF-85E5-0F21110ACFCC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA0C63990-A22A-4F6F-ABBA-A06A37DF8C9A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1153</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1162</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode457714DC-65B3-4BED-BAEC-864D51687858"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode29C6580E-A15D-4AC5-99AB-83B815E13292">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1163</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1176</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAC967D69-55C2-4EF1-97D6-640FF6E87345"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC07890E0-84AD-4707-B799-12A2CFDD7422">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1206</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1210</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAC967D69-55C2-4EF1-97D6-640FF6E87345"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode96D917C9-A7E0-4B0E-8253-D22947F98333">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1231</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1246</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9768E01A-19F2-48B8-8A21-9388FA2FB28F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

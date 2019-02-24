@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982223" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode13481E77-922C-45F3-9530-74D4266D1801">
+		<Basic:identifier xml:lang="ru-RU">суд</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">суда</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">судом</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">судом</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeC83D2AB4-0E83-40A2-B016-C4CAB80537D5">
+		<Aux:document_text xml:lang="ru-RU">Статья 29. Признание гражданина недееспособным  1. Гражданин, который вследствие психического расстройства не может понимать значения своих действий или руководить ими, может быть признан судом недееспособным в порядке, установленном гражданским процессуальным законодательством. Над ним устанавливается опека.  2. От имени гражданина, признанного недееспособным, сделки совершает его опекун.  3. Если основания, в силу которых гражданин был признан недееспособным, отпали, суд признает его дееспособным. На основании решения суда отменяется установленная над ним опека.  По вопросу, касающемуся практики рассмотрения судами Российской Федерации дел об ограничении дееспособности граждан, злоупотребляющих спиртными напитками или наркотическими средствами, см. Постановление Пленума Верховного Суда РФ от 04.05.1990 N 4. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB38BB3CF-BDB7-4587-A713-6FE46D82A795">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">188</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">193</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode13481E77-922C-45F3-9530-74D4266D1801"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE5D7EF91-7B23-4686-A4AB-BE39D23099DF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">477</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode13481E77-922C-45F3-9530-74D4266D1801"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA699E29F-058C-47FB-B2CF-4D7552D0156C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">526</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">530</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode13481E77-922C-45F3-9530-74D4266D1801"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

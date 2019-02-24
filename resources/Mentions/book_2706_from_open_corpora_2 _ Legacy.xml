@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983164" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode0D34C240-F30E-471C-ACF8-63E647AF8CC0">
+		<Basic:identifier xml:lang="ru-RU">Ленина</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Ленина</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA8C8CEDC-77C0-46C7-AE37-FB903AACA879">
+		<Basic:identifier xml:lang="ru-RU">мне</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">мне</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode8F16FB42-83C6-48AA-89D8-E29BDC8ABFF7">
+		<Basic:identifier xml:lang="ru-RU">президентских выборов</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">президентских выборов</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6A25942B-C273-4150-A549-9F2F895F2A86">
+		<Basic:identifier xml:lang="ru-RU">мои</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">мои</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode29790797-6992-49BC-965A-6EA6604FC3D9">
+		<Basic:identifier xml:lang="ru-RU">я</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">я</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode3D4F04C3-27D5-47B5-8DDE-E82B1F4C899E">
+		<Basic:identifier xml:lang="ru-RU">выборы</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">выборы</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeAF018CA0-DC16-4F2C-8D35-83DC13785112">
+		<Basic:identifier xml:lang="ru-RU">Я</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Я</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC3940806-E469-40BC-94A5-950A1BB9C34C">
+		<Basic:identifier xml:lang="ru-RU">выборы</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">выборы</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode7A6F8CE9-84BC-440F-BF81-E8FD5A82AA8B">
+		<Basic:identifier xml:lang="ru-RU">России</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Россия</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode97045D1B-8541-4D88-B549-48947A96D5F7">
+		<Aux:document_text xml:lang="ru-RU">Напоминание: 2 марта в России выборы  Я хожу на выборы, потому что верю, что спрос рождает предложение. И если я буду голосовать, то появятся кандидаты, которые будут выражать мои интересы.  Конечно, глобальный результат президентских выборов предрешён, но в качестве дополнительного результата мне бы ещё хотелось, чтобы Ленина наконец-то похоронили. По-моему, чем меньше голосов получат коммунисты, тем легче это будет сделать.  Отдельно хочется пожелать удачи тем, кто выбирает 2 марта местную власть. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode78BC7FDD-B4CB-4B17-BFE1-B80FE95E6B6C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7A6F8CE9-84BC-440F-BF81-E8FD5A82AA8B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode664F47D3-E328-4E27-B781-AFDC9419F4D3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC3940806-E469-40BC-94A5-950A1BB9C34C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8A445996-42C2-470A-A674-4D1E92CE01C4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAF018CA0-DC16-4F2C-8D35-83DC13785112"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEBDE9CC0-30EF-4A1F-9719-446B22392C71">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3D4F04C3-27D5-47B5-8DDE-E82B1F4C899E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2174D442-E397-4052-B735-AD12DE324673">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode29790797-6992-49BC-965A-6EA6604FC3D9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5BFE92C9-511E-405E-93F8-AFAFEDE90528">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">176</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6A25942B-C273-4150-A549-9F2F895F2A86"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode63E40E38-33D7-4F16-8B11-46E866C5D203">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">221</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">242</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8F16FB42-83C6-48AA-89D8-E29BDC8ABFF7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9C675733-67B2-4F48-ADAE-1903A6E571D5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">295</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">298</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA8C8CEDC-77C0-46C7-AE37-FB903AACA879"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA23511E1-EA7C-413E-8222-7CFE9ED550D5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">322</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0D34C240-F30E-471C-ACF8-63E647AF8CC0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982078" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode3C13EF05-37D1-4C20-9A72-7D054AC9F6CD"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode08ADBEC6-ECAC-4680-858D-8C564818C0C9"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode031DDBE7-9159-4B1E-A0E1-03E2E8EF4088"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeE993C75C-0AC0-417F-BCFA-FB2937881DCA"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode786F5613-373B-4CA1-92E7-965B8A1366E1"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeE564E521-2B9D-4FCF-A6CC-0590C4FA15F5"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode78CC599B-D296-4D5E-B1E4-DB1EF4097F6D"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode9A310A87-F360-46F7-8B0F-1F8621F1F9D4"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode1C6DD332-B79B-4CD6-B372-7365D04FC7BB"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode328DB5F8-5074-4172-8AE4-B5DD9E372CA3"/>
+	<Aux:TextAnnotations rdf:nodeID="bnode47B3C3A8-BB43-47EE-8832-38A28E0B8A0D">
+		<Aux:document_text xml:lang="ru-RU">Motorola запатентовала проект телефона c 3D дисплеем Эксперты считают, что 3D-мобильник появится не раньше чем через 5—6 лет, после обкатки технологии на телевизорах.  Да, речь пока идёт только о проекте 3D-мобильника. Однако американский производитель первым успел запатентовать уникальную технологию, которая даёт возможность смотреть 3D-картинки и видео на телефоне-раскладушке. Предполагается, что всё самое ценное будет вмонтировано в крышку аппарата, которая изготовлена из прозрачного материала и похожа на линзу. Когда раскладушка открыта, владелец видит простое двухмерное изображение, при закрытии крышки прозрачная линза насытит картинку третьим измерением. Правда, не сообщается, нужны ли специальные очки.  Эксперты указывают, что все предшествующие потуги в области мобильного 3D были нацелены не на телефоны-раскладушки или слайдеры, а на моноблоки. Кстати, на рынке уже есть одно такое устройство — телефон Samsung SCH-In960, который продаётся только в Южной Корее. Тем не менее уже создано немало технологий, которые дают пользователю возможность видеть трёхмерное изображение даже на небольших экранах. Несмотря на все успехи, аналитики уверены, что раньше 2015 года 3D в телефоне не появится. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA7D326CA-DD83-40B4-84E9-1702761E1243">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode328DB5F8-5074-4172-8AE4-B5DD9E372CA3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode48A57298-22E7-46AC-AA68-B8F8D9704037">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE564E521-2B9D-4FCF-A6CC-0590C4FA15F5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6CD73800-3BFA-4169-8674-0FC2D96750B5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">204</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode786F5613-373B-4CA1-92E7-965B8A1366E1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1CCDD395-7905-407E-833C-207DA3552022">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">226</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">252</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1C6DD332-B79B-4CD6-B372-7365D04FC7BB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCDA36FA1-6094-4ECA-BA3D-013B30E16CEB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">380</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE993C75C-0AC0-417F-BCFA-FB2937881DCA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC506E1C1-FD92-4281-BBAE-5414DC18225C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">527</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">538</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode031DDBE7-9159-4B1E-A0E1-03E2E8EF4088"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode56E4D437-A76D-4985-B673-9236527D79A1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">814</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">834</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode08ADBEC6-ECAC-4680-858D-8C564818C0C9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8F5F891F-B4BF-4117-992D-0E6F02D4BE4F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">915</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">940</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9A310A87-F360-46F7-8B0F-1F8621F1F9D4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4202B804-073F-43FD-9214-A6CE03EFE7D1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">942</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">949</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3C13EF05-37D1-4C20-9A72-7D054AC9F6CD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3C9DF6AC-CBF3-4210-9081-A1A85A528291">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">969</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">980</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode78CC599B-D296-4D5E-B1E4-DB1EF4097F6D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,62 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?OntoDPSData docID="982361" markupID="22136" OntoTechnologyVersion="3.5.16.0"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#">
-	<RomipAnaphora:RomipThing rdf:nodeID="bnodeBFDCD891-D713-4B19-AB53-6C730E067840">
-		<rdfs:label xml:lang="ru-RU">Федеральный бюджет</rdfs:label>
-	</RomipAnaphora:RomipThing>
-	<RomipAnaphora:RomipThing rdf:nodeID="bnode57284B78-C1D7-42AE-944F-4DA539911CBD">
-		<rdfs:label xml:lang="ru-RU">Российской Федерации</rdfs:label>
-	</RomipAnaphora:RomipThing>
-	<Aux:TextAnnotations rdf:nodeID="bnodeC16F442F-2BC2-46A6-AE43-4C36B40CC1D4">
-		<Aux:document_text xml:lang="ru-RU">Статья 16. Федеральный бюджет  (в ред. Федерального закона от 20.08.2004 N 120-ФЗ)  Федеральный бюджет — форма образования и расходования денежных средств в расчете на финансовый год, предназначенных для исполнения расходных обязательств Российской Федерации.  Использование федеральными органами государственной власти иных форм образования и расходования денежных средств, предназначенных для исполнения расходных обязательств Российской Федерации, не допускается, за исключением случаев, установленных настоящим Кодексом и иными федеральными законами.  Федеральный бюджет и свод бюджетов других уровней бюджетной системы Российской Федерации (без учета межбюджетных трансфертов между этими бюджетами и за исключением бюджетов государственных внебюджетных фондов и территориальных государственных внебюджетных фондов) образуют консолидированный бюджет Российской Федерации. </Aux:document_text>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode9BFFBC0D-C482-4ED9-B8CB-B88601E1DAC8">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeBFDCD891-D713-4B19-AB53-6C730E067840"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode81670EC3-0FDB-478D-AC18-0DFB7701BCBE">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">102</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeBFDCD891-D713-4B19-AB53-6C730E067840"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode599F10E6-96D2-4815-A198-613B2AC95BED">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">238</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">258</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode57284B78-C1D7-42AE-944F-4DA539911CBD"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeD6B4CF8F-F44D-4C43-BF7D-4D087B1D7E29">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">429</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">449</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode57284B78-C1D7-42AE-944F-4DA539911CBD"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode5B9D3D87-3282-481D-B679-6123C3CC8689">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">556</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">574</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnodeBFDCD891-D713-4B19-AB53-6C730E067840"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnode51E24A5A-4C23-4B49-96CA-9DFDF0C1093D">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">624</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">644</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode57284B78-C1D7-42AE-944F-4DA539911CBD"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-		<Aux:annotation>
-			<Aux:InstanceAnnotation rdf:nodeID="bnodeEDCA1460-C7F5-428A-B64E-44E6179A8D98">
-				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">854</Aux:annotation_start>
-				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">874</Aux:annotation_end>
-				<Aux:instance rdf:nodeID="bnode57284B78-C1D7-42AE-944F-4DA539911CBD"/>
-			</Aux:InstanceAnnotation>
-		</Aux:annotation>
-	</Aux:TextAnnotations>
-</rdf:RDF>

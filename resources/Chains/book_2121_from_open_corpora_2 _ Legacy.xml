@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982579" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode4FEDAC3E-797C-4740-889B-D05B0478142A">
+		<Basic:identifier xml:lang="ru-RU">Российской Федерации</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Российской Федерации</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode8F60693B-4D05-4B8E-9A89-471F0984D6A3">
+		<Basic:identifier xml:lang="ru-RU">права плавания под Государственным флагом Российской Федерации</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">право плавания под Государственным флагом Российской Федерации</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">правом плавания под Государственным флагом Российской Федерации</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">такое право</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">правом плавания под Государственным флагом Российской Федерации</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode24AECADF-4505-4070-B9FC-9AD13E42058F">
+		<Basic:identifier xml:lang="ru-RU">Судно, приобретенное за пределами Российской Федерации</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">судна</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Судно, приобретенное за пределами Российской Федерации</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeFD508B2D-F071-460D-8087-369D531EED51">
+		<Basic:identifier xml:lang="ru-RU">Судно</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">его</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Судно</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode96ABD9EB-6CBA-47D6-BCBD-B731988171BC">
+		<Aux:document_text xml:lang="ru-RU">Статья 16. Возникновение права плавания под Государственным флагом Российской Федерации  1. Судно приобретает право плавания под Государственным флагом Российской Федерации с момента регистрации его в одном из реестров судов Российской Федерации, указанных в пункте 1 статьи 33 настоящего Кодекса.  2. Судно, приобретенное за пределами Российской Федерации, пользуется правом плавания под Государственным флагом Российской Федерации с момента выдачи консульским учреждением Российской Федерации временного свидетельства, удостоверяющего такое право и действительного до регистрации судна в Государственном судовом реестре, Российском международном реестре судов или судовой книге, но не более чем шесть месяцев. (в ред. Федерального закона от 20.12.2005 N 168-ФЗ) </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0EA1DCF8-7469-4611-9F63-2A651A961ECB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8F60693B-4D05-4B8E-9A89-471F0984D6A3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC87D4429-097E-4891-AC19-BB6993637621">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">92</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFD508B2D-F071-460D-8087-369D531EED51"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBB574D84-95FC-4902-9B57-DBF5D180A6F5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">172</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8F60693B-4D05-4B8E-9A89-471F0984D6A3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF7277E11-1E56-420A-A126-7FD296438B1E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFD508B2D-F071-460D-8087-369D531EED51"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode259F424D-DB14-4763-87CE-B4E8A4B5F832">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">245</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4FEDAC3E-797C-4740-889B-D05B0478142A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3FB0B437-EF48-4A41-926D-7C84A9803182">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">302</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">356</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode24AECADF-4505-4070-B9FC-9AD13E42058F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5E60E219-D0C3-483B-B7CA-A678610675A4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">356</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4FEDAC3E-797C-4740-889B-D05B0478142A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6168D83B-398D-4059-8C50-2FAB7682B0F1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">369</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8F60693B-4D05-4B8E-9A89-471F0984D6A3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode76A6ABE9-D555-455E-B1FD-857747AABAD1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">494</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4FEDAC3E-797C-4740-889B-D05B0478142A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEFBD6FB0-1646-4DAF-8631-7490C8338DFA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">537</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">548</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8F60693B-4D05-4B8E-9A89-471F0984D6A3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode123258C7-E527-4E7D-A7C0-5040DEEACD96">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">582</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">587</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode24AECADF-4505-4070-B9FC-9AD13E42058F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

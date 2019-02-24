@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983420" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode46E9E41C-8BE6-4CB2-8CC8-12B89FA53FB9">
+		<Basic:identifier xml:lang="ru-RU">POI</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">ней</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">эту точку</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">эта точка</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode2BC8B403-0FF3-4707-8B95-B8CECBE50A35">
+		<Aux:document_text xml:lang="ru-RU">POI  POI (англ. point of interest) — достопримечательность или другой объект, отмеченный точкой на карте.  По мнению человека, создавшего эту точку, информация о ней может оказаться интересной или полезной. К примеру это могут быть источники пресной воды, удачные места для фотосъёмки, памятники и т. д. Термин POI широко используется в картографии, особенно в электронной, включая ГИС и GPS-навигационное программное обеспечение.  Полноценная POI содержит информацию о координатах (широта и долгота), название, описание и другие параметры, в том числе высота, номер телефона. В приложениях для навигации обычно POI отображаются в виде тематических иконок. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7DDDBB48-1C97-4716-84B6-6190E4FC320B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode46E9E41C-8BE6-4CB2-8CC8-12B89FA53FB9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode911E2496-78DD-4419-95B7-81E7EEEECB02">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode46E9E41C-8BE6-4CB2-8CC8-12B89FA53FB9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode00D39106-9679-4339-84E1-4F63CDA3D629">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode46E9E41C-8BE6-4CB2-8CC8-12B89FA53FB9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1FCC176B-31C2-4235-A424-59B15252BBEE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">138</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode46E9E41C-8BE6-4CB2-8CC8-12B89FA53FB9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3D7B6C02-1196-4F8B-9E95-DCCE7013B293">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">165</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode46E9E41C-8BE6-4CB2-8CC8-12B89FA53FB9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4376CEEE-6E1A-47DF-84F4-D71644376302">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">444</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">447</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode46E9E41C-8BE6-4CB2-8CC8-12B89FA53FB9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode77FD1F5A-17E1-4ADE-A35C-50A7828E2CD2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">612</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">615</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode46E9E41C-8BE6-4CB2-8CC8-12B89FA53FB9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

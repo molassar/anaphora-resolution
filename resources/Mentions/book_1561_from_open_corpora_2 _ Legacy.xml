@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982019" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeAC6F6341-18B7-44E9-AA9E-B5AA5E8CA5F9">
+		<Basic:identifier xml:lang="ru-RU">президента</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">президента</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC1D49B00-5091-4817-A109-435501763F1B">
+		<Basic:identifier xml:lang="ru-RU">Селайя</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Селайя</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode82A915C9-D27F-490D-973A-E60FE121B218">
+		<Basic:identifier xml:lang="ru-RU">президента Мануэля Селайи</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">президента Мануэля Селайи</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode5ABC251E-E720-4F3E-9FCE-54B5FEE23723">
+		<Basic:identifier xml:lang="ru-RU">он</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">он</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode087DED59-B49C-42F6-B505-BCC4E37DB8B8">
+		<Basic:identifier xml:lang="ru-RU">лидер государства Роберто Мичелетти</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">лидер государства Роберто Мичелетти</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeCA6EC05E-9C54-4CD8-9E2A-7E353DF5F1D1">
+		<Basic:identifier xml:lang="ru-RU">Гондурасе</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Гондурасе</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA51C1C7A-5126-42DC-8E0C-6E17B1D87A43">
+		<Basic:identifier xml:lang="ru-RU">Селайю</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Селайя</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC1151453-3F1D-4614-A4CD-F1B66E7A86B0">
+		<Basic:identifier xml:lang="ru-RU">Мичелетти</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Мичелетти</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB8AE4F84-7237-4EE0-8A44-0B80AC598658">
+		<Basic:identifier xml:lang="ru-RU">Reuters</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Reuters</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode71F3D99B-B8D7-4FB7-9311-963D352086DF">
+		<Aux:document_text xml:lang="ru-RU">Беспокойство продолжается Мичелетти обманул Селайю.  Вопреки прежним сообщениям, политический кризис в Гондурасе не преодолён. Фактический лидер государства Роберто Мичелетти объявил, что он сформирует новый кабинет министров без участия представителей свергнутого президента Мануэля Селайи.  Селайя в связи с этим заявил, что не признает результаты выборов президента, которые назначены на 29 ноября. Об этом сообщает Reuters. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF7258F65-7586-4F62-BAF7-2BC7BBB06F3A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC1151453-3F1D-4614-A4CD-F1B66E7A86B0"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode91A68E41-2E7A-4F3A-93A5-74FB1D389A78">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA51C1C7A-5126-42DC-8E0C-6E17B1D87A43"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAE2597FC-E545-46C6-8E6F-F9C86603B027">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">103</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCA6EC05E-9C54-4CD8-9E2A-7E353DF5F1D1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2D88E4E1-CD77-4A65-9ACD-43E146B5FD07">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">174</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode087DED59-B49C-42F6-B505-BCC4E37DB8B8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAA0B9F3F-FDCF-433E-A517-05D650C77C13">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">188</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">190</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5ABC251E-E720-4F3E-9FCE-54B5FEE23723"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAEE83796-0E07-4504-9B53-FAF311027E3A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">265</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">290</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode82A915C9-D27F-490D-973A-E60FE121B218"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDF91A992-0611-4402-B287-B083DAD7B77C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">293</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">299</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC1D49B00-5091-4817-A109-435501763F1B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5923B082-83B2-49A9-889D-11082188DAAB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">358</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">368</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAC6F6341-18B7-44E9-AA9E-B5AA5E8CA5F9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode565CFC2B-6852-49F3-AD50-34A3B278A6C6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">426</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB8AE4F84-7237-4EE0-8A44-0B80AC598658"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

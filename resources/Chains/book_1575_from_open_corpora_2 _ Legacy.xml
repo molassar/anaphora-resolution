@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982033" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6157CF47-9BD3-472A-842C-55F53411A6F4">
+		<Basic:identifier xml:lang="ru-RU">свой</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">зожник</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6111294D-E5D1-4BBF-9468-D4E600107B41">
+		<Basic:identifier xml:lang="ru-RU">Петербурге</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">город</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Санкт-Петербург</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeAFF3E4E8-B049-464D-93F4-BB5FA69C07BB">
+		<Basic:identifier xml:lang="ru-RU">Санкт-Петербургское издательство «Курьер – 2013»</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">издатели</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">наше</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Санкт-Петербургское издательство «Курьер – 2013»</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode1A02106A-0A4F-454C-968E-B56F081072B8">
+		<Basic:identifier xml:lang="ru-RU">«Подробно о здоровье»</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Издание</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">газета</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">издания</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">нашего издания</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">новый городской еженедельник</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">новый городской еженедельник</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode31A9E97F-11FD-436D-90B2-40F5A5696FAC">
+		<Aux:document_text xml:lang="ru-RU">Для людей и о людях – бесплатно В Петербурге начал выходить новый городской еженедельник.  Санкт-Петербургское издательство «Курьер – 2013» выпустило новый бесплатный еженедельник – «Подробно о здоровье». Издатели обещают, что газета будет освещать «все аспекты жизни человека, ведущего здоровый образ жизни или стремящегося к этому, уделяющего внимание своему внешнему виду и внутреннему состоянию». Издание собирается публиковать материалы о передовых медицинских технологиях, поданные в живом изложении, мнения экспертов и специалистов в различных областях здравоохранения, а также – обсуждать вопросы спорта, диеты, ов о спорте, диете, красоте и отдыхе, душевном, физическом и психологическом равновесии – все это и многое другое будет на страницах нашего издания».  Как пишет Media Guide, газета будет выходить по вторникам и распространяться бесплатно на улицах города и возле станций метро. Тираж издания составит 100 тыс. экземпляров. О тенденциях развития газетно-журнальной отрасли – в интервью Василия Гатова: «Печать находится в состоянии глубокой депрессии» </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode15532A17-AB3D-49BC-9F1B-3FA7296E710A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6111294D-E5D1-4BBF-9468-D4E600107B41"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2BB9C2AF-28CC-45AC-A47D-4604543AEC0E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1A02106A-0A4F-454C-968E-B56F081072B8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode84ADDB92-66E4-437E-819B-F79706D65F73">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAFF3E4E8-B049-464D-93F4-BB5FA69C07BB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4114D37F-EBC3-4EDA-BE79-A145A8A3E469">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">182</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">203</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1A02106A-0A4F-454C-968E-B56F081072B8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3B89BB18-020B-40AA-95D2-50F0512496D5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">205</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAFF3E4E8-B049-464D-93F4-BB5FA69C07BB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6269A27F-24AA-414F-B940-FB2DC4B969FC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">227</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1A02106A-0A4F-454C-968E-B56F081072B8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB089CB9E-A03D-4A3F-95F5-029F50E8C3DB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">268</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">332</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6157CF47-9BD3-472A-842C-55F53411A6F4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCBD96DCF-2283-491E-AF54-D9C081106B22">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">354</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">360</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6157CF47-9BD3-472A-842C-55F53411A6F4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB8CF24B4-C71A-4317-9B16-181C08467F2E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">401</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">408</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1A02106A-0A4F-454C-968E-B56F081072B8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE7736387-ABB0-4264-8BE1-A5CB8B63866B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">753</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">767</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1A02106A-0A4F-454C-968E-B56F081072B8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7A174A0A-56C5-4A49-A4DF-1EE8900241C2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">753</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">759</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAFF3E4E8-B049-464D-93F4-BB5FA69C07BB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB55A7944-AF7A-463D-B2ED-2FD44911BE5F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">794</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">800</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1A02106A-0A4F-454C-968E-B56F081072B8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAE915D6F-0818-46DF-9D2D-FE2666879DAB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">868</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">874</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6111294D-E5D1-4BBF-9468-D4E600107B41"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode294FB2FC-F7A4-47FF-8BDA-1D256429CE74">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">904</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">911</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1A02106A-0A4F-454C-968E-B56F081072B8"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

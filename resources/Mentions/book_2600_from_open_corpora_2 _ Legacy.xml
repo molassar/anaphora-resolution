@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983058" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode8BC96FA9-7934-4D3D-AA3D-E19AF45B4ED6"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode0B3EE49B-6EE7-47A3-8072-91FF670DF650"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeCCF9AD96-7FBF-4230-B89B-886BA60F448F"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode48B5DEAE-0399-4A13-AE33-E7DC47FF83C2"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB9FEED1F-16EB-4793-9423-F5CA1AC356B6"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode425D5BE4-7BC3-4676-AD87-E6CE50BC51D9"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode21B6A28F-FE66-4731-8186-ECD39E04813E"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode1089049A-A9FE-4B8D-B3F5-9DC095BCBF53"/>
+	<Aux:TextAnnotations rdf:nodeID="bnode67B35C1F-2877-4AC8-9AB3-2DD693B67BD3">
+		<Aux:document_text xml:lang="ru-RU">Philly  Город Филадельфия больше всего мне почему-то напомнил Великий Новгород. Хотя в Фили и один из университетов Ivy League есть, и культурную столицу она из себя изображает изо всех сил. Но все равно - одна история, колыбель демократии и уныние. И очень много черных. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7045DBEE-A079-4E2B-8D38-3B22B6AA2195">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1089049A-A9FE-4B8D-B3F5-9DC095BCBF53"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCDF4E5DD-B7B8-48EF-881F-98286AB5C3C0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode21B6A28F-FE66-4731-8186-ECD39E04813E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode356B48C0-0B2D-4D97-B3BC-0D08C3B7A29B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode425D5BE4-7BC3-4676-AD87-E6CE50BC51D9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD010D8C7-017B-467F-92B3-8D367C59B20A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB9FEED1F-16EB-4793-9423-F5CA1AC356B6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF6F8E9A1-1428-40D1-8002-66AA0F8B9A93">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode48B5DEAE-0399-4A13-AE33-E7DC47FF83C2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6482F854-A0CE-486D-9983-E731C4E63D5F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">102</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">126</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCCF9AD96-7FBF-4230-B89B-886BA60F448F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode38AE04FA-3F26-41B8-BC77-E313957C31AC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">154</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">157</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0B3EE49B-6EE7-47A3-8072-91FF670DF650"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8ABC77B1-80CA-431F-804E-0A640FA7EB05">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">161</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">165</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8BC96FA9-7934-4D3D-AA3D-E19AF45B4ED6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

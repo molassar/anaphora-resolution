@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983484" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeF3EEAD8B-C58B-4E98-A181-08B968A764E5">
+		<Basic:identifier xml:lang="ru-RU">Одноклеточные женские половые органы водорослей</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Оогоний</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Одноклеточные женские половые органы водорослей</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA4B2AD88-B799-4193-A7F7-57AC574642FF">
+		<Basic:identifier xml:lang="ru-RU">Архегоний</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Архегоний у высших растений</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Архегония</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">архегоний</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">архегония</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Архегоний у высших растений</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode146E3BB2-1EA7-4839-A1C7-1E24AA88EDDB">
+		<Aux:document_text xml:lang="ru-RU">Архегоний  Архегоний, или Архегония (греч. αρχη — начало, γονη — потомок) — женский орган полового размножения у высших споровых (мохообразные, папоротниковидные и пр.) и голосеменных растений, многоклеточный орган полового размножения гаметофитов; гаметангий, в котором развиваются женские гаметы — яйцеклетки.  Архегоний у высших растений — небольшое колбообразное тельце, состоящее из ножки, нижней расширенной части (брюшка) и верхней суженной части (шейки). Снаружи архегоний защищён бесплодными клетками. В брюшке архегония находится яйцеклетка.  Оогоний  Одноклеточные женские половые органы водорослей принято называть оогониями. Однако обычно альгологи оогониями называют и многоклеточные женский гаметангии харовых водорослей. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode45E11AA2-F4B1-4762-9941-54548FE34A2C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA4B2AD88-B799-4193-A7F7-57AC574642FF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0933CBB7-151D-4ADE-AC88-7BDA7BA283EB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA4B2AD88-B799-4193-A7F7-57AC574642FF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode68BF449B-AAD2-4BDF-9C41-74073D364B32">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA4B2AD88-B799-4193-A7F7-57AC574642FF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode37F04DD2-7E2B-461B-BEDA-229D6EACA5C7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">313</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">322</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA4B2AD88-B799-4193-A7F7-57AC574642FF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode81D54C22-0495-49C5-9EB7-F0B8E568A433">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">471</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">480</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA4B2AD88-B799-4193-A7F7-57AC574642FF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB655BB05-C057-4714-8545-C64E35056C43">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">520</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">529</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA4B2AD88-B799-4193-A7F7-57AC574642FF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE3F1FA88-C9BA-4F88-9EC1-9E5B38823FB5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">553</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">560</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF3EEAD8B-C58B-4E98-A181-08B968A764E5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0806B4F4-9EE9-4AEE-AA35-85680EFE0832">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">562</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">609</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF3EEAD8B-C58B-4E98-A181-08B968A764E5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

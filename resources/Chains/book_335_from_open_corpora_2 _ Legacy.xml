@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="980793" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode937EAB3D-D419-4E00-BC87-A70934649E45">
+		<Basic:identifier xml:lang="ru-RU">их</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">новые биометрические загранпаспорта</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">новых паспортов</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">паспортах</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">новые биометрические загранпаспорта</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode43699D0F-1915-45A1-AA02-5B761D4422AF">
+		<Basic:identifier xml:lang="ru-RU">России</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">России</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode52E9A2AA-CC48-4F16-BD55-AE437E6569CF">
+		<Basic:identifier xml:lang="ru-RU">Замглавы Федеральной миграционной службы России Михаил Тюркин</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">он</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Замглавы Федеральной миграционной службы России Михаил Тюркин</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode3C05E380-6173-44BF-93B1-BDB1F7DA0D53">
+		<Aux:document_text xml:lang="ru-RU">Замглавы Федеральной миграционной службы России Михаил Тюркин заявил о том, что с 1 января 2008 граждане России смогут получить новые биометрические загранпаспорта, их стоимость составит 1000 рублей. Также он сообщил, что в настоящее время завершена работа по выдаче новых паспортов в «пилотных» зонах — Москве, Санкт-Петербурге и Калининграде. Кроме чипа, возможно, в паспортах могут появится отпечатки пальцев владельца. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode05A8DA3C-BB43-41EC-BD52-A4021E0B3B80">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode52E9A2AA-CC48-4F16-BD55-AE437E6569CF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0181E819-9202-4E20-8DE3-37FBFEE7A0EE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode43699D0F-1915-45A1-AA02-5B761D4422AF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF21C6E21-8088-4B65-866F-53C3B5CFC4AE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">105</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode43699D0F-1915-45A1-AA02-5B761D4422AF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode19D46119-EC67-47C6-BA2D-E8245AC35283">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">163</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode937EAB3D-D419-4E00-BC87-A70934649E45"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8ED0731D-6290-4BB3-ADDF-EE03C1C44C3C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">165</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">167</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode937EAB3D-D419-4E00-BC87-A70934649E45"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEF7C9F21-3D90-411B-8DFA-03FF12B0860C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">206</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">208</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode52E9A2AA-CC48-4F16-BD55-AE437E6569CF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA029B4E4-1CA4-4A0D-BDAF-6C1C613B5172">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">267</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">282</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode937EAB3D-D419-4E00-BC87-A70934649E45"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode67E62B4D-112C-4AC4-A2BF-C904290209FC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">369</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">378</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode937EAB3D-D419-4E00-BC87-A70934649E45"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

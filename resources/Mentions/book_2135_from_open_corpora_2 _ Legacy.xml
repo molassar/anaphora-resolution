@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982593" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeE220D39D-8D5A-4BA6-A4A2-EF363A9BA8E9"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode326484EB-B04F-4F15-BBF0-6D63DBFF01FA"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode613CC0F2-7359-4CD1-AAC7-AEBD045BA8FD"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB86E8D16-C481-41E2-AFB4-A104F52CFDE3"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6B3B342B-16F1-46BD-958C-3F326FD8D47F"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeF0834C73-D0B3-45C6-8C71-3B3641B3D500"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode9ED57A97-480F-44D1-A465-39713AF86D9C"/>
+	<Aux:TextAnnotations rdf:nodeID="bnodeA15ED74A-BA9E-4C8F-B65B-D866CC1185A7">
+		<Aux:document_text xml:lang="ru-RU">Статья 28. Судовые документы для судов заграничного плавания  Суда, выходящие в заграничное плавание, кроме документов, указанных в статьях 25 — 27 настоящего Кодекса, должны иметь документы, предусмотренные международными договорами Российской Федерации. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9668C311-7DB9-4822-962C-07C54D1D405A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6B3B342B-16F1-46BD-958C-3F326FD8D47F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode54ADDE10-EB5B-47AD-82B4-C2D394D24006">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB86E8D16-C481-41E2-AFB4-A104F52CFDE3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAFC06F09-E01B-4D39-A4FF-BEB181A31A9C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode613CC0F2-7359-4CD1-AAC7-AEBD045BA8FD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode60CEC25E-8102-4EE5-ACF6-FD48808F919C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">166</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode326484EB-B04F-4F15-BBF0-6D63DBFF01FA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9DE71867-5803-470F-948B-FDEC648E0726">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">132</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">166</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9ED57A97-480F-44D1-A465-39713AF86D9C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0C5716A4-0BBD-4CEC-A995-A6798D80D566">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">254</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE220D39D-8D5A-4BA6-A4A2-EF363A9BA8E9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFC59698D-9468-456D-913A-245C60822D0E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">254</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF0834C73-D0B3-45C6-8C71-3B3641B3D500"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

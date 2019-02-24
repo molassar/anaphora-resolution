@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982847" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA8071EB2-EA1E-40A1-9D48-9EEB48B89B8F">
+		<Basic:identifier xml:lang="ru-RU">который</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">одинокий «Мечтатель»</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">одинокий «Мечтатель»</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeAB7DF34D-0B51-4F14-9D23-7255FB11821B">
+		<Basic:identifier xml:lang="ru-RU">Dominion Theatre</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">сцене</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Dominion Theatre</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode155521C5-03C9-490A-B5D8-829D34F474CE">
+		<Basic:identifier xml:lang="ru-RU">«Queen»</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">группы «Queen»</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">группа «Queen»</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC76EB0E8-5148-4AAF-9E3B-1673B3AF79FF">
+		<Basic:identifier xml:lang="ru-RU">них</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">них</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeE428DD97-3FE0-47FF-8252-6E4469FDCCEF">
+		<Basic:identifier xml:lang="ru-RU">WWRY</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">We Will Rock You</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">«We Will Rock You»</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">«We will rock you»</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Мюзикл</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">мюзикл</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">мюзикла</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">«We Will Rock You»</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode2D5B5C8E-2A25-43D7-B5D7-9F432DBA981F">
+		<Aux:document_text xml:lang="ru-RU">We Will Rock You (сокращённо WWRY) — мюзикл, основанный на песнях группы «Queen» и названный в честь одной из них. Мюзикл был написан английским комиком и драматургом Бэном Элтоном в сотрудничестве с участниками «Queen» Брайаном Мэем и Роджером Тейлором.  Данный мюзикл был впервые представлен публике в вест-эндском Dominion Theatre 14 мая 2002 года с Тони Винсентом, Анной Джейн Фокс, Шерон Кларк и Кэрри Эллис в главных ролях. «We will rock you» был плохо встречен критиками, но пришёлся по вкусу публике и до сих пор является самым долгоидущим мюзикл на данной сцене. Действие разворачивается в иронически изображённом антиутопическом будущем, подавляющем оригинальность и индивидуализм, в котором появляется одинокий «Мечтатель» (очевидно, являющийся реинкарнацией Фредди Меркьюри), который способен исполнить пророчество о возрождении рок-н-ролла.  Вслед за Лондоном «We Will Rock You» был также поставлен на сценах Ирландии, Австралии, Канады, России, Испании, Японии, Южной Африки, Цюриха, Вены, Новой Зеландии, Южной Кореи, Сингапура, Бангкока и Гонконга. На июль 2009 мюзикл всё ещё шёл в Великобритании, Италии и Германии.  К марту 2009 была подготовлена черновая версия продолжения. Также ведутся работы по экранизации мюзикла, в настоящий момент готов сценарий. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode96D89526-0A13-420A-A982-554E1AB7D1F4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE428DD97-3FE0-47FF-8252-6E4469FDCCEF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode23706156-3A36-4A81-A102-C89330F5A14E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE428DD97-3FE0-47FF-8252-6E4469FDCCEF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF425702C-14AD-4D02-A8BC-2A4B63742B22">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC76EB0E8-5148-4AAF-9E3B-1673B3AF79FF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode47603A65-3D8E-445D-8F0E-C0BC1D9F644B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode155521C5-03C9-490A-B5D8-829D34F474CE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7585545D-42F6-4A73-BD49-604AC1153D00">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">113</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC76EB0E8-5148-4AAF-9E3B-1673B3AF79FF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode495120B9-BBB5-4664-A05D-13335C14B04B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">121</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE428DD97-3FE0-47FF-8252-6E4469FDCCEF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9D576AA5-CC72-4D93-AA29-91C53A0966F8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">219</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode155521C5-03C9-490A-B5D8-829D34F474CE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode48923B0D-94E5-4C70-8AC6-02CB87FF47C2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">256</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">269</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE428DD97-3FE0-47FF-8252-6E4469FDCCEF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode341A9DC4-BD33-4AE3-8584-3CB49455E1CD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">317</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">333</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB7DF34D-0B51-4F14-9D23-7255FB11821B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode013D15CA-4B46-48CD-BF9C-D6FD90F0B6ED">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">430</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">448</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE428DD97-3FE0-47FF-8252-6E4469FDCCEF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE5EC6000-C47D-4394-9BBB-7AA41EE69D07">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">558</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">570</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAB7DF34D-0B51-4F14-9D23-7255FB11821B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD0CC58DF-C9FD-4388-BAEF-FFC7B3851C0C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">713</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">733</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA8071EB2-EA1E-40A1-9D48-9EEB48B89B8F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB506A35D-760D-4140-AC5D-F9A57C7FBB5A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">788</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">795</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA8071EB2-EA1E-40A1-9D48-9EEB48B89B8F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9E5C7441-6DF6-4A33-8DD0-3D74503F54B2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">873</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">891</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE428DD97-3FE0-47FF-8252-6E4469FDCCEF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA191848F-44B1-4271-8521-9C0798A8B77D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1078</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1084</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE428DD97-3FE0-47FF-8252-6E4469FDCCEF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode79C2ECDF-BDA7-4D06-A96F-E8ABF60D46D9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1231</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1238</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE428DD97-3FE0-47FF-8252-6E4469FDCCEF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

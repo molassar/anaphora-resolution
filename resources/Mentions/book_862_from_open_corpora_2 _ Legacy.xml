@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981320" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode8B4DAD01-00E7-4F5F-9789-960B0D5779DF"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeDEB253AE-2AE1-47F4-BDAC-4C2876914626"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode66770634-7FB1-4D8D-8DA3-5D7752D48E5A">
+		<Basic:identifier xml:lang="ru-RU">один забавный бложек beautifully-webdesign.net</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">один забавный бложик beautifully-webdesign.net</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6F29BF04-4F56-4A24-B77B-3D342B080145">
+		<Basic:identifier xml:lang="ru-RU">ридере</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Ридер</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode4C72000A-878B-462D-A7A7-EFBCDB1A6BEF">
+		<Basic:identifier xml:lang="ru-RU">меня</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">меня</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeCC18279D-A38B-4B3D-A15F-D356E9964933">
+		<Aux:document_text xml:lang="ru-RU">Флэшовые сайты.  Есть у меня в ридере один забавный бложек beautifully-webdesign.net. Там не просто флешовые сайты. Там реально произведения искусства. Но ведь при этом ну совершенно не юзабельные. Ну т.е. купить чего-то, например, очень не удобно. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEAD71B20-9AB0-43DB-BFA0-6CD8F65B87A8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDEB253AE-2AE1-47F4-BDAC-4C2876914626"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA47D593E-E831-4F11-BA10-6ADAB7CAF017">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4C72000A-878B-462D-A7A7-EFBCDB1A6BEF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode50B3A079-DFBF-47C9-9779-DD0E73E26654">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6F29BF04-4F56-4A24-B77B-3D342B080145"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode56444844-528E-4455-8E6A-1640D0F7A734">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode66770634-7FB1-4D8D-8DA3-5D7752D48E5A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF68510B5-D921-47DE-BB94-004810C32726">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8B4DAD01-00E7-4F5F-9789-960B0D5779DF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

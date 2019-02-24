@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="980887" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode91ACE282-8CDF-44A3-B1AD-D884132CDF91">
+		<Basic:identifier xml:lang="ru-RU">Последний</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Сергея Ткаченко</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Сергея Ткаченко</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode18858271-1421-416D-8C1B-08300D5C4A6C">
+		<Basic:identifier xml:lang="ru-RU">Эрнст Мавлютов</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">архитектор Казани Эрнст Мавлютов</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">архитектор Казани Эрнст Мавлютов</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode5A8BEB56-3075-4E82-83CA-B3A1D13E5D4C">
+		<Basic:identifier xml:lang="ru-RU">Москвы</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Москвы</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB22473AF-C6D1-4116-B68C-5EF2EB0274C2">
+		<Basic:identifier xml:lang="ru-RU">Казани</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Казани</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode6846BEAA-C281-4DF6-886C-E1F1FEED3DED">
+		<Aux:document_text xml:lang="ru-RU">Назначен новый ответственный за генплан Москвы. Столичный пост занял бывший главный архитектор Казани Эрнст Мавлютов.  В соответствии с приказом председателя Москомархитектуры Александра Кузьмина Эрнст Мавлютов назначен новым главой Научно-исследовательского и проектного института Генплана Москвы вместо Сергея Ткаченко. Последний покинул эту должность по собственному желанию ещё 4 февраля.  Как сообщает «Интерфакс», Эрнст Мавлютов занимал пост главного архитектора Казани с 2005 по 2009 год и руководил в том числе созданием и реализацией казанского архитектурного генплана. К слову, в местных СМИ не раз появлялись заметки о том, что гражданские активисты, принимавшие участие в общественных слушаниях по земельной застройке в Казани, жаловались на несоответствие планов строительства генеральному плану. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode80BB0C0D-AF19-486C-8D4B-26492F59976B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5A8BEB56-3075-4E82-83CA-B3A1D13E5D4C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8B9D59F2-EF76-4F0C-845C-DD724CC50096">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode18858271-1421-416D-8C1B-08300D5C4A6C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4B97B2E3-CA74-4531-AD35-9120BF571B1F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">101</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB22473AF-C6D1-4116-B68C-5EF2EB0274C2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode99F9E597-5409-4818-A685-003AF73A229C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">196</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode18858271-1421-416D-8C1B-08300D5C4A6C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode92DE4516-3934-4D37-83C8-0D6492B43FE0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">291</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">297</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5A8BEB56-3075-4E82-83CA-B3A1D13E5D4C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6CB30F03-5A88-413A-B74D-B3E17EDCB7E9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">305</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode91ACE282-8CDF-44A3-B1AD-D884132CDF91"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode68AB54D4-252A-47AA-8161-08DDF0EF93FA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">322</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">331</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode91ACE282-8CDF-44A3-B1AD-D884132CDF91"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9E1576CC-F97F-47CA-81E8-7152A6A0D3AC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">420</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">434</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode18858271-1421-416D-8C1B-08300D5C4A6C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB3B7C18C-0833-4D3A-9AF6-650012A17754">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">469</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">475</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB22473AF-C6D1-4116-B68C-5EF2EB0274C2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2424B467-DD44-4285-AF0A-20E186E1FA73">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">732</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">738</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB22473AF-C6D1-4116-B68C-5EF2EB0274C2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

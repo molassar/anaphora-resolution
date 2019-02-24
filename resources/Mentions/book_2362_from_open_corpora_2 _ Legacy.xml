@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982820" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode17D2AE08-0895-490D-B8EB-BF18854AD4C7"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6C8FF1D9-B718-4FAE-83D7-EBA7D30A4326"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode83077FC1-1A07-4DF6-A8E4-460320BF758A"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeCE58C419-969C-49E9-8FBF-490518A2CCCE"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeCFD567D2-5C27-4B32-93AD-91A141C75793"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6087315A-EA59-44BF-9A9F-0CEC36CD0176"/>
+	<Aux:TextAnnotations rdf:nodeID="bnode24300E32-BB19-40C1-ACFF-21E1127F30EE">
+		<Aux:document_text xml:lang="ru-RU">Стало мне интересно, какой файл у меня в компьютере самый древний. Паталогические случаи 01-01-1980, естественно, были исключены. Нашёл в архивах: makepath.com от 19-09-1986, длиной аж в 102 байта (sic!). Примерно в эти же времена я впервые увидел живой IBM PC/XT. Четверть века прошло... </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF72257C8-8726-490A-BD24-B5EF7B78CE89">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6087315A-EA59-44BF-9A9F-0CEC36CD0176"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5F1D7913-37CE-4D31-A5CD-9407F563DF97">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCFD567D2-5C27-4B32-93AD-91A141C75793"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0BBCCE68-DDE0-4E98-94AD-6FC1C03BD912">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCE58C419-969C-49E9-8FBF-490518A2CCCE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7A0CF689-AEEE-4DD8-B886-4FCDE84EBAF9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">173</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode83077FC1-1A07-4DF6-A8E4-460320BF758A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode87A23F19-8E1B-422C-889A-D1BB89B32F61">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">231</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6C8FF1D9-B718-4FAE-83D7-EBA7D30A4326"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode93B551CB-5F4B-4F4A-A317-7447BC42C9AF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">263</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode17D2AE08-0895-490D-B8EB-BF18854AD4C7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

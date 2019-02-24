@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981224" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB5F352F1-E3F3-43CD-BF37-4FCD90E4D97C">
+		<Basic:identifier xml:lang="ru-RU">Ночь</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Ночь в мансарде</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">эту ночь</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Ночь в мансарде</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeE493F727-E8F1-432E-94DC-558ECAF1AC5D">
+		<Basic:identifier xml:lang="ru-RU">«Лёгкий поцелуй»</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">«Эпоха протеста»</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Лёгкий поцелуй эпохи протеста</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Спектакль</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">очередную премьеру</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">спектакле</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Лёгкий поцелуй эпохи протеста</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeD54080B5-BAA6-4E7C-A571-A77C87EFB9D3">
+		<Basic:identifier xml:lang="ru-RU">Лаборатория театра «Около»</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">театра «Около дома Станиславского»</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">театра «Около дома Станиславского»</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode8AB88A10-13B9-4D87-AE23-3EC8100C0E74">
+		<Basic:identifier xml:lang="ru-RU">Михаил Палатник</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Михаила Палатника</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Михаила Палатника</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode738AB874-41AF-418D-B3C0-B63F2BB4A55E">
+		<Aux:document_text xml:lang="ru-RU">«Эпоха протеста» Лаборатория театра «Около» даёт очередную премьеру.  «Эпоха протеста» («Лёгкий поцелуй») — спектакль в постановке Михаила Палатника, премьера которого пройдёт 9 и 10 июня на сцене La stalla театра «Около дома Станиславского». В спектакле заняты артисты: Сергей Каплунов, Александра Тюфтей, Иван Игнатенко, Илья Окс, Дмитрий Богдан, Егор Павлов, Мария Погребничко, Екатерина Кудринская, Элен Касьяник, Александр Орав и Юрий Павлов. Спектакль поставлен по пьесе французского драматурга, режиссёра и актёра театра Андре Руссена «Апрельской ночью» и текстам Иосифа Бродского и Райнера Марии Рильке. «Лёгкий поцелуй эпохи протеста. Ночь — как «место действия», как символ утраченного смысла, время тьмы и сомнений. Мы предлагаем провести эту ночь в довольно странной компании. Три старухи из пансиона «Академия», молодой литератор в творческом кризисе, бродячая труппа «тотального театра», состоящая всего из двух артистов, и сошедшие с мраморного барельефа герои древнего мифа об Орфее и Эвридике. Ночь в мансарде, окна которой едва достигает сияние огней парижской рекламы и едва долетают мерные удары колокола башенных часов. Рядом с диковинной буржуйкой в стиле модерн, под скошенной крышей, под аккомпанемент Моцарта и Пуччини, раскаты грома, вопли Джеймса Брауна и вой сирен скорой помощи… Такие ночи случаются не так уж и часто», — рассказывает Михаил Палатник. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBA96F3AC-EFC0-4361-B7A0-24A2193CD368">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE493F727-E8F1-432E-94DC-558ECAF1AC5D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8B8B35DC-D77D-4A5A-A021-BB22A9013BF6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD54080B5-BAA6-4E7C-A571-A77C87EFB9D3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD496DAA4-AC15-415C-B9D8-B15C16EA53C1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE493F727-E8F1-432E-94DC-558ECAF1AC5D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBF3E3B90-25BE-451A-8B9E-DBA7774F0988">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE493F727-E8F1-432E-94DC-558ECAF1AC5D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBCB069E7-5F58-4914-BCFA-597361D7D54F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE493F727-E8F1-432E-94DC-558ECAF1AC5D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode328E20C4-A3FA-4CF9-8604-9979D40ACA34">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">148</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8AB88A10-13B9-4D87-AE23-3EC8100C0E74"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeABA9979E-0F7F-4298-84C0-B18FF498D6DC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">207</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">241</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD54080B5-BAA6-4E7C-A571-A77C87EFB9D3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCD14001A-3911-464C-BB8B-5492C7684996">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">245</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">254</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE493F727-E8F1-432E-94DC-558ECAF1AC5D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD8EAC601-E485-4B8B-A8C9-A5421A82472A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">448</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">457</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE493F727-E8F1-432E-94DC-558ECAF1AC5D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode38B6FA12-EF38-446B-9D08-77CA78116F14">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">613</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">642</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE493F727-E8F1-432E-94DC-558ECAF1AC5D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode10AE5BDE-B4CF-48B3-9F86-2F54C62D9030">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">644</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">648</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB5F352F1-E3F3-43CD-BF37-4FCD90E4D97C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5C5343F0-C35C-46E2-B03E-5EC2F812FCCF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">750</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">758</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB5F352F1-E3F3-43CD-BF37-4FCD90E4D97C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7198C0CF-20E5-4083-AD61-B0D216CE866A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1011</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1026</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB5F352F1-E3F3-43CD-BF37-4FCD90E4D97C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode356607C5-99CD-47AF-8E2D-A905C6123DDB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1364</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1379</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8AB88A10-13B9-4D87-AE23-3EC8100C0E74"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

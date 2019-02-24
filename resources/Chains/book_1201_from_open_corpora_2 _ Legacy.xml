@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981659" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC9EFC6E8-E82C-49BC-8BA6-90C43559E0C5">
+		<rdfs:label xml:lang="ru-RU">Германии</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode36CB262C-38E8-4723-972D-9A7FA6EE891E">
+		<rdfs:label xml:lang="ru-RU">Wikimedia Deutschland</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeBDBE1DC9-1F96-4DE8-B4BB-DF575ED24A02">
+		<rdfs:label xml:lang="ru-RU">Государственным архивом Германии</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE858ACD2-468C-48B2-90FF-66BE158DD28C">
+		<Aux:document_text xml:lang="ru-RU">4 декабря 2008 года началась загрузка на Викисклад около ста тысяч изображений, выпущенных Государственным архивом Германии под лицензией Creative Commons Attribution-ShareAlike 3.0 как часть сотрудничества архива и Wikimedia Deutschland.  Все изображения уменьшены до 800 пикселов по большему измерению.  Некоторые считают это неслыханной щедростью со стороны Bundesarchiv: доступность правительственных документов Германии до сих пор оставляла желать лучшего. Вдобавок это может быть самым большим по количеству файлов единовременным подарком Викискладу на сегодняшний день. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9CB49629-47F9-459D-B19A-21DCBDA1E345">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode36CB262C-38E8-4723-972D-9A7FA6EE891E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA215F968-2823-4D73-946E-40C008EF49D7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">123</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBDBE1DC9-1F96-4DE8-B4BB-DF575ED24A02"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0197EC8D-4035-4578-9466-12D5F72CFF20">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">123</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC9EFC6E8-E82C-49BC-8BA6-90C43559E0C5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6E70E038-18BD-496C-97E5-B1187798E38A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">207</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBDBE1DC9-1F96-4DE8-B4BB-DF575ED24A02"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode84ACA943-ECA4-4B14-815E-6F56B0D27604">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">216</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode36CB262C-38E8-4723-972D-9A7FA6EE891E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeABD4966A-7B6E-4EFF-8C2D-36EAF90AB509">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">361</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">373</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBDBE1DC9-1F96-4DE8-B4BB-DF575ED24A02"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode68294AAE-F3E0-4093-B178-0EBD773081BD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">416</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">424</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC9EFC6E8-E82C-49BC-8BA6-90C43559E0C5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6C1A30AB-550D-4E42-95D7-81BA0D736EAF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">545</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">555</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode36CB262C-38E8-4723-972D-9A7FA6EE891E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

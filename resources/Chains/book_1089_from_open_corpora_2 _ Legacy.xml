@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981547" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode727C18C8-5913-4EB0-BCA5-D54CF0436CF3">
+		<Basic:identifier xml:lang="ru-RU">Учёные Токийского университета</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">своё</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Учёные Токийского университета</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode4B32A471-98FF-44B5-BC68-143B9DD68C4D">
+		<Basic:identifier xml:lang="ru-RU">вода</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">воды</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">вода</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode1C8B0284-8165-4E1B-A444-3E9225239271">
+		<Basic:identifier xml:lang="ru-RU">Акваматерия</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">вещество</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">материал</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">материал, практически целиком состоящий из воды</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">новый материал</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">новый материал — прозрачный, упругий, легко тянущийся и так же легко восстанавливающий форму</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">новый материал — прозрачный, упругий, легко тянущийся и так же легко восстанавливающий форму</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode164320DF-77FC-4D32-B4B4-C6AC3CBD84A5">
+		<Aux:document_text xml:lang="ru-RU">Акваматерия Создан материал, практически целиком состоящий из воды.  Учёные Токийского университета представили своё новое изобретение: это материал, на 95% состоящий из воды и совершенно безопасный как для человека, так и для окружающей среды. В «акваматерию» входит минеральная глина и полиакрилат натрия. При небольшом добавлении этих веществ вода приобретает гелеобразную форму и превращается в новый материал — прозрачный, упругий, легко тянущийся и так же легко восстанавливающий форму. При этом вещество по показателям прочности не уступает силикону и способно выдерживать высокие температуры (до 100 градусов Цельсия). Предполагается, что новый материал будут использовать в медицине и косметологии, в частности в пластической хирургии. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode67407650-48DB-4EAA-9ADC-662E78FEF1D4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1C8B0284-8165-4E1B-A444-3E9225239271"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2F533F73-F06A-44BB-A70D-F3DB66E1846E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1C8B0284-8165-4E1B-A444-3E9225239271"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1B39A258-2AFC-4595-8074-F4B07DD58A03">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4B32A471-98FF-44B5-BC68-143B9DD68C4D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode35727918-3201-42E2-96C3-D1736918B336">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode727C18C8-5913-4EB0-BCA5-D54CF0436CF3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6C07F3D9-18AA-4E17-90EC-5098CC7872AA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode727C18C8-5913-4EB0-BCA5-D54CF0436CF3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode22120158-87F1-4B5E-A8C9-40CC4F5EF86E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">243</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1C8B0284-8165-4E1B-A444-3E9225239271"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode15C82A10-8F45-4048-A872-7117223C489B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">174</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4B32A471-98FF-44B5-BC68-143B9DD68C4D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode872A056B-846C-4369-83D6-2E8FFE221695">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">247</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">260</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1C8B0284-8165-4E1B-A444-3E9225239271"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDCC065F2-9516-4B2D-8909-46F21AE32655">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">350</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4B32A471-98FF-44B5-BC68-143B9DD68C4D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode002327EF-A9AA-4407-94D0-DF6E48A46986">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">399</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">413</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1C8B0284-8165-4E1B-A444-3E9225239271"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7AF36054-2FA3-46D9-9CC9-5B4A5C70EDCF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">502</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">510</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1C8B0284-8165-4E1B-A444-3E9225239271"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2A608CAE-136E-4CD7-BBEF-109E63CB8C80">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">647</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">661</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1C8B0284-8165-4E1B-A444-3E9225239271"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

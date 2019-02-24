@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982342" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB71360D3-0D4F-4080-88A5-2B712722948C"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode263FB0EF-9123-4E34-B8D9-DC57E57EAEA6"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeADB573A6-803D-42F1-BDC6-9E3CD53EDB0A"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC14B3066-D115-4400-AE7D-53F1BE3BFF2C"/>
+	<Aux:TextAnnotations rdf:nodeID="bnode21DDD4F7-B14A-48A7-9D5A-A02EDBC5ABF5">
+		<Aux:document_text xml:lang="ru-RU">Статья 7.20. Самовольное подключение к централизованным системам питьевого водоснабжения и (или) системам водоотведения городских и сельских поселений  Самовольное подключение к централизованным системам питьевого водоснабжения и (или) системам водоотведения городских и сельских поселений - влечет наложение административного штрафа на граждан в размере от десяти до пятнадцати минимальных размеров оплаты труда; на должностных лиц - от двадцати до тридцати минимальных размеров оплаты труда; на юридических лиц - от двухсот до трехсот минимальных размеров оплаты труда. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3EDFFF42-031A-4268-8704-7AB959ABADB4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC14B3066-D115-4400-AE7D-53F1BE3BFF2C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode210B10EB-D408-462E-B5FA-FEC12EFBE02A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeADB573A6-803D-42F1-BDC6-9E3CD53EDB0A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4B7CEA84-1A08-497D-993C-5A1153697B0C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">227</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode263FB0EF-9123-4E34-B8D9-DC57E57EAEA6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEBB8BB22-1EF5-4B8E-81EA-42FDCAC25F24">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">236</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">289</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB71360D3-0D4F-4080-88A5-2B712722948C"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

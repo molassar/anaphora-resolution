@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983010" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6CF7F084-7614-4230-A764-5785DCBAE525">
+		<Basic:identifier xml:lang="ru-RU">Homo Hebreus</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">его</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Homo Hebreus</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeFEE4FFA7-244B-4269-A285-A250489D4050">
+		<Aux:document_text xml:lang="ru-RU">Человек Еврейский  Забавная статейка в английской интернет-версии "Ха-Арец", описывающая повадки примата Homo Hebreus с точки зрения не окончательно осабрившегося израильтянина. Конечно, написано злобно и не всегда справедливо (например, "маткот" в качестве видового признака, характеризующего стремление захватить побольше места - как будто европейские бадминтон или серсо занимают его меньше), но кое-что попадает прямо в яблочко. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCCE68AB2-F236-4B29-85BE-98C04430201E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6CF7F084-7614-4230-A764-5785DCBAE525"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB6418003-92D5-4A73-A86D-63BB666527D9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">117</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6CF7F084-7614-4230-A764-5785DCBAE525"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA3AC1C34-1A3D-4F24-8D64-DE6DB2CEF2F6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">383</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6CF7F084-7614-4230-A764-5785DCBAE525"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983161" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeF702F5BB-0E15-4278-AD8A-ED664E6792D7"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode55875854-46F7-4F7B-B577-395B429427FB"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode3694353A-8864-4F70-8895-BCBDEE976E5F"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeE78AF490-87DB-41A7-B6C6-073590FE7E7A"/>
+	<Aux:TextAnnotations rdf:nodeID="bnode14E0E436-C80F-46F5-80B5-34E33592C70B">
+		<Aux:document_text xml:lang="ru-RU">Вот такой вот у нас новый логотип, нарисовал Захар Ящин. Более того, у нас теперь есть варианты логотипов на много лет вперёд, надо только расти, чтобы стать достойными таких образов. А пока — просто небольшое изменение логотипа по случаю 7-летия нашего JUG. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode37F1F2E7-086C-40B3-A0CE-BAD708606880">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3694353A-8864-4F70-8895-BCBDEE976E5F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4704F94C-A451-430C-9C0A-775C56B4C1E3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE78AF490-87DB-41A7-B6C6-073590FE7E7A"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB48625E7-6F3E-488F-BA13-8A64A38980A1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode55875854-46F7-4F7B-B577-395B429427FB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF9052288-9B35-4B25-AE19-8CEBA20FB220">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">254</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">257</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF702F5BB-0E15-4278-AD8A-ED664E6792D7"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981179" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode0F91689F-81DC-4555-8176-235BA4F2F6DF"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode86229301-2A00-4C8E-86E9-2AB74CCD2214"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeFC7467DE-C426-4595-851A-83909BEB3573"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB2C96187-70B4-4111-AF68-943D1A0A321F"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeBD2A7469-D82B-4695-AF5D-64E4A937BB13"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode7BD53F61-3886-4D58-BBBE-9E45CC851E8D"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode677B19B8-172A-412C-8AC8-E215F2835ABE"/>
+	<Basic:Entity rdf:nodeID="bnodeF9A90770-2350-40D1-B40D-B508499C652D">
+		<rdf:type rdf:resource="http://www.abbyy.com/ns/RomipAnaphora#RomipThing"/>
+	</Basic:Entity>
+	<Aux:TextAnnotations rdf:nodeID="bnodeA88FDA5A-ADE5-4C67-B30C-2CE7293F68CB">
+		<Aux:document_text xml:lang="ru-RU">Мой биндинг к gtk+ начал приобретать форму. Есть управление памятью (как для GObject, так и для GBoxed), описание объектов, генератор описания типов по метаданным, привязка обработчиков сигналов. Не хватает возможности создать класс, являющийся наследником класса из GObject и реализовать интерфейс (но есть прототип) и описания всего API Gtk+; а также нужны биндинги к Cairo, Pango. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7037DC02-90EF-4E94-94DE-093AF1F994C0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF9A90770-2350-40D1-B40D-B508499C652D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDE844684-8F6F-4620-B7C9-4FEB7755A5EB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode677B19B8-172A-412C-8AC8-E215F2835ABE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode109F261E-3554-4A05-9C19-ACE6543BDA29">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode7BD53F61-3886-4D58-BBBE-9E45CC851E8D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9B19F7AD-7CB2-4817-86F3-52B91939EC9D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">102</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBD2A7469-D82B-4695-AF5D-64E4A937BB13"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5C3DDF47-AB94-4AF6-B3B0-94DE699AD785">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">267</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">274</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB2C96187-70B4-4111-AF68-943D1A0A321F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode005633B1-1BA1-4FD1-8848-49DA7BC68743">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">335</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">343</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0F91689F-81DC-4555-8176-235BA4F2F6DF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4A95B63E-7790-44C6-AC79-EA939575F78B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">370</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">375</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFC7467DE-C426-4595-851A-83909BEB3573"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2930D089-F04E-4960-A28F-27D67FFEC205">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">377</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">382</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode86229301-2A00-4C8E-86E9-2AB74CCD2214"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

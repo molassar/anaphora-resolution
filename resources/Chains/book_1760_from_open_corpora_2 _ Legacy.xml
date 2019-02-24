@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982218" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode97340CEA-FE24-451B-BA5B-0F391981BE59">
+		<Basic:identifier xml:lang="ru-RU">имущества граждан, на которое не может быть обращено взыскание</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">имущества, на которое в соответствии с законом не может быть обращено взыскание</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">имущества, на которое в соответствии с законом не может быть обращено взыскание</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode83DE28EE-0117-41F1-8EF9-AD161B997BE5">
+		<Basic:identifier xml:lang="ru-RU">Гражданин</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">гражданина</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">ему</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">гражданина</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode9176F634-9A46-4BA2-96B7-CDE128D0E448">
+		<Aux:document_text xml:lang="ru-RU">Статья 24. Имущественная ответственность гражданина  Гражданин отвечает по своим обязательствам всем принадлежащим ему имуществом, за исключением имущества, на которое в соответствии с законом не может быть обращено взыскание.  Перечень имущества граждан, на которое не может быть обращено взыскание, устанавливается гражданским процессуальным законодательством. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6908089B-9B76-461D-82BB-5A760C286CD9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode83DE28EE-0117-41F1-8EF9-AD161B997BE5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode75EA888A-A380-4058-9064-3CF3AC8F189C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode83DE28EE-0117-41F1-8EF9-AD161B997BE5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode06668FA5-7F1E-46B2-8F89-C109F7D0301F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">118</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode83DE28EE-0117-41F1-8EF9-AD161B997BE5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode16314BE9-F6A9-4B2E-8E81-71BABBC15E94">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">146</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode97340CEA-FE24-451B-BA5B-0F391981BE59"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode86CD503A-CD46-4AD3-BE03-EEA9DA7C8915">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">299</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode97340CEA-FE24-451B-BA5B-0F391981BE59"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

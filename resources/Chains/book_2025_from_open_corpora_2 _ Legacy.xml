@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982483" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode29A98008-8B05-4AF2-830E-848ECC9B747E">
+		<Basic:identifier xml:lang="ru-RU">суд</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">суда</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">судом</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">судом</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC8CEFB1E-7AA8-42C4-B17B-128D389BB1D1">
+		<Basic:identifier xml:lang="ru-RU">Вещественные доказательства</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">вещественными доказательствами</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">их</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">они</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">эти предметы</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">вещественными доказательствами</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode82086AE6-D698-4CD8-A77A-57ACAB6164C1">
+		<Aux:document_text xml:lang="ru-RU">Статья 76. Распоряжение вещественными доказательствами  1. Вещественные доказательства после вступления в законную силу решения суда возвращаются лицам, от которых они были получены, или передаются лицам, за которыми суд признал право на эти предметы, либо реализуются в порядке, определенном судом.  2. Предметы, которые согласно федеральному закону не могут находиться в собственности или во владении граждан, передаются соответствующим организациям.  3. Вещественные доказательства после их осмотра и исследования судом могут быть до окончания производства по делу возвращены лицам, от которых они были получены, если последние об этом ходатайствуют и удовлетворение такого ходатайства не будет препятствовать правильному разрешению дела.  4. По вопросам распоряжения вещественными доказательствами суд выносит определение, на которое может быть подана частная жалоба. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode22BC8AFF-DD55-47C7-9828-4263D7D15887">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC8CEFB1E-7AA8-42C4-B17B-128D389BB1D1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC82CE331-3720-40A6-916E-FE7E17A80E04">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC8CEFB1E-7AA8-42C4-B17B-128D389BB1D1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF1207343-C7AF-4835-BA22-03DFEAE7546B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">132</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode29A98008-8B05-4AF2-830E-848ECC9B747E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2F38C3F9-02BA-4E31-9F4E-AF4A8F5CF28E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode29A98008-8B05-4AF2-830E-848ECC9B747E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode39C3FF66-7CE8-46CA-84F9-73DFF1B153D4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">238</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">250</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC8CEFB1E-7AA8-42C4-B17B-128D389BB1D1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFA4B529B-130E-4040-8E59-F0D7A1673172">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">293</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">298</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode29A98008-8B05-4AF2-830E-848ECC9B747E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3DB5D0A0-4954-4317-8123-3A11E76B167E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">457</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">484</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC8CEFB1E-7AA8-42C4-B17B-128D389BB1D1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7FC9B4D7-23C4-42FE-96A4-F8F22ABD088D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">491</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">493</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC8CEFB1E-7AA8-42C4-B17B-128D389BB1D1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode13E84AED-1497-4D95-A0D0-08AC2E0BCB24">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">522</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode29A98008-8B05-4AF2-830E-848ECC9B747E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6E453C50-8B31-43C3-9670-FED4FB238AF6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">597</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">600</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC8CEFB1E-7AA8-42C4-B17B-128D389BB1D1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA212140D-361B-4C7D-AA7F-E589961EDA9E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">771</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">801</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC8CEFB1E-7AA8-42C4-B17B-128D389BB1D1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA1090E20-FAA2-4E9C-A824-1BA4E961E051">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">802</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">805</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode29A98008-8B05-4AF2-830E-848ECC9B747E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

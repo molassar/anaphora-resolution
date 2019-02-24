@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983278" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeFD86291D-BDD8-44D8-A734-BFB2FAFC95E2"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeBAD24BBF-CC2F-4C57-89D0-4310E9489402"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode2C171770-2A92-4B7F-86F5-BBAB3EB3CC8D"/>
+	<Aux:TextAnnotations rdf:nodeID="bnodeB94555F4-AFDC-44B8-9389-B2BEFD32937E">
+		<Aux:document_text xml:lang="ru-RU">прогулочное  Все-таки денежки способны разрешать маленькие проблемки. На той неделе мне были куплены хороший пуховик в спортмастере и ботинки по погоде, поэтому вчера мы снова гуляли в слинг-шарфе снаружи. По дороге переделали кучу дел, позаходили в кучу мест и т.д. Маме жарковато, но если быстренько, то нестрашно. Я довольна. Вот щаз проснется, опять гулять пойдем :) </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode65BAC969-6AAD-49A4-8328-F0DA13BBB93F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBAD24BBF-CC2F-4C57-89D0-4310E9489402"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode03753509-8921-4155-9E29-E5F969629E05">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">267</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">271</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2C171770-2A92-4B7F-86F5-BBAB3EB3CC8D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3E0AFE87-A85C-449D-A2F0-2964EB158425">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">317</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFD86291D-BDD8-44D8-A734-BFB2FAFC95E2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

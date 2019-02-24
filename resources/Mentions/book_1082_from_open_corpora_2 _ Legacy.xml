@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981540" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode531ABA4E-F194-4156-B1B1-3EE98B3048F6">
+		<Basic:identifier xml:lang="ru-RU">Блок Юлии Тимошенко</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Блок Юлии Тимошенко</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeABC9B75F-96CF-4DF8-9C34-4715512DBCC2">
+		<Basic:identifier xml:lang="ru-RU">Партия регионов</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Партия регионов</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode989F7CF7-F671-420C-8B3B-F0FF56DE44C6">
+		<Basic:identifier xml:lang="ru-RU">Украине</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Украина</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode35A2BBEB-62BE-41D5-9C57-3D52EF1E4595">
+		<Basic:identifier xml:lang="ru-RU">Коммунистическая партия</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Коммунистическая партия</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode5DB0FECD-4A4F-4D60-AA87-AE61EFB48A89">
+		<Basic:identifier xml:lang="ru-RU">Социалистическая партия</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Социалистическая партия</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode9879EC19-E2A6-4221-8D0B-2A7F341DB45D">
+		<Basic:identifier xml:lang="ru-RU">«Наша Украина»</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">«Наша Украина»</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode97749D16-B60F-459D-A6FB-05D0A12CDF51">
+		<Aux:document_text xml:lang="ru-RU">В воскресенье, 26 марта, на Украине состоялись парламентские выборы. По состоянию на 2:22 по местному времени, обработано 60,74% протоколов избирательных комиссий.  Предварительные результаты голосования выглядят так:  • Партия регионов — 28,72 % голосов • Блок Юлии Тимошенко — 22,88 % • «Наша Украина» — 15,90 % • Социалистическая партия — 6,48 % • Коммунистическая партия — 3,48 %  Остальные партии не набрали необходимого минимума (3 %) голосов.  Явка избирателей составила 67 — 68 %. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode48BDBC75-5513-4586-999C-FE27799BC20C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode989F7CF7-F671-420C-8B3B-F0FF56DE44C6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8C263544-48C1-4B4B-A32A-F419F4134778">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">221</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">236</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeABC9B75F-96CF-4DF8-9C34-4715512DBCC2"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode529B36C2-BF8A-4DAE-AFA0-412F2141A3E6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">257</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">276</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode531ABA4E-F194-4156-B1B1-3EE98B3048F6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode329776EE-FB53-4DC9-B9B5-26E8631E4744">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">289</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">303</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9879EC19-E2A6-4221-8D0B-2A7F341DB45D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4A03EEDC-C2EB-4F79-828D-FBA3D5C01645">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">316</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">339</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5DB0FECD-4A4F-4D60-AA87-AE61EFB48A89"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAF66CECC-DEAF-4C86-BF20-7240AE120004">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">351</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">374</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode35A2BBEB-62BE-41D5-9C57-3D52EF1E4595"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

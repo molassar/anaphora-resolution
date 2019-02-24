@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983765" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode562F0C1D-5B82-4F5E-88D0-B3A3417C5C26">
+		<rdfs:label xml:lang="ru-RU">поедание галактик</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeFEAD4883-A488-4325-900E-81660E963FFC">
+		<rdfs:label xml:lang="ru-RU">процесс эволюции галактик</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode0B26C421-C8DA-404C-AC84-CE1FC07926D1">
+		<rdfs:label xml:lang="ru-RU">галактики</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode62FD1245-B074-40A9-918B-A1F6DA7659CF">
+		<Basic:identifier xml:lang="ru-RU">более мелких</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">карликовые галактики в далёком космосе</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">своих карликовых соседей</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">карликовые галактики в далеком космосе</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeCA514188-357F-4B64-A367-2A52492CB021">
+		<Basic:identifier xml:lang="ru-RU">Спиральные галактики</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">более крупными спиральными галактиками</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">своих</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">спиральные галактики</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">более крупными спиральными галактиками</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode275960F6-BB95-4EB3-81CD-656F9062E465">
+		<Basic:identifier xml:lang="ru-RU">Они</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Учёные</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">им</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">астрономы</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode8AC0E0E0-FE35-4CE0-AC01-AD567096C786">
+		<Basic:identifier xml:lang="ru-RU">астроном Дэвид Мартинес-Делгадо</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">его</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">астроном Дэвид Мартинес-Делгадо</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode7101B18D-1671-4D34-BE20-ADEED4F5BC17">
+		<Aux:document_text xml:lang="ru-RU">Спиральные галактики пожирают своих карликовых соседей  Астрономы впервые получили данные, которые могут внести ясность в процесс эволюции галактик.  О громком научном открытии заявили американский астроном Дэвид Мартинес-Делгадо и его коллеги из Института астрономии общества Макса Планка в Германии. Они утверждают, что им удалось получить свидетельства того, как карликовые галактики в далёком космосе поглощаются более крупными спиральными галактиками. Другими словами, спиральные галактики растут именно за счёт поедания более мелких. Причём, отмечает BBC Russian , этот процесс был впервые зафиксирован за пределами Местной группы галактик — в удалении 50 млн световых лет от Земли.  Учёные предположили, что этот процесс может также объяснить процесс эволюции галактик. Так, когда спиральные галактики беспощадно поглощают своих карликовых соседей, последние очень сильно искажаются и создают напоминающие завитки структуры, называемые звёздными потоками. После состоящие из звёзд длинные «нити» вытягиваются под воздействием гравитации. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDE34B982-0044-4302-9CC5-A30AE0ADCE2B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCA514188-357F-4B64-A367-2A52492CB021"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode017A8565-0A11-4445-9009-3E4497B3AF31">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode62FD1245-B074-40A9-918B-A1F6DA7659CF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE295DEC1-A2C1-4620-9BA8-DEE8854F097E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCA514188-357F-4B64-A367-2A52492CB021"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6CF74198-99E6-4C14-8760-BDBE0E7F2FF7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode275960F6-BB95-4EB3-81CD-656F9062E465"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4222C9D1-8F6F-4F0C-9D73-B9CEC7960350">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">122</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFEAD4883-A488-4325-900E-81660E963FFC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5887C9F0-72BC-4289-B63E-C53A6B8B3C67">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0B26C421-C8DA-404C-AC84-CE1FC07926D1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode834287F3-3664-4EE7-AAB4-40D0CC43FF7A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">229</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8AC0E0E0-FE35-4CE0-AC01-AD567096C786"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA7BA0923-E33B-4B30-A089-57465C6B500C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode8AC0E0E0-FE35-4CE0-AC01-AD567096C786"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode163F6B62-A05C-4EDC-9A5A-3956DDD8EA10">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">302</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">305</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode275960F6-BB95-4EB3-81CD-656F9062E465"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF7522BD1-4151-4FE8-BBD8-62BDF5AB1538">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">322</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode275960F6-BB95-4EB3-81CD-656F9062E465"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAA5C8035-E792-4E58-A2B0-E12F9D5E200B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">366</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode62FD1245-B074-40A9-918B-A1F6DA7659CF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9E75A56A-E98C-499F-A897-CC496FB0D116">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">417</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">455</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCA514188-357F-4B64-A367-2A52492CB021"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode60902A73-B314-4C43-B6F0-B0ED158A087A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">494</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCA514188-357F-4B64-A367-2A52492CB021"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode94FD5FC5-038B-491D-BFD5-79FAE2927AA8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">526</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">538</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode62FD1245-B074-40A9-918B-A1F6DA7659CF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD1A06FCD-4212-45B9-8F72-EB995EAB0ACB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">571</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">583</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode562F0C1D-5B82-4F5E-88D0-B3A3417C5C26"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode83886F14-0AE8-4430-A6CE-D95306686275">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">690</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">696</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode275960F6-BB95-4EB3-81CD-656F9062E465"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode612D2A37-2413-4342-B73F-264DE75C9C4F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">715</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">727</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode562F0C1D-5B82-4F5E-88D0-B3A3417C5C26"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0CEDE093-561E-443B-A390-501D4E145C1B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">750</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">775</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFEAD4883-A488-4325-900E-81660E963FFC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB02682B1-6390-4BF7-97C1-3C74D6AABAC2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">767</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">775</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0B26C421-C8DA-404C-AC84-CE1FC07926D1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode605009F9-8438-46BF-A152-061ED653A61F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">788</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">808</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCA514188-357F-4B64-A367-2A52492CB021"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode51E7CDE7-B3D8-4BFB-A6CB-2EB1E336141E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">830</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">835</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeCA514188-357F-4B64-A367-2A52492CB021"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5341E1E6-14DE-47D9-8900-17108A7EB1AE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">830</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">854</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode62FD1245-B074-40A9-918B-A1F6DA7659CF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC1246ED3-E4B7-43F4-A6B4-3014B4296D93">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">856</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">865</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode62FD1245-B074-40A9-918B-A1F6DA7659CF"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

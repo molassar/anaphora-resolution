@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981894" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode81A2A9F3-2D1A-41C7-A19A-39C2A2CD55D6">
+		<Basic:identifier xml:lang="ru-RU">дисков «Пакет свободного программного обеспечения для российских школ»</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">дисков «Пакет свободного программного обеспечения для российских школ»</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeBC7CC787-86EB-4557-9ABE-FFA51998FFAE">
+		<Basic:identifier xml:lang="ru-RU">ПСПО</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">пакета ПСПО</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">этот пакет программ</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">этот пакет программ</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode1EBF19BF-3212-45EF-82EE-A885CE43CCAA">
+		<Basic:identifier xml:lang="ru-RU">ФАО</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Федерального агентсва по образованию</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Федеральное агентство по образованию</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC59107E4-918E-4822-859F-B15C95D1B743">
+		<Basic:identifier xml:lang="ru-RU">«Альт Линукс»</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">«Альт Линукс»</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode33E58719-0C06-417E-95FD-0512C11BD602">
+		<Basic:identifier xml:lang="ru-RU">Linux</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Linux</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeDC5DB4BA-D6E3-48FC-AA6C-89AC782AEF1B">
+		<Basic:identifier xml:lang="ru-RU">«УСП Компьюлинк»</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">УСП Компьюлинк</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">него</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">«УСП Компьюлинк»</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeD99F936E-6980-4479-A3FC-1AD25844B129">
+		<Aux:document_text xml:lang="ru-RU">Очередной скандал с поставками программного обеспечения в школы в рамках Национального проекта «Образование»  В рамках проекта «Первая помощь 1.0» по обеспечению российских школ лицензионным программным обеспечением начата рассылка дисков с обновлениями программ для Windows, государство в лице Федерального агентсва по образованию (ФАО) заплатило «УСП Компьюлинк» 97 млн руб. «УСП Компьюлинк» выиграло тендер на проведение этой работы, правда конкурентов в конкурсе у него не было, на это и другие странные обстоятельства в марте обратил внимание Счётной палаты депутат Госдумы Анатолий Грешневиков.  Кроме того, ФАО дополнительно, уже без проведения конкурса, заплатило «УСП Компьюлинк» ещё 17 млн руб. за рассылку по школам дисков «Пакет свободного программного обеспечения для российских школ» (ПСПО), этот пакет программ основан на Linux.  Вместо того, чтобы буквально выполнить заказанное и просто растиражировать готовые диски, «УСП Компьюлинк» либо субподрядчик решили сэкономить и дописали на диски пакета ПСПО дополнительные методические материалы и документацию по СПО, при этом сделали диски непригодными к использованию. Другими словами, испортили.  В итоге школы как минимум с 10 июня получают бракованные диски с Linux, что наносит серьёзный ущерб репутации как разработчикам «Школьного» дистрибутива, так и свободному программному обеспечению в целом.  Что это — результат головотяпства, злой умысел, знают, видимо, только в «УСП Компьюлинк». Одно понятно: без коррупции тут вряд ли обошлось.  Разработчики дистрибутивов ПСПО («Альт Линукс», «Армада») пытаются помочь школам, чем могут и думают, что делать дальше. В Linux-сообществе звучит много высказываний о привлечении к суду виновных организаций.  «Альт Линукс» в сделанном заявлении расценивает рассылку непригодных к использованию дисков ПСПО во все школы России ударом по всему проекту внедрения ПСПО. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode140EEE41-6C4B-4FE7-A886-989061DCC519">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">295</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">331</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1EBF19BF-3212-45EF-82EE-A885CE43CCAA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeEFEC60A1-440B-4AA9-9E4F-87BBAC5F79F1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">333</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1EBF19BF-3212-45EF-82EE-A885CE43CCAA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDC8951EB-E7C9-41BD-B833-0120620F6DB1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">348</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">364</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDC5DB4BA-D6E3-48FC-AA6C-89AC782AEF1B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFB0DE3AC-DE51-4B37-AB12-481FFC6CCCC3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">377</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">393</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDC5DB4BA-D6E3-48FC-AA6C-89AC782AEF1B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAA48A37D-CFBD-4E09-A333-98063FB0626C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">469</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">473</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDC5DB4BA-D6E3-48FC-AA6C-89AC782AEF1B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3147882C-2BCC-4953-8E1B-95C4E763F022">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">614</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">617</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1EBF19BF-3212-45EF-82EE-A885CE43CCAA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9E047F54-43FA-41A7-A8C7-A91055A3737D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">672</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">688</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDC5DB4BA-D6E3-48FC-AA6C-89AC782AEF1B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode055EC89D-A427-469F-8210-160627B60225">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">727</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">797</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode81A2A9F3-2D1A-41C7-A19A-39C2A2CD55D6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD7E291F9-91AB-4A9B-9D35-202E6B4A3F97">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">799</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">803</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBC7CC787-86EB-4557-9ABE-FFA51998FFAE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode11B8FBB5-DB05-4693-BD75-8D8438A89397">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">806</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">825</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBC7CC787-86EB-4557-9ABE-FFA51998FFAE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF1B81114-BEE6-42C9-8BC4-D0C0690ABA33">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">837</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">842</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode33E58719-0C06-417E-95FD-0512C11BD602"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBD3F2866-279E-40AB-A6FB-B57AFD2BA518">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">935</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">951</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDC5DB4BA-D6E3-48FC-AA6C-89AC782AEF1B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC7DFC52C-AA78-444C-ADB6-40D66D871402">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1002</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1019</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode81A2A9F3-2D1A-41C7-A19A-39C2A2CD55D6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode35CAFA85-3292-4383-8062-750B86A1016F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1008</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1019</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBC7CC787-86EB-4557-9ABE-FFA51998FFAE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode18690AF3-6954-4278-ADD9-F77447D137BE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1228</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1233</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode33E58719-0C06-417E-95FD-0512C11BD602"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode36A407E3-BA06-4770-90CF-77A88428CCCC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1441</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1457</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDC5DB4BA-D6E3-48FC-AA6C-89AC782AEF1B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode425239CB-9CB2-4066-82DB-EE9F64654E11">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1537</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1541</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBC7CC787-86EB-4557-9ABE-FFA51998FFAE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD2B45BCE-0EB1-42FA-B86C-D4F0ACB49DAD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1543</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1556</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC59107E4-918E-4822-859F-B15C95D1B743"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9C8036EF-0DAB-4BE1-8C2F-14E97E6095AE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1633</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1638</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode33E58719-0C06-417E-95FD-0512C11BD602"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode86C38757-CE1D-401D-BD1F-9BD7719CC988">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1720</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1733</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC59107E4-918E-4822-859F-B15C95D1B743"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA7C35CCB-2488-4CBB-8FD6-6245A5E61653">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1812</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1816</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBC7CC787-86EB-4557-9ABE-FFA51998FFAE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode08707F62-AA3A-4B70-885B-9AFD420B8AA9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1871</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1875</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBC7CC787-86EB-4557-9ABE-FFA51998FFAE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

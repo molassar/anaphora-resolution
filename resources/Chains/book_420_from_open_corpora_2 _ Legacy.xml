@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="980878" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA4F58E80-93F0-43B6-86A9-9B381D7F54E5">
+		<Basic:identifier xml:lang="ru-RU">г-на Авдеева</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">глава Минкультуры Александр Авдеев</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">его</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">министра</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">глава Минкультуры Александр Авдеев</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeDE3F4411-D671-48FB-8B77-CD4C6271F3AC">
+		<Basic:identifier xml:lang="ru-RU">россиянам</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">россияне</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">россиянам</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode78FA06F7-B570-475B-9058-0E0F2A6E7AFB">
+		<Basic:identifier xml:lang="ru-RU">они</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">они</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode9FC9E57B-5C53-42F4-ACDF-8C609EE112F2">
+		<Aux:document_text xml:lang="ru-RU">Культурная «цифра» ТВ поможет россиянам приобщиться к прекрасному.  К 2015 году россияне получат единый цифровой пакет телепередач культурной тематики. Такое обещание дал глава Минкультуры Александр Авдеев. По его словам, почти треть граждан страны не имеет возможности участвовать в культурной жизни: регулярно посещать театры, кинотеатры и концерты. Это связано с удалённостью городов и деревень, в которых они проживают, от крупных культурных центров.  Поскольку покрыть гастрольными турами столь значительную территорию не представляется возможным, выход, по мнению г-на Авдеева, может быть найден в широком распространении культурных телепередач с высоким качеством изображения. «К 2015 году мы эту систему создадим», — цитирует министра Lenta.ru.  О переходе на новый формат см. также «Непредсказуемая «цифра». </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC4261D00-AE05-4CA5-9EFA-4868D99A7087">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDE3F4411-D671-48FB-8B77-CD4C6271F3AC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6289BD91-D1CC-4169-8472-2C049492DD17">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDE3F4411-D671-48FB-8B77-CD4C6271F3AC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9110EE4D-93AA-4C3B-B0FC-6ACA5FD6CA14">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">205</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA4F58E80-93F0-43B6-86A9-9B381D7F54E5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDFA4A6DC-1E4C-4FDB-B5BC-C33E8042F34F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">210</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">213</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA4F58E80-93F0-43B6-86A9-9B381D7F54E5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode95556C21-279E-4262-AC6F-A765CB7E7390">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">222</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode78FA06F7-B570-475B-9058-0E0F2A6E7AFB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC9AB0101-650C-45E5-8B19-CEF8C97ED1DB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">409</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode78FA06F7-B570-475B-9058-0E0F2A6E7AFB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode30EC8C68-4746-48C5-B30F-B0D841FB9C28">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">570</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">582</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA4F58E80-93F0-43B6-86A9-9B381D7F54E5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3205048F-F83C-449A-9ABC-21729CD4362D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">734</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">742</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA4F58E80-93F0-43B6-86A9-9B381D7F54E5"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981751" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode93308F65-2018-4CA3-9F6C-317F4BD8EE91">
+		<Basic:identifier xml:lang="ru-RU">доклада</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">доклада</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeBBF8EEC5-D4CA-4717-A22B-1C15F1FF9BBC">
+		<Basic:identifier xml:lang="ru-RU">Витей Бочаровым</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Витей Бочаровым</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeAF2F6A17-1012-4C93-BEFE-FE9AD41A322B">
+		<Basic:identifier xml:lang="ru-RU">Институте Лингвистических Исследований</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Институте Лингвистических Исследований</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode7DBA99E5-5AF1-415F-8B18-68B697A2C3E5">
+		<Basic:identifier xml:lang="ru-RU">Тучков переулок дом 9, четвертый, кажется, этаж</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Тучков переулок, дом 9, четвертый, кажется, этаж</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode48198DCA-12C4-49FA-B6F3-538E23144980">
+		<Basic:identifier xml:lang="ru-RU">мы</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">мы</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode4B1B8FA3-EBCC-4149-B17B-926DF337883C">
+		<Aux:document_text xml:lang="ru-RU">тем, кто еще не в курсе Завтра (в понедельник), в 17-30, в Институте Лингвистических Исследований, мы с Витей Бочаровым даем представление:  Логико-лингвистический анализ текстов определений в энциклопедических и толковых словарях  Название доклада мы сами неделю учили, но речь там пойдет о понятных вещах - автоматическом пополнении онтологии на основе толкового словаря.  Прийти может любой желающий. Адрес: Тучков переулок дом 9, четвертый, кажется, этаж. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode5B733FE3-E545-4E47-A7B0-3759C70952C3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAF2F6A17-1012-4C93-BEFE-FE9AD41A322B"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode506B9735-9A1A-4E7E-BC2F-6468F2C70A4D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">119</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBBF8EEC5-D4CA-4717-A22B-1C15F1FF9BBC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE4D4400E-DFE1-42FC-9E29-20E336CFBDDE">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">241</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode93308F65-2018-4CA3-9F6C-317F4BD8EE91"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode888A7C62-DF53-4948-9AB9-02F0A9DB129F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">249</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">251</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode48198DCA-12C4-49FA-B6F3-538E23144980"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

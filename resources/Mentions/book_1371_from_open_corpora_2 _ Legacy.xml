@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981829" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode6B88FD62-3917-4878-9D5E-750BC74C81FB"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode57FB3968-6A58-408F-973A-21F4A2740785"/>
+	<Aux:TextAnnotations rdf:nodeID="bnode86A0E228-D187-4B8B-BB08-80FC97592D3C">
+		<Aux:document_text xml:lang="ru-RU">Понаставила сегодня зачетов. Сижу и думаю - что это было?  Аттракцион неслыханной щедрости?  Смирение перед неизбежным?  Или вполне приемлемый уровень знаний в масштабах нашего ПТУ?  Завтра экзамен. Поставлю всем трояков, потом напьюсь. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA59AA75A-420F-45A6-9010-0F5380C2F5DA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">176</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode57FB3968-6A58-408F-973A-21F4A2740785"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode588BFA05-ACD8-4F96-81D7-C515A29CB768">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">177</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode6B88FD62-3917-4878-9D5E-750BC74C81FB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

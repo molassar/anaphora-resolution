@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981916" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode2B5F71A6-78C4-4C69-A2D2-BFF3F2B26511">
+		<Basic:identifier xml:lang="ru-RU">которой</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">нефтяная биржа в Москве</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">нефтяная биржа в Москве</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeADC725DC-C566-4B77-B0C2-C61DFFFD4881">
+		<Basic:identifier xml:lang="ru-RU">Рубль</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">российская валюта</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">рубль</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">рубля</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">рублях</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">русского рубля</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">российская валюта</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode12476FCF-30AC-45BE-8138-3819259A8498">
+		<Basic:identifier xml:lang="ru-RU">Президента России</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Путина</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Президента России</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeC58ACD8C-4941-43B6-9413-1B64574BA77A">
+		<Aux:document_text xml:lang="ru-RU">Конвертируемый рубль  Сразу после ежегодного обращения Президента России, Министерство финансов приступило к работе по подготовке перевода рубля в полностью конвертируемую валюту к 1 июля. Ранее планировалось, что рубль станет конвертируемым к 1 января 2007 года.  Прежде всего должны быть отменены некоторые правила, относящиеся к обмену валюты, например, до сих пор ещё необходимый валютный резерв на счетах Центрального банка при валютных операциях и обязательное использование транзитных счетов для всех валютных поступлений российских предприятий.  Однако, эксперты полагают, что полная конвертируемость русского рубля не приведёт к увеличению спроса на российскую валюту за границей. Предложение Путина по организации нефтяной биржи в Москве, которой предполагается вести торги в рублях, не изменило бы это положение, считает экономическая газета «Ведомости».  Львиная доля всех договоров на поставку энергоносителей по прежнему обсчитывается в долларах. Рубль не используется также и в качестве валютного резерва. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8A30B2DD-0CD0-4CA2-8E0F-974855193D68">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode12476FCF-30AC-45BE-8138-3819259A8498"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDFC4D848-138C-4F0E-8318-4AB954C87797">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">144</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeADC725DC-C566-4B77-B0C2-C61DFFFD4881"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA70E1F20-F21C-4B8A-8A4C-C6A92188EB3B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">214</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">219</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeADC725DC-C566-4B77-B0C2-C61DFFFD4881"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode17EF970B-3F7B-420F-B2D0-A0C78DDE0832">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">609</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">623</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeADC725DC-C566-4B77-B0C2-C61DFFFD4881"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD1B68C1D-95DC-4FFC-A9DF-1231E5F28C1E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">659</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">676</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeADC725DC-C566-4B77-B0C2-C61DFFFD4881"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA2DA5690-B6F1-4F7F-92F7-D186F426DCB1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">702</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">708</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode12476FCF-30AC-45BE-8138-3819259A8498"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7617AEBC-3532-40CC-AEFF-7EFAD0EF358B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">724</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">747</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2B5F71A6-78C4-4C69-A2D2-BFF3F2B26511"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode143D5CE8-F4EA-4F78-9890-D2FB25446E37">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">749</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">756</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode2B5F71A6-78C4-4C69-A2D2-BFF3F2B26511"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDB555EBD-D6A1-4E9D-8088-482F9F9B0E32">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">786</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">792</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeADC725DC-C566-4B77-B0C2-C61DFFFD4881"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9BF440D8-D248-4C09-BE86-7A510C5EB8E8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">961</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">966</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeADC725DC-C566-4B77-B0C2-C61DFFFD4881"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

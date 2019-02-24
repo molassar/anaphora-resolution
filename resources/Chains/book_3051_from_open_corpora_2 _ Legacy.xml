@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983509" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode1FC14344-689F-495B-8D80-26C7E8C9545E">
+		<Basic:identifier xml:lang="ru-RU">архипелага</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">архипелага</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeB4EC6AC4-A80A-4413-BFBC-E0E2DC875C24">
+		<Basic:identifier xml:lang="ru-RU">Остров</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Средний</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Средний — остров архипелага Северная Земля</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Средний — остров архипелага Северная Земля</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeBAC8E03F-C554-4541-89C8-903E84A086A7">
+		<Aux:document_text xml:lang="ru-RU">Средний (остров, море Лаптевых)  Средний — остров архипелага Северная Земля. Административно относится к Таймырскому Долгано-Ненецкому району Красноярского края.  Расположен в центральной части архипелага в 2,3 километрах к северу от острова Октябрьской Революции в районе бухты Островной на расстоянии около 400 метров к северо-востоку от острова Ближнего.  Остров имеет неровную слегка вытянутую форму длиной около 450 метров. Существенных возвышенностей не имеет. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2D534A8D-7317-45F4-ABAA-9C3D90D1984A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB4EC6AC4-A80A-4413-BFBC-E0E2DC875C24"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode24937C53-8EF4-48C3-B715-1318AD7B0B8D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB4EC6AC4-A80A-4413-BFBC-E0E2DC875C24"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCFBA15E0-EABB-41AB-A94F-754BC053D20D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1FC14344-689F-495B-8D80-26C7E8C9545E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC49F702A-4AB8-4E49-AC62-0ABF61B0259B">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">194</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">204</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1FC14344-689F-495B-8D80-26C7E8C9545E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4CAA8CDE-4BC8-4A59-B4AA-5EA93311B8EF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">359</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">365</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeB4EC6AC4-A80A-4413-BFBC-E0E2DC875C24"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

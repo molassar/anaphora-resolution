@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="980954" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode218C2785-9634-4D17-B5A1-079993F78925">
+		<Basic:identifier xml:lang="ru-RU">Земле</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">земного шара</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">земного шара</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode0A5565AA-375B-40E7-9225-51C35C03F77E">
+		<Basic:identifier xml:lang="ru-RU">Москве</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">московскому</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">московскому</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode021ED3F2-D311-42FA-B4B2-0A32AB83C9D4">
+		<Basic:identifier xml:lang="ru-RU">Буря</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Самая сильная за последние пять лет магнитная буря</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Событие</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">мощнейшей магнитной бурей</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">упомянутая магнитная буря</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Самая сильная за последние пять лет магнитная буря</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode53341015-02C6-4AC6-8CEB-1770EED3D4B6">
+		<Basic:identifier xml:lang="ru-RU">«скорой помощи»</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">скорой помощи</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">«скорой помощи»</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode75ECFF68-59C5-4127-9866-052FA2103736">
+		<Aux:document_text xml:lang="ru-RU">Землю накрыло мощнейшей магнитной бурей  Количество вызовов «скорой помощи» увеличилось в полтора раза по сравнению с обычными днями.  Самая сильная за последние пять лет магнитная буря, начавшаяся на Земле в ночь на минувшую субботу, негативно сказалась на здоровье россиян. Количество вызовов «скорой помощи» только в Москве увеличилось в полтора раза по сравнению с обычными выходными. Медики связывают это с изменениями температуры и атмосферного давления, однако версии о влиянии магнитных бурь также не исключают.  NEWSru.com отмечает, что упомянутая магнитная буря была зарегистрирована обсерваториями земного шара в ночь с 5 на 6 августа. Событие началось около 22:00 по московскому времени в пятницу и имело характер удара: амплитуда колебаний магнитного поля за несколько десятков минут возросла с трех баллов до девяти по десятибалльной шкале. Буря носила планетарный характер и была зарегистрирована по данным целой сети геомагнитных обсерваторий, распределенных по земному шару, в том числе по данным обсерватории «Москва».  Как отмечают специалисты, бури такой силы чрезвычайно редки. Так, с 2000 года было зарегистрировано только 28 дней, когда индекс магнитных колебаний достигал или превышал 8 баллов. В последний раз это происходило почти пять лет назад, в ночь с 14 на 15 декабря 2006 года на фоне серии крупных вспышек высшего Х-класса. Это была последняя такая серия в последнем солнечном цикле, после чего произошел глубокий спад активности Солнца. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode51064F00-E4F2-42FD-BDD4-FB757F8CF5A9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode218C2785-9634-4D17-B5A1-079993F78925"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode344D2A09-8B09-4D85-9B36-387DB026B41E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode021ED3F2-D311-42FA-B4B2-0A32AB83C9D4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode550CEA97-BEAB-4C93-8B1E-15BC665A8346">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode53341015-02C6-4AC6-8CEB-1770EED3D4B6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8426ED35-5605-4C4A-B31A-A65EAFFF5088">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">135</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode021ED3F2-D311-42FA-B4B2-0A32AB83C9D4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3DBC8E8F-5156-4853-ABE8-1FD488FD882C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">201</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">206</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode218C2785-9634-4D17-B5A1-079993F78925"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3C3EA3B1-DA33-430D-8927-7769BD94A9A1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">295</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">310</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode53341015-02C6-4AC6-8CEB-1770EED3D4B6"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD7F2032C-4763-48FF-802C-DD457DE66C79">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">320</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0A5565AA-375B-40E7-9225-51C35C03F77E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2F609537-66CF-4B68-B520-C072CCFFE388">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">571</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode021ED3F2-D311-42FA-B4B2-0A32AB83C9D4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode02FFC23A-BCB6-4ED5-B30C-ADED96CB2FE9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">609</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">621</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode218C2785-9634-4D17-B5A1-079993F78925"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAB57DA74-7529-4942-9D1C-0B8915B3F457">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">647</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">654</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode021ED3F2-D311-42FA-B4B2-0A32AB83C9D4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode602F1208-D0A4-4523-9E34-D75E12085B1E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">679</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">690</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode0A5565AA-375B-40E7-9225-51C35C03F77E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode474EDFAD-53EA-41F7-A502-1F200CD50DC7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">855</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">859</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode021ED3F2-D311-42FA-B4B2-0A32AB83C9D4"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA0169164-AE42-4FB1-9480-DE4C059BB2F3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">978</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">990</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode218C2785-9634-4D17-B5A1-079993F78925"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

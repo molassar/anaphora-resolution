@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="980930" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeBB582F2E-0217-48C5-A225-D0D7B623CD8D">
+		<Basic:identifier xml:lang="ru-RU">родителей</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">родителей российских школьников, оспаривавших законность приказа Минобрнауки РФ о проведении Единого государственного экзамена (ЕГЭ)</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">родителей российских школьников, оспаривавших законность приказа Минобрнауки РФ о проведении Единого государственного экзамена (ЕГЭ)</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeAF09F7C3-AA48-4E65-9B67-0C1FCDACDB05">
+		<Basic:identifier xml:lang="ru-RU">иск родителей</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">иск родителей российских школьников, оспаривавших законность приказа Минобрнауки РФ о проведении Единого государственного экзамена (ЕГЭ)</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">иск родителей российских школьников, оспаривавших законность приказа Минобрнауки РФ о проведении Единого государственного экзамена (ЕГЭ)</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode30C6E883-4AF6-4F52-8F4D-EB57197D90DD">
+		<Basic:identifier xml:lang="ru-RU">Верховный суд РФ</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Верховный суд России</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">суд</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Верховный суд России</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeDC6160A2-A57C-48B7-B51B-22832B4FBD31">
+		<Basic:identifier xml:lang="ru-RU">ЕГЭ</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Единого государственного экзамена (ЕГЭ)</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Единого государственного экзамена (ЕГЭ)</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode4A8A9115-90A8-4B93-9D62-E9489F280C11">
+		<Basic:identifier xml:lang="ru-RU">РФ</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">России</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">российских</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">российских</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeE93543E9-0CEE-4C44-92A0-DB087356F068">
+		<Aux:document_text xml:lang="ru-RU">ЕГЭ — в законе  Верховный суд России отклонил иск родителей.  Верховный суд РФ отклонил иск родителей российских школьников, оспаривавших законность приказа Минобрнауки РФ о проведении Единого государственного экзамена (ЕГЭ), передает корреспондент РИА «Новости» из зала суда.  Таким образом, суд подтвердил законность существующих правил, по которым проводится государственная аттестация в виде ЕГЭ. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD75F083D-FF32-4361-B02B-727CFBED339C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDC6160A2-A57C-48B7-B51B-22832B4FBD31"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeED530686-EC0C-401F-9DAC-C7DF54263C2E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode30C6E883-4AF6-4F52-8F4D-EB57197D90DD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD7B3870B-FE9B-4CCA-A530-8B3E0A8B69B7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4A8A9115-90A8-4B93-9D62-E9489F280C11"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode59793F16-7472-4465-9607-D0A1E78534E1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAF09F7C3-AA48-4E65-9B67-0C1FCDACDB05"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF20B313F-8D13-404E-B47B-99B3C379757E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBB582F2E-0217-48C5-A225-D0D7B623CD8D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2F2F8DEF-3DDA-4C02-9497-20A6C2DF3A75">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode30C6E883-4AF6-4F52-8F4D-EB57197D90DD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC5F70C62-2A18-44E1-9599-6CEC4F886EDB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4A8A9115-90A8-4B93-9D62-E9489F280C11"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA6413DA7-95E3-402D-9619-D46CB35310D2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">224</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAF09F7C3-AA48-4E65-9B67-0C1FCDACDB05"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7D8E0913-C46D-4F60-A5C6-968DE9B0838F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">92</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">224</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBB582F2E-0217-48C5-A225-D0D7B623CD8D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode45A4170A-69E0-4A90-BBBA-FC1ACBEE2B93">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">102</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4A8A9115-90A8-4B93-9D62-E9489F280C11"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE48B96DE-7F5C-4A9F-8F0B-5029D27AE538">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">169</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4A8A9115-90A8-4B93-9D62-E9489F280C11"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeAF7D8444-FDE3-4D00-90DE-869DAC32D1A2">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">218</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDC6160A2-A57C-48B7-B51B-22832B4FBD31"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode8104E519-0668-41ED-B1D4-F542DB7F83F6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">220</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">223</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDC6160A2-A57C-48B7-B51B-22832B4FBD31"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD38217D9-2AB8-4C11-B696-3D987DF1B4C3">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">293</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">296</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode30C6E883-4AF6-4F52-8F4D-EB57197D90DD"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA7332E05-C8ED-4141-8FAA-0A0875AB7505">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">396</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">399</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeDC6160A2-A57C-48B7-B51B-22832B4FBD31"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

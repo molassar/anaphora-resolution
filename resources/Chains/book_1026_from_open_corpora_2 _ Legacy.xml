@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981484" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode754E015F-3698-49E1-AC49-7EA5AABB6924">
+		<rdfs:label xml:lang="ru-RU">доклад о своей финансовой деятельности</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeBED76800-8BE3-471A-A88B-E16D6AC5DEF3">
+		<rdfs:label xml:lang="ru-RU">News Corp.</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode1B532B26-AF78-41BD-93C2-A9D8C88FBBF3">
+		<rdfs:label xml:lang="ru-RU">владелец News Corp. Руперт Мёрдок. Его</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode144FF592-8FFF-4DB6-9EBE-649E7FC16213">
+		<rdfs:label xml:lang="ru-RU">Британская телерадиовещательная корпорация BBC</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeA6FDEB58-2BE2-49AC-838D-CA5FBBB7D8DA">
+		<rdfs:label xml:lang="ru-RU">аудиторской компании Deloitte</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeAB6D9D6D-F5AD-41EA-9752-A04A1F6DD237">
+		<Aux:document_text xml:lang="ru-RU">ВВС ищет оправданий Корпорация хочет доказать, что не транжирит деньги.  Британская телерадиовещательная корпорация BBC поручила аудиторской компании Deloitte подготовить доклад о своей финансовой деятельности. Главная его задача — доказать необоснованность претензий оппонентов, которые считают расходы компании неоправданно высокими. Чаще других с такими заявлениями выступает владелец News Corp. Руперт Мёрдок. Его и других влиятельных британцев не устраивают раздутые зарплаты топ-менеджеров BBC и чрезмерная стоимость подписки на её телеканалы, напоминает Lenta.ru.  Между тем первые выводы Deloitte уже показали, что получение BBC платы от подписчиков позволяет ей закупать контент у независимых продюсерских компаний и собирать для британской экономики 7,6 млрд фунтов в год. Смогут ли аудиторы оправдать высокие затраты на оплату труда топ-менеджеров ВВС, станет ясно чуть позже.  Подробнее о развитии телевидения читайте в статье Частного корреспондента «Непредсказуемая «цифра»» </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode28DC9C5D-CFF5-4415-AFCE-2F92DEB22697">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode144FF592-8FFF-4DB6-9EBE-649E7FC16213"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA1320B68-91EE-42E9-A206-084AA68968E8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode144FF592-8FFF-4DB6-9EBE-649E7FC16213"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCAF58ED2-B355-449E-8777-9D71CBB10686">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">119</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode144FF592-8FFF-4DB6-9EBE-649E7FC16213"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6259BD3A-F1B4-46D1-8A58-433FB3265D5D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">129</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">158</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA6FDEB58-2BE2-49AC-838D-CA5FBBB7D8DA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6013954E-4DAF-4026-98B4-3F54B9A14953">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode754E015F-3698-49E1-AC49-7EA5AABB6924"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF80F5196-8EF5-47C6-A22E-9F2DE198A289">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA6FDEB58-2BE2-49AC-838D-CA5FBBB7D8DA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6C7A8CB9-6D0F-47CE-8747-A44C1684F50A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">219</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">222</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode754E015F-3698-49E1-AC49-7EA5AABB6924"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode53E9DCCE-BC6F-41AB-B263-4C1026A7FB27">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">379</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">412</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1B532B26-AF78-41BD-93C2-A9D8C88FBBF3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode90FB65FB-930A-492C-B458-A64B32C2E804">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">388</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">398</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBED76800-8BE3-471A-A88B-E16D6AC5DEF3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode186929C0-E47C-4E96-8647-9DF67538F2CC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">414</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">417</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode1B532B26-AF78-41BD-93C2-A9D8C88FBBF3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode58F3A42F-C372-4D70-A3F1-6C0ECCBBC426">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">496</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">499</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode144FF592-8FFF-4DB6-9EBE-649E7FC16213"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF9C7F791-A30C-4A1B-B7B3-85794A393948">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">535</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">537</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeBED76800-8BE3-471A-A88B-E16D6AC5DEF3"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeDD2622ED-A8CF-4F66-8C8E-9260C1F791BF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">596</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">604</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeA6FDEB58-2BE2-49AC-838D-CA5FBBB7D8DA"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA8CBC18E-67E8-4785-B139-062FB6BEC577">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">633</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">636</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode144FF592-8FFF-4DB6-9EBE-649E7FC16213"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode06332C91-350B-4139-880B-C345CD3A4524">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">668</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">670</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode144FF592-8FFF-4DB6-9EBE-649E7FC16213"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode55B311BA-22FA-4C30-B93E-8980646CED4D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">859</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">862</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode144FF592-8FFF-4DB6-9EBE-649E7FC16213"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

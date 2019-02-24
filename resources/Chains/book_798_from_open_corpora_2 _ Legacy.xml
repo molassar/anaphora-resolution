@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981256" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode4FCAA4C4-3E74-45E7-B807-0FE04DB2835D">
+		<Basic:identifier xml:lang="ru-RU">«Чисто по-женски»</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Его</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">его</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">журнала</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">который</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">нового 60-страничного журнала</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">новый женский журнал</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">нового 60-страничного журнала</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode53A10026-1713-47EB-9764-B69E71A23D58">
+		<Basic:identifier xml:lang="ru-RU">России</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">нашей стране</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">нашей стране</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode76F3AFDF-D0C0-4495-9EA5-EA7BBFE8BFFC">
+		<Basic:identifier xml:lang="ru-RU">Bauer Media</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">медиахолдингом Bauer Media</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">медиахолдингом Bauer Media</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnodeDBFB8367-0EA8-456B-BFEB-12DC62E60E60">
+		<Aux:document_text xml:lang="ru-RU">«Чисто по-женски» Bauer Media начинает издавать в России новый женский журнал.  Запуск нового 60-страничного журнала, который получил красноречивое название «Чисто по-женски», запланирован на 2 марта. Периодичность выхода его в свет — два раза в месяц. Стартовый тираж — 300 тыс. экземпляров.  Отметим, что «Чисто по-женски» станет седьмым журналом в сегменте женских изданий, выпускаемых медиахолдингом Bauer Media в нашей стране. Его содержание будут составлять «готовые решения для повседневных задач», жизненные истории, интервью со знаменитостями, игры и сканворды. Предполагается, что читательницами журнала станут женщины от 25 лет.  Напомним, Bauer Media уже издаёт в России шесть журналов, рассчитанных на женскую аудиторию: «Народный совет», «Женский целебник», «Просто вкусно», «Планета женщины», «Всё для женщины», «Тайны звёзд» и «Звёзды и советы». </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode3B72F8C8-F795-4D89-96FD-EBBA7B9F1182">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4FCAA4C4-3E74-45E7-B807-0FE04DB2835D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9D5D585F-6EC6-4073-A7B5-08858F0EFBEC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode76F3AFDF-D0C0-4495-9EA5-EA7BBFE8BFFC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeBE39C933-C950-493D-B651-AEFF2D9301D7">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode53A10026-1713-47EB-9764-B69E71A23D58"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode62B29EC3-DE8D-4368-921D-1EE8AA9F2EE0">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4FCAA4C4-3E74-45E7-B807-0FE04DB2835D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA28CEDE5-E394-4399-BBB1-86C89FC461AB">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4FCAA4C4-3E74-45E7-B807-0FE04DB2835D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4869851E-ACE2-4A96-B387-5ACB89C6A658">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">118</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4FCAA4C4-3E74-45E7-B807-0FE04DB2835D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF1D81D01-017A-41DD-A533-D76F60FBAFD1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">222</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4FCAA4C4-3E74-45E7-B807-0FE04DB2835D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode19E31249-5553-4F7D-9F2E-FA0CE430C342">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">307</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4FCAA4C4-3E74-45E7-B807-0FE04DB2835D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA5E6977F-A1E2-4176-8E9B-1FA30FC8F92D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">389</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">415</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode76F3AFDF-D0C0-4495-9EA5-EA7BBFE8BFFC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode50644E85-D1B3-4F76-982B-03EFAA26E4C5">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">418</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">430</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode53A10026-1713-47EB-9764-B69E71A23D58"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode05F26DCB-B5BC-490C-8CA5-D6ECA8A6D692">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">435</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4FCAA4C4-3E74-45E7-B807-0FE04DB2835D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB1F86F59-3D8C-4310-94C6-78C9DF43523F">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">606</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">613</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4FCAA4C4-3E74-45E7-B807-0FE04DB2835D"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode07733DAA-B09F-4630-A31B-A7B32ABCC38D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">651</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">662</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode76F3AFDF-D0C0-4495-9EA5-EA7BBFE8BFFC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6603D43F-3FC8-432D-B90E-561840CC8449">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">676</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">682</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode53A10026-1713-47EB-9764-B69E71A23D58"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

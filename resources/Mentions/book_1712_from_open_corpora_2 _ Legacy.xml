@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982170" markupID="21837" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeEBBE1935-8685-4438-BB1F-2B83A8CFD937"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode4A1F4608-040A-4C6F-BD7C-0C2B6DABBE33"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeE6EEDE5E-F5DA-4A90-9181-E100251E513E"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode742E2D8C-FBD0-4636-A948-F531DFF233A1"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeF12D5A30-67C5-42CB-81D5-D20BE0F42389"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode01289695-88B0-457E-8217-B383BA4501EC"/>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC0115C93-F9E4-45D2-A780-32849DA5396F"/>
+	<Aux:TextAnnotations rdf:nodeID="bnode8C2CEBCA-BD2A-49BC-B754-F58686FF26D0">
+		<Aux:document_text xml:lang="ru-RU">Программисты с сединой, машины без крыши, плесневелый сыр и старое вино  http://coding-and-more.blogspot.com/2011/06/its-official-developers-get-better-with.html Для тех, кто не читает (по какой-то загадочной причине) по английски: StackOverflow сделал доступным демографические данные по своей аудитории, включая "качество" (количество upvotes) и количество ответов и вопросов.  Выводы: Чем программист старше, тем он лучше. Чем программисты старше, тем их меньше (период полураспада популяции - 6-7 лет) Чем программист старше, тем он меньше спрашивает, и больше отвечает Качество ответа почти не зависит от возраста  Такие дела, да. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode03705CC3-FE9C-4715-9186-20676CD88D4E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">232</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">245</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC0115C93-F9E4-45D2-A780-32849DA5396F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA858E3E5-04D2-433A-B6B9-5C291EE3ED89">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">392</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">403</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode01289695-88B0-457E-8217-B383BA4501EC"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode47D02231-4FD3-4F9A-90C8-31CAE284FC5E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">416</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">418</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeF12D5A30-67C5-42CB-81D5-D20BE0F42389"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCD3E90BD-0919-4A26-9954-3BC806A923CD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">430</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">442</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode742E2D8C-FBD0-4636-A948-F531DFF233A1"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2385130C-D92E-4816-87C8-1100201EBA3D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">455</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">457</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeE6EEDE5E-F5DA-4A90-9181-E100251E513E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4A8B5409-2F31-41D7-ADE4-C046120677CA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">510</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">521</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode4A1F4608-040A-4C6F-BD7C-0C2B6DABBE33"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFC8762C3-3F65-4F32-B830-9C13442100DF">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">534</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">536</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEBBE1935-8685-4438-BB1F-2B83A8CFD937"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

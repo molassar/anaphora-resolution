@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="983011" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode9A89B2E2-77E1-4434-ABF7-63492CD5E532">
+		<rdfs:label xml:lang="ru-RU">граф</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeAC6BAF79-46FC-4B36-8354-1FB76987DADE">
+		<Basic:identifier xml:lang="ru-RU">Англии</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Англия</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode3525FA76-B022-47E7-9BC4-91FA80A12160">
+		<Basic:identifier xml:lang="ru-RU">Маркизы</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">маркиза</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">маркизы</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Маркизы</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeAF777E83-2260-413F-BD2C-8A2D864F7357">
+		<Basic:identifier xml:lang="ru-RU">маркграфы</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">маркграфы</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode9E7E1F2F-42A7-4E73-B51F-C6AC2ED7B117">
+		<Aux:document_text xml:lang="ru-RU">Маркизы, маркграфы и прочие  Брат подкинул вопрос, на который я с ходу не смог ответить: есть ли в английской аристократической табели о рангах аналог маркиза? Онлайновый словарь честно перевел маркиза на английский... французским словом.  Если вдуматься - да, конечно, откуда в Англии маркизы и маркграфы, когда там марок сроду не было, не считая серебряных, а потом почтовых? Но, с другой стороны, если эрл равен графу, как указывают справочники, а не выше его, как континентальные маркизы, то британская аристократическая иерархия получается и вовсе кургузой - всего два шага от барона до герцога. Нутром чую, что не должно так быть, но проверить не могу. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB6756D5E-E7D0-4B28-87A0-D7CE349958C6">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3525FA76-B022-47E7-9BC4-91FA80A12160"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode858A832A-5AAF-47E1-BB5B-1FF7A0932FA8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAF777E83-2260-413F-BD2C-8A2D864F7357"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9805D44E-1B8B-4CD9-8B63-8F6292E5C4A8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAC6BAF79-46FC-4B36-8354-1FB76987DADE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0777DC2C-3B6F-42BD-9E78-C3BE0C2D71EC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">151</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">158</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3525FA76-B022-47E7-9BC4-91FA80A12160"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode98CE21DE-A2DE-4323-BEF5-F8EF58384ECD">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">194</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">201</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3525FA76-B022-47E7-9BC4-91FA80A12160"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode963F0B6F-8494-4FDE-AF9E-622C29ABF4AC">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">279</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">285</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAC6BAF79-46FC-4B36-8354-1FB76987DADE"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode84E3E11C-7B7E-4BD4-B9BE-4BC7EEEFC511">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">286</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">293</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode3525FA76-B022-47E7-9BC4-91FA80A12160"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode796274D1-0773-4698-9FBC-4F06D321460A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">296</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">305</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeAF777E83-2260-413F-BD2C-8A2D864F7357"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB86EA986-D956-4E49-B19B-754A1D8352DA">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">415</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">420</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9A89B2E2-77E1-4434-ABF7-63492CD5E532"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9A21A539-6C9D-464A-9A68-551F7067EE63">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">459</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">462</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode9A89B2E2-77E1-4434-ABF7-63492CD5E532"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="982193" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeFD96D778-FCC3-45FB-AF91-5457E3A5EDCB">
+		<Basic:identifier xml:lang="ru-RU">Российской Федерации</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Российская Федерация</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeEA5E50E5-5F5C-4735-B5B9-D012B80C1B7F">
+		<Basic:identifier xml:lang="ru-RU">арбитражных судов</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">арбитражных судов</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeD09AB6B9-BCC1-4DE5-9B58-CAB7F2808156">
+		<Basic:identifier xml:lang="ru-RU">Конституцией Российской Федерации</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">Конституции Российской Федерации</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Конституцией Российской Федерации</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode5306C477-9BF6-46E3-B981-56C8547318C9">
+		<Basic:identifier xml:lang="ru-RU">их</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">судей арбитражных судов</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">судьи арбитражных судов</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">судьи арбитражных судов</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode0FDBEB33-F019-454B-82D1-7D8F6858CB8E">
+		<Aux:document_text xml:lang="ru-RU">Статья 5. Независимость судей арбитражных судов  1. При осуществлении правосудия судьи арбитражных судов независимы, подчиняются только Конституции Российской Федерации и федеральному закону.  2. Какое-либо постороннее воздействие на судей арбитражных судов, вмешательство в их деятельность государственных органов, органов местного самоуправления, иных органов, организаций, должностных лиц или граждан запрещаются и влекут за собой ответственность, установленную законом.  3. Гарантии независимости судей арбитражных судов устанавливаются Конституцией Российской Федерации и федеральным законом. </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB1A2360E-D0DA-4A10-ACC8-D061C4F4B44A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5306C477-9BF6-46E3-B981-56C8547318C9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4A9DFC38-1EA1-4398-943B-3E39B422C3B8">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEA5E50E5-5F5C-4735-B5B9-D012B80C1B7F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7DFA7D21-223B-496D-85E6-5334BA1A4657">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">81</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5306C477-9BF6-46E3-B981-56C8547318C9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeF4132227-1A2E-4BBA-8166-100F06E1799C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEA5E50E5-5F5C-4735-B5B9-D012B80C1B7F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode6E98E63E-54D5-4DE7-92A7-88ACC65A1851">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">136</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD09AB6B9-BCC1-4DE5-9B58-CAB7F2808156"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2686C996-14D6-42B0-8E94-4133A299CD1E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">148</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFD96D778-FCC3-45FB-AF91-5457E3A5EDCB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFB58EAC2-2B11-4123-A452-8F89C0654984">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">234</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">257</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5306C477-9BF6-46E3-B981-56C8547318C9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode0BA98AF7-1DBE-4158-AB14-EE8305B7BA84">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">257</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEA5E50E5-5F5C-4735-B5B9-D012B80C1B7F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode549975DF-DAFE-4FA0-916D-B7181C311BED">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">275</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">277</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5306C477-9BF6-46E3-B981-56C8547318C9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode1A5FBD26-BEA7-4ECA-99B6-E086BFC32634">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">501</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">524</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode5306C477-9BF6-46E3-B981-56C8547318C9"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode18DB12DB-57E2-4555-B78A-54FBAAC7B97E">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">507</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">524</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeEA5E50E5-5F5C-4735-B5B9-D012B80C1B7F"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode7AE90906-96A9-4DB7-9926-44A834652E77">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">541</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">574</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeD09AB6B9-BCC1-4DE5-9B58-CAB7F2808156"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode40491931-9F7D-441C-873D-E16133D08C26">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">554</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">574</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeFD96D778-FCC3-45FB-AF91-5457E3A5EDCB"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>

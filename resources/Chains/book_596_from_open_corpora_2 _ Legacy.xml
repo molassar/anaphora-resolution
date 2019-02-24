@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?OntoDPSData docID="981054" markupID="22136" OntoTechnologyVersion="3.11.20.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:Aux="http://www.abbyy.com/ns/Aux#" xmlns:RomipAnaphora="http://www.abbyy.com/ns/RomipAnaphora#" xmlns:Basic="http://www.abbyy.com/ns/Basic#">
+	<RomipAnaphora:RomipThing rdf:nodeID="bnode59FDEAC3-AE83-46E9-852E-9C8842A74814">
+		<Basic:identifier xml:lang="ru-RU">СССР</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">СССР</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC1F8EC9A-6CA8-4286-AF8F-0493202E121E">
+		<Basic:identifier xml:lang="ru-RU">Рунета</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">Рунета</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<RomipAnaphora:RomipThing rdf:nodeID="bnodeC7007F32-A7F2-4C4C-85C0-306739B17826">
+		<Basic:identifier xml:lang="ru-RU">домен SU</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">домен верхнего уровня</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">домен верхнего уровня .SU</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">домена</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">домена .SU</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">зона .SU</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">зоне SU</Basic:identifier>
+		<Basic:identifier xml:lang="ru-RU">который</Basic:identifier>
+		<rdfs:label xml:lang="ru-RU">домен верхнего уровня .SU</rdfs:label>
+	</RomipAnaphora:RomipThing>
+	<Aux:TextAnnotations rdf:nodeID="bnode52A1141E-A9F7-469D-BB81-0CE65125D1E9">
+		<Aux:document_text xml:lang="ru-RU">Юбилей домена .SU Двадцать лет назад был зарегистрирован домен верхнего уровня для СССР.  Ровно 20 лет назад, 19 сентября 1990 года, в базе данных InterNIC был зарегистрирован домен верхнего уровня .SU для применения на территории СССР, что положило начало отечественному интернету. К моменту появления домена .RU в апреле 1994 года в зоне SU было зарегистрировано несколько тысяч доменов.  В течение 20 лет зона .SU составляет небольшой, но стабильный сегмент Рунета. На 1 сентября 2010 года в зоне SU зарегистрировано 88 тыс. доменов. Первоначально домен SU был предназначен для использования для электронной переписки и массовая регистрация доменов второго уровня в зоне .SU не предполагалась. В настоящее время поддержку домена, который уже не является географическим, осуществляют Фонд развития Интернет и Технический центр Интернет.  Подробнее об истории Рунета читайте в статье Частного корреспондента «Алексей Солдатов: «Интернет, как и любая другая организованная среда, управляется законами»» </Aux:document_text>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9F629CEF-DED3-41E1-BD4C-7F20F22BE424">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC7007F32-A7F2-4C4C-85C0-306739B17826"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeB3DC212B-7A83-4648-BEA2-9E502861E426">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC7007F32-A7F2-4C4C-85C0-306739B17826"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode4519FFF8-10AC-4A29-9707-205657DE6A7C">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode59FDEAC3-AE83-46E9-852E-9C8842A74814"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeD288F112-EA31-4F33-8A34-95CBBAEFCBE9">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">176</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">201</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC7007F32-A7F2-4C4C-85C0-306739B17826"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeCB5CBC3A-5ABF-4F98-9E7B-68FF567B0A8D">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">231</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnode59FDEAC3-AE83-46E9-852E-9C8842A74814"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode93C5835C-B9B9-46B4-A502-E0E9ACCB81E4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">257</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">281</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC1F8EC9A-6CA8-4286-AF8F-0493202E121E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode9EDA8BED-1AC8-433C-8B6B-D45A171B9355">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">335</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">342</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC7007F32-A7F2-4C4C-85C0-306739B17826"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeFA4EB2B6-C37E-47A6-906C-D94B81697185">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">408</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">416</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC7007F32-A7F2-4C4C-85C0-306739B17826"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode24C28C87-A32C-4D8E-B342-91023171AFF4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">461</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">467</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC1F8EC9A-6CA8-4286-AF8F-0493202E121E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode574D669E-8AC7-4541-89C0-CA6DCDF26262">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">495</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">502</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC7007F32-A7F2-4C4C-85C0-306739B17826"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA6EFB91F-1F16-4435-BE25-A3859AB418D4">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">551</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">559</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC7007F32-A7F2-4C4C-85C0-306739B17826"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnode2A2EC70C-37DF-4776-9C8F-C6A5DE8BE129">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">669</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">677</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC7007F32-A7F2-4C4C-85C0-306739B17826"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeA43C5E44-4E8C-4F30-898A-FB520D241937">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">725</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">731</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC7007F32-A7F2-4C4C-85C0-306739B17826"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeC3E79312-4689-4C60-9727-4AA511EEFEF1">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">733</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">740</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC7007F32-A7F2-4C4C-85C0-306739B17826"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+		<Aux:annotation>
+			<Aux:InstanceAnnotation rdf:nodeID="bnodeE0073FEA-39EA-4E0E-A11F-99ECFE63D06A">
+				<Aux:annotation_start rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">861</Aux:annotation_start>
+				<Aux:annotation_end rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">867</Aux:annotation_end>
+				<Aux:instance rdf:nodeID="bnodeC1F8EC9A-6CA8-4286-AF8F-0493202E121E"/>
+			</Aux:InstanceAnnotation>
+		</Aux:annotation>
+	</Aux:TextAnnotations>
+</rdf:RDF>
